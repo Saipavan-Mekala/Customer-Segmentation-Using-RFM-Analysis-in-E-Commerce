@@ -1,0 +1,1501 @@
+﻿Customer_ID,Customer_Name,Age,Gender,Location,Order_ID,Order_Date,Product_Category,Product_Name,Purchase_Amount ($),Payment_Method,Recency (Days),Frequency (Orders),Monetary (Total Spend $)
+C0001,Customer 1,56,Female,Miami,O1001,2023-01-01,Beauty,Lipstick,503,PayPal,139,26,13078
+C0002,Customer 2,46,Male,Chicago,O1002,2023-01-02,Fashion,Handbag,1233,PayPal,205,19,23427
+C0003,Customer 3,32,Female,Miami,O1003,2023-01-03,Electronics,Handbag,1288,PayPal,73,26,33488
+C0004,Customer 4,60,Male,Houston,O1004,2023-01-04,Home Decor,Table Lamp,1212,Debit Card,4,37,44844
+C0005,Customer 5,25,Female,New York,O1005,2023-01-05,Home Decor,Handbag,556,Net Banking,76,27,15012
+C0006,Customer 6,38,Male,Miami,O1006,2023-01-06,Beauty,Table Lamp,603,Net Banking,329,30,18090
+C0007,Customer 7,56,Male,Miami,O1007,2023-01-07,Home Decor,Running Shoes,398,Net Banking,77,30,11940
+C0008,Customer 8,36,Female,New York,O1008,2023-01-08,Fashion,Lipstick,1431,Credit Card,304,3,4293
+C0009,Customer 9,40,Male,Chicago,O1009,2023-01-09,Electronics,Smartphone,1765,PayPal,256,43,75895
+C0010,Customer 10,28,Female,New York,O1010,2023-01-10,Fashion,Lipstick,167,PayPal,102,7,1169
+C0011,Customer 11,28,Male,Miami,O1011,2023-01-11,Sports,Table Lamp,1037,Debit Card,106,49,50813
+C0012,Customer 12,41,Female,Chicago,O1012,2023-01-12,Beauty,Table Lamp,176,Debit Card,333,9,1584
+C0013,Customer 13,53,Female,Chicago,O1013,2023-01-13,Home Decor,Lipstick,1501,Credit Card,39,41,61541
+C0014,Customer 14,57,Female,New York,O1014,2023-01-14,Sports,Table Lamp,969,Credit Card,314,42,40698
+C0015,Customer 15,41,Female,Miami,O1015,2023-01-15,Home Decor,Handbag,418,Net Banking,275,13,5434
+C0016,Customer 16,20,Male,Houston,O1016,2023-01-16,Electronics,Handbag,1445,Debit Card,88,15,21675
+C0017,Customer 17,39,Male,Miami,O1017,2023-01-17,Electronics,Table Lamp,1237,PayPal,211,5,6185
+C0018,Customer 18,19,Female,Los Angeles,O1018,2023-01-18,Electronics,Table Lamp,203,Net Banking,77,29,5887
+C0019,Customer 19,41,Female,Houston,O1019,2023-01-19,Home Decor,Handbag,244,PayPal,77,35,8540
+C0020,Customer 20,61,Female,Chicago,O1020,2023-01-20,Sports,Table Lamp,727,Net Banking,28,27,19629
+C0021,Customer 21,47,Male,Houston,O1021,2023-01-21,Electronics,Table Lamp,1183,PayPal,245,27,31941
+C0022,Customer 22,55,Male,Chicago,O1022,2023-01-22,Sports,Lipstick,1192,Credit Card,66,8,9536
+C0023,Customer 23,19,Male,Chicago,O1023,2023-01-23,Home Decor,Smartphone,1312,Net Banking,266,32,41984
+C0024,Customer 24,38,Male,Houston,O1024,2023-01-24,Sports,Handbag,825,PayPal,205,20,16500
+C0025,Customer 25,50,Female,Chicago,O1025,2023-01-25,Home Decor,Lipstick,413,PayPal,58,10,4130
+C0026,Customer 26,29,Female,Chicago,O1026,2023-01-26,Home Decor,Smartphone,902,Debit Card,201,13,11726
+C0027,Customer 27,39,Female,Los Angeles,O1027,2023-01-27,Beauty,Table Lamp,687,Net Banking,225,29,19923
+C0028,Customer 28,61,Male,Miami,O1028,2023-01-28,Home Decor,Table Lamp,1344,PayPal,142,35,47040
+C0029,Customer 29,42,Male,Miami,O1029,2023-01-29,Home Decor,Lipstick,77,Debit Card,84,8,616
+C0030,Customer 30,44,Male,Los Angeles,O1030,2023-01-30,Fashion,Table Lamp,1496,PayPal,143,29,43384
+C0031,Customer 31,59,Female,Houston,O1031,2023-01-31,Electronics,Running Shoes,97,Net Banking,352,31,3007
+C0032,Customer 32,45,Female,New York,O1032,2023-02-01,Beauty,Lipstick,226,Credit Card,33,41,9266
+C0033,Customer 33,33,Male,New York,O1033,2023-02-02,Beauty,Smartphone,10,Net Banking,152,30,300
+C0034,Customer 34,32,Female,New York,O1034,2023-02-03,Beauty,Lipstick,1168,Net Banking,158,22,25696
+C0035,Customer 35,64,Male,Los Angeles,O1035,2023-02-04,Fashion,Handbag,1730,PayPal,141,21,36330
+C0036,Customer 36,61,Male,Los Angeles,O1036,2023-02-05,Home Decor,Lipstick,1384,PayPal,251,12,16608
+C0037,Customer 37,20,Female,Chicago,O1037,2023-02-06,Electronics,Table Lamp,149,Net Banking,303,11,1639
+C0038,Customer 38,54,Male,New York,O1038,2023-02-07,Sports,Table Lamp,627,Debit Card,112,2,1254
+C0039,Customer 39,24,Female,Houston,O1039,2023-02-08,Home Decor,Running Shoes,142,Debit Card,144,41,5822
+C0040,Customer 40,38,Male,Houston,O1040,2023-02-09,Fashion,Running Shoes,1653,Debit Card,209,2,3306
+C0041,Customer 41,26,Female,New York,O1041,2023-02-10,Home Decor,Running Shoes,187,PayPal,224,34,6358
+C0042,Customer 42,56,Female,New York,O1042,2023-02-11,Home Decor,Smartphone,819,PayPal,43,3,2457
+C0043,Customer 43,35,Female,New York,O1043,2023-02-12,Fashion,Running Shoes,1391,Net Banking,264,16,22256
+C0044,Customer 44,21,Male,Los Angeles,O1044,2023-02-13,Beauty,Smartphone,389,Credit Card,244,4,1556
+C0045,Customer 45,42,Male,Los Angeles,O1045,2023-02-14,Beauty,Running Shoes,917,PayPal,3,23,21091
+C0046,Customer 46,31,Female,Los Angeles,O1046,2023-02-15,Electronics,Smartphone,1904,Net Banking,125,20,38080
+C0047,Customer 47,26,Female,Miami,O1047,2023-02-16,Electronics,Lipstick,667,Net Banking,268,25,16675
+C0048,Customer 48,43,Male,Houston,O1048,2023-02-17,Beauty,Lipstick,459,Credit Card,84,30,13770
+C0049,Customer 49,19,Male,Houston,O1049,2023-02-18,Sports,Table Lamp,595,Debit Card,16,18,10710
+C0050,Customer 50,37,Male,Chicago,O1050,2023-02-19,Home Decor,Smartphone,472,Net Banking,334,42,19824
+C0051,Customer 51,45,Female,Los Angeles,O1051,2023-02-20,Sports,Handbag,999,Net Banking,59,11,10989
+C0052,Customer 52,64,Male,Miami,O1052,2023-02-21,Home Decor,Table Lamp,1141,Net Banking,177,29,33089
+C0053,Customer 53,24,Male,Miami,O1053,2023-02-22,Beauty,Lipstick,131,Debit Card,63,17,2227
+C0054,Customer 54,61,Female,Houston,O1054,2023-02-23,Electronics,Smartphone,26,Debit Card,49,26,676
+C0055,Customer 55,25,Male,Los Angeles,O1055,2023-02-24,Electronics,Running Shoes,1229,Credit Card,307,23,28267
+C0056,Customer 56,64,Male,Chicago,O1056,2023-02-25,Sports,Handbag,336,PayPal,246,48,16128
+C0057,Customer 57,52,Male,Los Angeles,O1057,2023-02-26,Electronics,Lipstick,327,Debit Card,289,20,6540
+C0058,Customer 58,31,Female,New York,O1058,2023-02-27,Beauty,Table Lamp,818,PayPal,286,45,36810
+C0059,Customer 59,34,Female,Los Angeles,O1059,2023-02-28,Sports,Smartphone,1512,PayPal,332,2,3024
+C0060,Customer 60,53,Female,New York,O1060,2023-03-01,Home Decor,Handbag,1285,Debit Card,15,24,30840
+C0061,Customer 61,57,Female,New York,O1061,2023-03-02,Electronics,Smartphone,512,Net Banking,338,31,15872
+C0062,Customer 62,21,Female,Chicago,O1062,2023-03-03,Fashion,Running Shoes,128,Credit Card,255,27,3456
+C0063,Customer 63,19,Female,Houston,O1063,2023-03-04,Electronics,Table Lamp,1707,PayPal,92,2,3414
+C0064,Customer 64,23,Female,Los Angeles,O1064,2023-03-05,Home Decor,Smartphone,719,Net Banking,279,14,10066
+C0065,Customer 65,59,Male,New York,O1065,2023-03-06,Sports,Lipstick,1531,Debit Card,206,4,6124
+C0066,Customer 66,21,Male,Los Angeles,O1066,2023-03-07,Home Decor,Table Lamp,1519,PayPal,94,49,74431
+C0067,Customer 67,46,Female,Houston,O1067,2023-03-08,Fashion,Lipstick,54,PayPal,225,13,702
+C0068,Customer 68,35,Male,Houston,O1068,2023-03-09,Beauty,Smartphone,323,PayPal,301,36,11628
+C0069,Customer 69,43,Male,Miami,O1069,2023-03-10,Electronics,Table Lamp,1212,Net Banking,318,35,42420
+C0070,Customer 70,61,Female,Houston,O1070,2023-03-11,Sports,Lipstick,1927,Net Banking,199,44,84788
+C0071,Customer 71,51,Male,Chicago,O1071,2023-03-12,Beauty,Running Shoes,427,Net Banking,271,8,3416
+C0072,Customer 72,27,Male,New York,O1072,2023-03-13,Home Decor,Running Shoes,565,PayPal,234,2,1130
+C0073,Customer 73,53,Male,Miami,O1073,2023-03-14,Sports,Smartphone,1816,PayPal,46,6,10896
+C0074,Customer 74,31,Male,Chicago,O1074,2023-03-15,Beauty,Table Lamp,1111,Credit Card,64,31,34441
+C0075,Customer 75,48,Male,Los Angeles,O1075,2023-03-16,Sports,Handbag,335,Credit Card,230,10,3350
+C0076,Customer 76,32,Female,New York,O1076,2023-03-17,Fashion,Table Lamp,1723,Net Banking,249,44,75812
+C0077,Customer 77,25,Female,Houston,O1077,2023-03-18,Fashion,Running Shoes,1390,Net Banking,246,21,29190
+C0078,Customer 78,31,Female,New York,O1078,2023-03-19,Electronics,Lipstick,1449,Debit Card,75,42,60858
+C0079,Customer 79,40,Male,Los Angeles,O1079,2023-03-20,Electronics,Handbag,1996,Net Banking,157,10,19960
+C0080,Customer 80,57,Female,Miami,O1080,2023-03-21,Fashion,Smartphone,524,Credit Card,223,23,12052
+C0081,Customer 81,38,Male,Miami,O1081,2023-03-22,Sports,Handbag,223,Credit Card,190,3,669
+C0082,Customer 82,33,Male,Miami,O1082,2023-03-23,Fashion,Smartphone,1887,Credit Card,52,32,60384
+C0083,Customer 83,62,Male,Houston,O1083,2023-03-24,Electronics,Handbag,83,PayPal,88,20,1660
+C0084,Customer 84,35,Male,Chicago,O1084,2023-03-25,Fashion,Smartphone,1596,PayPal,313,10,15960
+C0085,Customer 85,64,Female,Chicago,O1085,2023-03-26,Fashion,Smartphone,1612,Net Banking,339,29,46748
+C0086,Customer 86,41,Female,New York,O1086,2023-03-27,Sports,Handbag,518,Debit Card,66,41,21238
+C0087,Customer 87,43,Male,Houston,O1087,2023-03-28,Beauty,Handbag,341,Debit Card,150,46,15686
+C0088,Customer 88,42,Female,Miami,O1088,2023-03-29,Electronics,Smartphone,1126,Debit Card,20,34,38284
+C0089,Customer 89,62,Male,Miami,O1089,2023-03-30,Sports,Running Shoes,697,PayPal,33,37,25789
+C0090,Customer 90,58,Female,Los Angeles,O1090,2023-03-31,Fashion,Handbag,666,Credit Card,328,20,13320
+C0091,Customer 91,46,Female,Los Angeles,O1091,2023-04-01,Fashion,Table Lamp,1552,Credit Card,281,8,12416
+C0092,Customer 92,32,Male,Miami,O1092,2023-04-02,Beauty,Lipstick,1302,PayPal,46,7,9114
+C0093,Customer 93,62,Female,Miami,O1093,2023-04-03,Electronics,Smartphone,1409,Debit Card,73,6,8454
+C0094,Customer 94,18,Male,Houston,O1094,2023-04-04,Electronics,Smartphone,1867,Debit Card,354,11,20537
+C0095,Customer 95,42,Female,Chicago,O1095,2023-04-05,Home Decor,Lipstick,1037,Net Banking,313,44,45628
+C0096,Customer 96,24,Male,Los Angeles,O1096,2023-04-06,Electronics,Running Shoes,1171,Net Banking,343,18,21078
+C0097,Customer 97,26,Male,Chicago,O1097,2023-04-07,Beauty,Lipstick,1264,Debit Card,133,42,53088
+C0098,Customer 98,41,Female,Houston,O1098,2023-04-08,Home Decor,Handbag,609,PayPal,55,29,17661
+C0099,Customer 99,18,Female,Miami,O1099,2023-04-09,Home Decor,Lipstick,1562,Debit Card,61,25,39050
+C0100,Customer 100,61,Male,Chicago,O1100,2023-04-10,Fashion,Smartphone,1085,Net Banking,345,21,22785
+C0101,Customer 101,25,Female,Miami,O1101,2023-04-11,Fashion,Lipstick,1679,Debit Card,8,46,77234
+C0102,Customer 102,41,Female,Miami,O1102,2023-04-12,Electronics,Table Lamp,1756,PayPal,272,3,5268
+C0103,Customer 103,28,Male,New York,O1103,2023-04-13,Home Decor,Handbag,334,Credit Card,246,18,6012
+C0104,Customer 104,34,Male,Chicago,O1104,2023-04-14,Fashion,Lipstick,1001,PayPal,176,24,24024
+C0105,Customer 105,25,Female,Chicago,O1105,2023-04-15,Beauty,Smartphone,1938,PayPal,116,47,91086
+C0106,Customer 106,52,Male,Miami,O1106,2023-04-16,Fashion,Handbag,1764,Net Banking,317,38,67032
+C0107,Customer 107,52,Male,Houston,O1107,2023-04-17,Fashion,Smartphone,726,PayPal,271,10,7260
+C0108,Customer 108,50,Male,New York,O1108,2023-04-18,Home Decor,Running Shoes,732,PayPal,193,27,19764
+C0109,Customer 109,22,Female,Miami,O1109,2023-04-19,Home Decor,Table Lamp,286,Net Banking,150,12,3432
+C0110,Customer 110,59,Female,Los Angeles,O1110,2023-04-20,Sports,Running Shoes,545,Net Banking,131,7,3815
+C0111,Customer 111,56,Male,Los Angeles,O1111,2023-04-21,Beauty,Table Lamp,1519,Credit Card,102,17,25823
+C0112,Customer 112,58,Female,New York,O1112,2023-04-22,Home Decor,Lipstick,1549,Debit Card,310,1,1549
+C0113,Customer 113,45,Male,Houston,O1113,2023-04-23,Electronics,Handbag,161,PayPal,270,26,4186
+C0114,Customer 114,24,Female,Miami,O1114,2023-04-24,Beauty,Lipstick,964,Net Banking,292,15,14460
+C0115,Customer 115,26,Male,Chicago,O1115,2023-04-25,Beauty,Table Lamp,1516,Credit Card,210,33,50028
+C0116,Customer 116,25,Male,New York,O1116,2023-04-26,Home Decor,Table Lamp,268,Debit Card,361,37,9916
+C0117,Customer 117,29,Female,Houston,O1117,2023-04-27,Beauty,Table Lamp,333,Net Banking,338,47,15651
+C0118,Customer 118,51,Male,Chicago,O1118,2023-04-28,Home Decor,Smartphone,1026,Debit Card,67,31,31806
+C0119,Customer 119,50,Female,Los Angeles,O1119,2023-04-29,Fashion,Handbag,878,Debit Card,10,35,30730
+C0120,Customer 120,40,Female,Los Angeles,O1120,2023-04-30,Sports,Lipstick,1201,PayPal,49,1,1201
+C0121,Customer 121,41,Male,Chicago,O1121,2023-05-01,Fashion,Lipstick,697,PayPal,111,8,5576
+C0122,Customer 122,54,Male,New York,O1122,2023-05-02,Home Decor,Running Shoes,319,Net Banking,321,12,3828
+C0123,Customer 123,52,Female,Los Angeles,O1123,2023-05-03,Home Decor,Table Lamp,812,Debit Card,219,19,15428
+C0124,Customer 124,61,Male,Miami,O1124,2023-05-04,Fashion,Table Lamp,1512,Net Banking,57,25,37800
+C0125,Customer 125,57,Male,Chicago,O1125,2023-05-05,Electronics,Table Lamp,1089,Net Banking,283,32,34848
+C0126,Customer 126,39,Male,Chicago,O1126,2023-05-06,Electronics,Lipstick,629,Debit Card,113,12,7548
+C0127,Customer 127,44,Male,Los Angeles,O1127,2023-05-07,Electronics,Running Shoes,482,Net Banking,133,13,6266
+C0128,Customer 128,52,Male,New York,O1128,2023-05-08,Home Decor,Smartphone,1329,Debit Card,71,28,37212
+C0129,Customer 129,18,Female,Miami,O1129,2023-05-09,Beauty,Handbag,470,Debit Card,83,1,470
+C0130,Customer 130,52,Female,New York,O1130,2023-05-10,Home Decor,Smartphone,1357,Debit Card,57,6,8142
+C0131,Customer 131,54,Male,Houston,O1131,2023-05-11,Beauty,Lipstick,823,Debit Card,349,8,6584
+C0132,Customer 132,64,Male,Houston,O1132,2023-05-12,Fashion,Table Lamp,855,Credit Card,271,4,3420
+C0133,Customer 133,31,Male,Los Angeles,O1133,2023-05-13,Sports,Handbag,1174,Debit Card,111,5,5870
+C0134,Customer 134,20,Female,Los Angeles,O1134,2023-05-14,Beauty,Lipstick,676,PayPal,357,25,16900
+C0135,Customer 135,18,Male,Los Angeles,O1135,2023-05-15,Electronics,Lipstick,271,PayPal,76,22,5962
+C0136,Customer 136,22,Female,Houston,O1136,2023-05-16,Home Decor,Lipstick,1818,PayPal,158,28,50904
+C0137,Customer 137,43,Female,New York,O1137,2023-05-17,Fashion,Handbag,1453,Debit Card,20,39,56667
+C0138,Customer 138,31,Female,New York,O1138,2023-05-18,Electronics,Handbag,1777,PayPal,131,23,40871
+C0139,Customer 139,56,Male,Los Angeles,O1139,2023-05-19,Fashion,Running Shoes,1274,Credit Card,329,4,5096
+C0140,Customer 140,44,Female,Miami,O1140,2023-05-20,Sports,Running Shoes,364,Net Banking,122,4,1456
+C0141,Customer 141,26,Male,New York,O1141,2023-05-21,Home Decor,Smartphone,1882,Debit Card,41,47,88454
+C0142,Customer 142,32,Female,Houston,O1142,2023-05-22,Home Decor,Handbag,779,PayPal,167,21,16359
+C0143,Customer 143,32,Male,Chicago,O1143,2023-05-23,Sports,Handbag,1794,Credit Card,130,37,66378
+C0144,Customer 144,43,Female,Chicago,O1144,2023-05-24,Home Decor,Handbag,1622,Net Banking,23,41,66502
+C0145,Customer 145,59,Male,Chicago,O1145,2023-05-25,Beauty,Running Shoes,189,Credit Card,279,2,378
+C0146,Customer 146,30,Female,Miami,O1146,2023-05-26,Fashion,Lipstick,75,PayPal,251,7,525
+C0147,Customer 147,49,Male,Los Angeles,O1147,2023-05-27,Electronics,Table Lamp,829,Credit Card,9,49,40621
+C0148,Customer 148,56,Male,Houston,O1148,2023-05-28,Sports,Running Shoes,1381,Net Banking,13,16,22096
+C0149,Customer 149,49,Male,Miami,O1149,2023-05-29,Beauty,Handbag,180,PayPal,307,17,3060
+C0150,Customer 150,21,Male,Houston,O1150,2023-05-30,Electronics,Running Shoes,483,Net Banking,320,20,9660
+C0151,Customer 151,47,Female,Houston,O1151,2023-05-31,Electronics,Smartphone,543,Credit Card,52,23,12489
+C0152,Customer 152,54,Female,Los Angeles,O1152,2023-06-01,Sports,Handbag,1400,Debit Card,209,34,47600
+C0153,Customer 153,40,Male,Chicago,O1153,2023-06-02,Beauty,Smartphone,1140,Debit Card,38,11,12540
+C0154,Customer 154,56,Female,Los Angeles,O1154,2023-06-03,Electronics,Handbag,448,Debit Card,100,34,15232
+C0155,Customer 155,62,Male,Miami,O1155,2023-06-04,Electronics,Running Shoes,844,Debit Card,193,33,27852
+C0156,Customer 156,32,Male,Miami,O1156,2023-06-05,Beauty,Lipstick,236,Net Banking,191,26,6136
+C0157,Customer 157,60,Female,Miami,O1157,2023-06-06,Home Decor,Table Lamp,1477,Debit Card,51,2,2954
+C0158,Customer 158,46,Male,Los Angeles,O1158,2023-06-07,Electronics,Smartphone,451,Net Banking,141,23,10373
+C0159,Customer 159,53,Male,Houston,O1159,2023-06-08,Fashion,Running Shoes,405,PayPal,168,41,16605
+C0160,Customer 160,30,Female,Houston,O1160,2023-06-09,Beauty,Lipstick,737,Debit Card,311,22,16214
+C0161,Customer 161,49,Male,New York,O1161,2023-06-10,Electronics,Running Shoes,1614,Net Banking,109,34,54876
+C0162,Customer 162,24,Male,Miami,O1162,2023-06-11,Sports,Smartphone,93,Debit Card,207,15,1395
+C0163,Customer 163,39,Male,Houston,O1163,2023-06-12,Fashion,Table Lamp,1648,Debit Card,300,10,16480
+C0164,Customer 164,45,Male,New York,O1164,2023-06-13,Electronics,Running Shoes,1584,Debit Card,110,15,23760
+C0165,Customer 165,19,Female,Houston,O1165,2023-06-14,Fashion,Handbag,1046,Net Banking,196,42,43932
+C0166,Customer 166,59,Female,Miami,O1166,2023-06-15,Fashion,Lipstick,1842,Credit Card,152,29,53418
+C0167,Customer 167,62,Female,Chicago,O1167,2023-06-16,Home Decor,Running Shoes,1858,Debit Card,243,23,42734
+C0168,Customer 168,23,Male,Miami,O1168,2023-06-17,Fashion,Lipstick,702,Debit Card,128,17,11934
+C0169,Customer 169,45,Male,Los Angeles,O1169,2023-06-18,Home Decor,Handbag,502,PayPal,105,9,4518
+C0170,Customer 170,45,Female,Houston,O1170,2023-06-19,Beauty,Table Lamp,1301,Credit Card,10,36,46836
+C0171,Customer 171,61,Male,Houston,O1171,2023-06-20,Home Decor,Table Lamp,1558,Net Banking,356,9,14022
+C0172,Customer 172,61,Male,Los Angeles,O1172,2023-06-21,Sports,Handbag,1153,PayPal,148,16,18448
+C0173,Customer 173,37,Male,Los Angeles,O1173,2023-06-22,Electronics,Lipstick,979,Debit Card,364,36,35244
+C0174,Customer 174,47,Male,Chicago,O1174,2023-06-23,Beauty,Running Shoes,362,PayPal,140,48,17376
+C0175,Customer 175,28,Female,Houston,O1175,2023-06-24,Beauty,Handbag,1090,PayPal,190,33,35970
+C0176,Customer 176,45,Female,Houston,O1176,2023-06-25,Sports,Smartphone,49,Debit Card,94,31,1519
+C0177,Customer 177,42,Female,Chicago,O1177,2023-06-26,Home Decor,Lipstick,1919,Credit Card,229,6,11514
+C0178,Customer 178,56,Male,New York,O1178,2023-06-27,Electronics,Table Lamp,1369,Credit Card,63,10,13690
+C0179,Customer 179,50,Female,Chicago,O1179,2023-06-28,Home Decor,Handbag,649,PayPal,340,16,10384
+C0180,Customer 180,18,Female,Miami,O1180,2023-06-29,Fashion,Table Lamp,182,Debit Card,25,4,728
+C0181,Customer 181,44,Male,Houston,O1181,2023-06-30,Home Decor,Lipstick,1580,Net Banking,268,22,34760
+C0182,Customer 182,30,Male,Los Angeles,O1182,2023-07-01,Beauty,Table Lamp,268,PayPal,281,13,3484
+C0183,Customer 183,58,Female,Miami,O1183,2023-07-02,Electronics,Handbag,1921,Net Banking,11,16,30736
+C0184,Customer 184,20,Female,Houston,O1184,2023-07-03,Home Decor,Lipstick,526,PayPal,320,29,15254
+C0185,Customer 185,56,Female,Chicago,O1185,2023-07-04,Electronics,Smartphone,739,PayPal,201,6,4434
+C0186,Customer 186,23,Female,Miami,O1186,2023-07-05,Electronics,Handbag,532,Debit Card,126,26,13832
+C0187,Customer 187,25,Male,Houston,O1187,2023-07-06,Fashion,Running Shoes,1927,Debit Card,306,11,21197
+C0188,Customer 188,44,Female,New York,O1188,2023-07-07,Fashion,Handbag,848,Net Banking,190,24,20352
+C0189,Customer 189,26,Female,New York,O1189,2023-07-08,Beauty,Lipstick,126,Net Banking,89,29,3654
+C0190,Customer 190,54,Male,Los Angeles,O1190,2023-07-09,Sports,Handbag,193,Credit Card,355,3,579
+C0191,Customer 191,50,Female,Houston,O1191,2023-07-10,Electronics,Smartphone,1939,Debit Card,116,10,19390
+C0192,Customer 192,59,Male,New York,O1192,2023-07-11,Sports,Smartphone,1907,PayPal,352,1,1907
+C0193,Customer 193,61,Male,Chicago,O1193,2023-07-12,Beauty,Running Shoes,1149,PayPal,177,43,49407
+C0194,Customer 194,41,Male,Houston,O1194,2023-07-13,Electronics,Table Lamp,171,Credit Card,14,26,4446
+C0195,Customer 195,32,Female,Chicago,O1195,2023-07-14,Electronics,Lipstick,1612,Debit Card,257,12,19344
+C0196,Customer 196,49,Female,Chicago,O1196,2023-07-15,Sports,Lipstick,1745,PayPal,209,14,24430
+C0197,Customer 197,49,Male,New York,O1197,2023-07-16,Home Decor,Table Lamp,552,Credit Card,281,25,13800
+C0198,Customer 198,41,Female,Houston,O1198,2023-07-17,Fashion,Smartphone,1620,Credit Card,328,8,12960
+C0199,Customer 199,58,Female,Miami,O1199,2023-07-18,Home Decor,Smartphone,1270,PayPal,325,43,54610
+C0200,Customer 200,29,Male,New York,O1200,2023-07-19,Sports,Handbag,848,PayPal,105,4,3392
+C0201,Customer 201,56,Male,New York,O1201,2023-07-20,Fashion,Running Shoes,1099,Net Banking,147,28,30772
+C0202,Customer 202,19,Female,Houston,O1202,2023-07-21,Home Decor,Running Shoes,1103,Debit Card,279,7,7721
+C0203,Customer 203,20,Male,Houston,O1203,2023-07-22,Fashion,Running Shoes,1842,Net Banking,9,10,18420
+C0204,Customer 204,54,Female,Chicago,O1204,2023-07-23,Electronics,Handbag,456,Credit Card,118,36,16416
+C0205,Customer 205,34,Female,Houston,O1205,2023-07-24,Home Decor,Running Shoes,425,PayPal,94,2,850
+C0206,Customer 206,19,Female,Chicago,O1206,2023-07-25,Fashion,Table Lamp,541,Net Banking,144,26,14066
+C0207,Customer 207,19,Female,New York,O1207,2023-07-26,Fashion,Handbag,450,Credit Card,289,14,6300
+C0208,Customer 208,45,Male,Los Angeles,O1208,2023-07-27,Fashion,Table Lamp,747,Debit Card,14,16,11952
+C0209,Customer 209,40,Male,Miami,O1209,2023-07-28,Home Decor,Handbag,1979,PayPal,257,43,85097
+C0210,Customer 210,54,Male,New York,O1210,2023-07-29,Beauty,Running Shoes,473,Net Banking,346,42,19866
+C0211,Customer 211,49,Male,Houston,O1211,2023-07-30,Home Decor,Table Lamp,1954,Debit Card,186,17,33218
+C0212,Customer 212,50,Female,Miami,O1212,2023-07-31,Sports,Table Lamp,405,Net Banking,345,46,18630
+C0213,Customer 213,18,Female,Los Angeles,O1213,2023-08-01,Home Decor,Table Lamp,720,Credit Card,207,22,15840
+C0214,Customer 214,36,Male,Los Angeles,O1214,2023-08-02,Fashion,Handbag,1584,Debit Card,346,4,6336
+C0215,Customer 215,19,Female,Chicago,O1215,2023-08-03,Electronics,Lipstick,1690,Net Banking,172,19,32110
+C0216,Customer 216,61,Female,Miami,O1216,2023-08-04,Home Decor,Running Shoes,1590,Debit Card,270,2,3180
+C0217,Customer 217,43,Female,Chicago,O1217,2023-08-05,Home Decor,Table Lamp,404,Credit Card,221,39,15756
+C0218,Customer 218,49,Male,New York,O1218,2023-08-06,Fashion,Lipstick,335,Debit Card,152,9,3015
+C0219,Customer 219,23,Male,Miami,O1219,2023-08-07,Electronics,Running Shoes,1926,Net Banking,111,19,36594
+C0220,Customer 220,49,Male,New York,O1220,2023-08-08,Electronics,Running Shoes,1952,Credit Card,183,16,31232
+C0221,Customer 221,21,Female,Chicago,O1221,2023-08-09,Sports,Table Lamp,1124,PayPal,339,25,28100
+C0222,Customer 222,28,Male,Miami,O1222,2023-08-10,Home Decor,Table Lamp,759,Net Banking,72,48,36432
+C0223,Customer 223,34,Male,Chicago,O1223,2023-08-11,Electronics,Handbag,1103,Net Banking,283,18,19854
+C0224,Customer 224,55,Male,Miami,O1224,2023-08-12,Electronics,Lipstick,1199,Credit Card,74,23,27577
+C0225,Customer 225,41,Male,Chicago,O1225,2023-08-13,Beauty,Lipstick,651,Credit Card,355,21,13671
+C0226,Customer 226,22,Male,Los Angeles,O1226,2023-08-14,Beauty,Table Lamp,223,PayPal,215,11,2453
+C0227,Customer 227,51,Male,Chicago,O1227,2023-08-15,Electronics,Running Shoes,1885,Net Banking,328,39,73515
+C0228,Customer 228,23,Female,Los Angeles,O1228,2023-08-16,Sports,Table Lamp,1634,Credit Card,23,41,66994
+C0229,Customer 229,39,Female,Chicago,O1229,2023-08-17,Electronics,Running Shoes,1368,PayPal,68,4,5472
+C0230,Customer 230,28,Male,Miami,O1230,2023-08-18,Fashion,Running Shoes,1797,PayPal,362,25,44925
+C0231,Customer 231,33,Male,Miami,O1231,2023-08-19,Home Decor,Table Lamp,378,Credit Card,93,32,12096
+C0232,Customer 232,50,Female,Miami,O1232,2023-08-20,Sports,Smartphone,1894,Net Banking,321,30,56820
+C0233,Customer 233,26,Female,Houston,O1233,2023-08-21,Fashion,Lipstick,1617,Debit Card,324,45,72765
+C0234,Customer 234,23,Male,New York,O1234,2023-08-22,Sports,Running Shoes,1710,Debit Card,63,26,44460
+C0235,Customer 235,33,Male,Miami,O1235,2023-08-23,Fashion,Running Shoes,58,PayPal,224,36,2088
+C0236,Customer 236,46,Male,Los Angeles,O1236,2023-08-24,Home Decor,Smartphone,1085,Debit Card,225,34,36890
+C0237,Customer 237,20,Male,Miami,O1237,2023-08-25,Home Decor,Handbag,1322,Debit Card,346,9,11898
+C0238,Customer 238,37,Female,Houston,O1238,2023-08-26,Beauty,Smartphone,1823,Credit Card,337,12,21876
+C0239,Customer 239,53,Male,Los Angeles,O1239,2023-08-27,Fashion,Smartphone,1659,PayPal,103,2,3318
+C0240,Customer 240,36,Male,Houston,O1240,2023-08-28,Beauty,Running Shoes,1272,Net Banking,215,38,48336
+C0241,Customer 241,43,Male,Los Angeles,O1241,2023-08-29,Fashion,Lipstick,142,PayPal,192,5,710
+C0242,Customer 242,20,Male,Chicago,O1242,2023-08-30,Beauty,Smartphone,1008,Credit Card,160,5,5040
+C0243,Customer 243,36,Female,New York,O1243,2023-08-31,Home Decor,Handbag,795,Debit Card,207,22,17490
+C0244,Customer 244,37,Female,New York,O1244,2023-09-01,Sports,Table Lamp,1199,Net Banking,269,5,5995
+C0245,Customer 245,49,Female,Houston,O1245,2023-09-02,Beauty,Smartphone,1407,PayPal,194,4,5628
+C0246,Customer 246,24,Male,New York,O1246,2023-09-03,Fashion,Smartphone,382,Debit Card,152,9,3438
+C0247,Customer 247,58,Male,Houston,O1247,2023-09-04,Fashion,Handbag,1838,PayPal,237,29,53302
+C0248,Customer 248,50,Female,Houston,O1248,2023-09-05,Home Decor,Lipstick,1511,Net Banking,88,22,33242
+C0249,Customer 249,57,Male,Houston,O1249,2023-09-06,Fashion,Smartphone,1788,PayPal,11,27,48276
+C0250,Customer 250,56,Male,New York,O1250,2023-09-07,Electronics,Smartphone,488,PayPal,187,10,4880
+C0251,Customer 251,35,Female,Houston,O1251,2023-09-08,Sports,Lipstick,841,PayPal,214,16,13456
+C0252,Customer 252,57,Female,New York,O1252,2023-09-09,Beauty,Handbag,659,Debit Card,15,42,27678
+C0253,Customer 253,18,Female,Houston,O1253,2023-09-10,Sports,Smartphone,1624,Net Banking,266,42,68208
+C0254,Customer 254,28,Female,Miami,O1254,2023-09-11,Home Decor,Lipstick,691,Net Banking,297,10,6910
+C0255,Customer 255,45,Male,Houston,O1255,2023-09-12,Beauty,Smartphone,1668,Debit Card,73,6,10008
+C0256,Customer 256,42,Male,Los Angeles,O1256,2023-09-13,Beauty,Table Lamp,697,Debit Card,52,49,34153
+C0257,Customer 257,40,Female,Houston,O1257,2023-09-14,Electronics,Running Shoes,1333,Debit Card,128,5,6665
+C0258,Customer 258,48,Male,Chicago,O1258,2023-09-15,Home Decor,Table Lamp,91,Credit Card,28,6,546
+C0259,Customer 259,47,Female,Houston,O1259,2023-09-16,Fashion,Smartphone,96,PayPal,65,47,4512
+C0260,Customer 260,59,Female,Los Angeles,O1260,2023-09-17,Electronics,Handbag,234,PayPal,17,25,5850
+C0261,Customer 261,52,Male,Los Angeles,O1261,2023-09-18,Electronics,Running Shoes,25,Net Banking,351,4,100
+C0262,Customer 262,24,Female,New York,O1262,2023-09-19,Sports,Table Lamp,831,PayPal,138,40,33240
+C0263,Customer 263,33,Male,Miami,O1263,2023-09-20,Sports,Lipstick,1391,Credit Card,319,48,66768
+C0264,Customer 264,43,Male,Houston,O1264,2023-09-21,Sports,Handbag,172,Debit Card,229,32,5504
+C0265,Customer 265,19,Male,New York,O1265,2023-09-22,Electronics,Table Lamp,1643,Net Banking,254,35,57505
+C0266,Customer 266,18,Male,Miami,O1266,2023-09-23,Fashion,Lipstick,1701,Net Banking,210,10,17010
+C0267,Customer 267,29,Female,Houston,O1267,2023-09-24,Beauty,Smartphone,523,PayPal,294,34,17782
+C0268,Customer 268,22,Male,Chicago,O1268,2023-09-25,Sports,Lipstick,359,Net Banking,231,36,12924
+C0269,Customer 269,54,Female,Houston,O1269,2023-09-26,Fashion,Table Lamp,1942,Debit Card,241,6,11652
+C0270,Customer 270,49,Female,Los Angeles,O1270,2023-09-27,Home Decor,Table Lamp,690,Net Banking,70,43,29670
+C0271,Customer 271,26,Female,Los Angeles,O1271,2023-09-28,Sports,Smartphone,1497,Debit Card,104,46,68862
+C0272,Customer 272,58,Female,Chicago,O1272,2023-09-29,Beauty,Lipstick,1860,Credit Card,204,16,29760
+C0273,Customer 273,52,Male,New York,O1273,2023-09-30,Home Decor,Lipstick,1870,Credit Card,53,19,35530
+C0274,Customer 274,36,Male,Miami,O1274,2023-10-01,Home Decor,Smartphone,1408,Debit Card,330,34,47872
+C0275,Customer 275,33,Female,Houston,O1275,2023-10-02,Beauty,Lipstick,1125,PayPal,54,25,28125
+C0276,Customer 276,20,Female,Los Angeles,O1276,2023-10-03,Sports,Smartphone,190,Net Banking,276,31,5890
+C0277,Customer 277,37,Male,New York,O1277,2023-10-04,Electronics,Handbag,752,PayPal,335,49,36848
+C0278,Customer 278,41,Female,Chicago,O1278,2023-10-05,Beauty,Table Lamp,1334,Net Banking,31,41,54694
+C0279,Customer 279,50,Male,Los Angeles,O1279,2023-10-06,Beauty,Handbag,669,Credit Card,135,17,11373
+C0280,Customer 280,41,Female,Chicago,O1280,2023-10-07,Beauty,Running Shoes,1825,Credit Card,58,47,85775
+C0281,Customer 281,28,Male,Houston,O1281,2023-10-08,Home Decor,Running Shoes,1222,Credit Card,105,30,36660
+C0282,Customer 282,25,Female,Miami,O1282,2023-10-09,Fashion,Running Shoes,1892,Net Banking,266,39,73788
+C0283,Customer 283,53,Female,Los Angeles,O1283,2023-10-10,Electronics,Smartphone,1895,Credit Card,10,31,58745
+C0284,Customer 284,55,Male,Los Angeles,O1284,2023-10-11,Sports,Lipstick,1347,Credit Card,253,19,25593
+C0285,Customer 285,57,Female,Houston,O1285,2023-10-12,Sports,Handbag,502,Credit Card,295,35,17570
+C0286,Customer 286,37,Female,New York,O1286,2023-10-13,Fashion,Handbag,932,Credit Card,156,29,27028
+C0287,Customer 287,52,Male,Miami,O1287,2023-10-14,Beauty,Handbag,1955,PayPal,158,1,1955
+C0288,Customer 288,42,Female,Los Angeles,O1288,2023-10-15,Electronics,Handbag,137,Credit Card,37,4,548
+C0289,Customer 289,52,Male,Miami,O1289,2023-10-16,Sports,Running Shoes,1552,Credit Card,119,28,43456
+C0290,Customer 290,42,Male,Los Angeles,O1290,2023-10-17,Sports,Handbag,1459,PayPal,67,18,26262
+C0291,Customer 291,46,Female,Miami,O1291,2023-10-18,Beauty,Lipstick,1592,PayPal,242,26,41392
+C0292,Customer 292,35,Female,Chicago,O1292,2023-10-19,Fashion,Running Shoes,574,Net Banking,299,40,22960
+C0293,Customer 293,63,Female,Los Angeles,O1293,2023-10-20,Electronics,Handbag,1220,Debit Card,213,19,23180
+C0294,Customer 294,35,Female,Miami,O1294,2023-10-21,Fashion,Smartphone,559,Credit Card,308,6,3354
+C0295,Customer 295,19,Female,New York,O1295,2023-10-22,Fashion,Table Lamp,462,Credit Card,101,1,462
+C0296,Customer 296,52,Female,Chicago,O1296,2023-10-23,Electronics,Table Lamp,480,Credit Card,56,8,3840
+C0297,Customer 297,33,Female,Chicago,O1297,2023-10-24,Electronics,Table Lamp,997,Net Banking,332,33,32901
+C0298,Customer 298,58,Male,New York,O1298,2023-10-25,Sports,Running Shoes,747,Credit Card,324,43,32121
+C0299,Customer 299,53,Female,Miami,O1299,2023-10-26,Sports,Handbag,1598,Debit Card,239,21,33558
+C0300,Customer 300,50,Male,Houston,O1300,2023-10-27,Electronics,Running Shoes,1944,PayPal,231,24,46656
+C0301,Customer 301,21,Female,New York,O1301,2023-10-28,Home Decor,Lipstick,233,Net Banking,362,25,5825
+C0302,Customer 302,50,Female,Miami,O1302,2023-10-29,Sports,Smartphone,163,PayPal,92,47,7661
+C0303,Customer 303,31,Male,New York,O1303,2023-10-30,Home Decor,Smartphone,569,Credit Card,279,43,24467
+C0304,Customer 304,38,Female,New York,O1304,2023-10-31,Electronics,Table Lamp,360,Credit Card,109,19,6840
+C0305,Customer 305,37,Female,Los Angeles,O1305,2023-11-01,Sports,Table Lamp,1180,Credit Card,317,29,34220
+C0306,Customer 306,25,Male,Miami,O1306,2023-11-02,Fashion,Table Lamp,1938,Debit Card,168,10,19380
+C0307,Customer 307,24,Female,Houston,O1307,2023-11-03,Electronics,Handbag,1609,Debit Card,300,12,19308
+C0308,Customer 308,20,Female,Los Angeles,O1308,2023-11-04,Beauty,Lipstick,358,Net Banking,218,33,11814
+C0309,Customer 309,34,Female,New York,O1309,2023-11-05,Home Decor,Lipstick,191,PayPal,222,7,1337
+C0310,Customer 310,50,Male,New York,O1310,2023-11-06,Electronics,Lipstick,646,Credit Card,161,17,10982
+C0311,Customer 311,29,Female,New York,O1311,2023-11-07,Electronics,Lipstick,1027,Credit Card,16,10,10270
+C0312,Customer 312,39,Female,Miami,O1312,2023-11-08,Sports,Table Lamp,188,Credit Card,278,31,5828
+C0313,Customer 313,39,Female,Miami,O1313,2023-11-09,Sports,Smartphone,1072,Credit Card,57,6,6432
+C0314,Customer 314,63,Female,Los Angeles,O1314,2023-11-10,Sports,Table Lamp,781,Debit Card,62,17,13277
+C0315,Customer 315,47,Male,Houston,O1315,2023-11-11,Beauty,Lipstick,903,PayPal,363,37,33411
+C0316,Customer 316,55,Male,Los Angeles,O1316,2023-11-12,Sports,Table Lamp,1036,PayPal,327,18,18648
+C0317,Customer 317,55,Female,Chicago,O1317,2023-11-13,Electronics,Lipstick,1025,Net Banking,242,26,26650
+C0318,Customer 318,62,Female,New York,O1318,2023-11-14,Sports,Running Shoes,73,Debit Card,90,49,3577
+C0319,Customer 319,25,Male,New York,O1319,2023-11-15,Fashion,Smartphone,38,Credit Card,72,16,608
+C0320,Customer 320,44,Male,New York,O1320,2023-11-16,Sports,Running Shoes,381,PayPal,326,8,3048
+C0321,Customer 321,44,Female,Los Angeles,O1321,2023-11-17,Beauty,Handbag,1556,PayPal,30,24,37344
+C0322,Customer 322,51,Male,Los Angeles,O1322,2023-11-18,Fashion,Table Lamp,106,Debit Card,359,13,1378
+C0323,Customer 323,38,Female,New York,O1323,2023-11-19,Electronics,Handbag,1903,Net Banking,288,29,55187
+C0324,Customer 324,47,Male,Los Angeles,O1324,2023-11-20,Electronics,Table Lamp,1475,Net Banking,86,32,47200
+C0325,Customer 325,50,Male,Miami,O1325,2023-11-21,Home Decor,Running Shoes,1236,Credit Card,234,24,29664
+C0326,Customer 326,45,Male,Miami,O1326,2023-11-22,Fashion,Lipstick,1444,Net Banking,235,16,23104
+C0327,Customer 327,64,Male,Los Angeles,O1327,2023-11-23,Home Decor,Lipstick,1002,PayPal,313,11,11022
+C0328,Customer 328,50,Female,New York,O1328,2023-11-24,Fashion,Table Lamp,30,Net Banking,265,32,960
+C0329,Customer 329,22,Male,Los Angeles,O1329,2023-11-25,Fashion,Lipstick,1584,Credit Card,287,6,9504
+C0330,Customer 330,36,Male,Los Angeles,O1330,2023-11-26,Beauty,Running Shoes,744,PayPal,327,35,26040
+C0331,Customer 331,21,Female,Los Angeles,O1331,2023-11-27,Home Decor,Lipstick,1135,Net Banking,269,33,37455
+C0332,Customer 332,52,Male,Chicago,O1332,2023-11-28,Beauty,Running Shoes,1079,Net Banking,186,18,19422
+C0333,Customer 333,34,Male,Miami,O1333,2023-11-29,Fashion,Handbag,75,Debit Card,131,37,2775
+C0334,Customer 334,61,Female,Houston,O1334,2023-11-30,Electronics,Running Shoes,612,Credit Card,291,13,7956
+C0335,Customer 335,45,Male,Houston,O1335,2023-12-01,Fashion,Smartphone,1197,Net Banking,277,10,11970
+C0336,Customer 336,47,Female,Chicago,O1336,2023-12-02,Beauty,Smartphone,1144,Debit Card,320,37,42328
+C0337,Customer 337,46,Female,Los Angeles,O1337,2023-12-03,Home Decor,Smartphone,347,PayPal,351,26,9022
+C0338,Customer 338,63,Female,Chicago,O1338,2023-12-04,Home Decor,Table Lamp,132,Debit Card,180,46,6072
+C0339,Customer 339,23,Female,Chicago,O1339,2023-12-05,Beauty,Table Lamp,1738,Debit Card,290,17,29546
+C0340,Customer 340,52,Male,New York,O1340,2023-12-06,Home Decor,Table Lamp,456,Net Banking,163,1,456
+C0341,Customer 341,58,Female,Miami,O1341,2023-12-07,Sports,Running Shoes,620,Net Banking,271,25,15500
+C0342,Customer 342,54,Male,Houston,O1342,2023-12-08,Electronics,Table Lamp,1324,Net Banking,96,34,45016
+C0343,Customer 343,41,Male,Los Angeles,O1343,2023-12-09,Electronics,Handbag,680,Debit Card,262,39,26520
+C0344,Customer 344,46,Male,Houston,O1344,2023-12-10,Electronics,Smartphone,1445,PayPal,353,10,14450
+C0345,Customer 345,63,Male,Houston,O1345,2023-12-11,Home Decor,Running Shoes,624,Credit Card,288,20,12480
+C0346,Customer 346,48,Male,Miami,O1346,2023-12-12,Home Decor,Smartphone,906,Debit Card,83,7,6342
+C0347,Customer 347,52,Male,Houston,O1347,2023-12-13,Fashion,Table Lamp,290,Net Banking,225,16,4640
+C0348,Customer 348,50,Male,Houston,O1348,2023-12-14,Fashion,Running Shoes,1076,Credit Card,223,37,39812
+C0349,Customer 349,38,Male,Chicago,O1349,2023-12-15,Electronics,Lipstick,1519,PayPal,118,29,44051
+C0350,Customer 350,49,Male,Miami,O1350,2023-12-16,Sports,Handbag,605,Credit Card,192,12,7260
+C0351,Customer 351,40,Male,New York,O1351,2023-12-17,Fashion,Table Lamp,1996,Net Banking,79,17,33932
+C0352,Customer 352,50,Female,Los Angeles,O1352,2023-12-18,Fashion,Table Lamp,712,Debit Card,78,48,34176
+C0353,Customer 353,20,Female,Houston,O1353,2023-12-19,Home Decor,Handbag,1084,Debit Card,147,20,21680
+C0354,Customer 354,35,Female,Los Angeles,O1354,2023-12-20,Sports,Handbag,1931,Net Banking,107,26,50206
+C0355,Customer 355,42,Male,New York,O1355,2023-12-21,Electronics,Lipstick,219,Debit Card,271,48,10512
+C0356,Customer 356,59,Female,Los Angeles,O1356,2023-12-22,Fashion,Table Lamp,135,Net Banking,244,19,2565
+C0357,Customer 357,48,Female,New York,O1357,2023-12-23,Sports,Table Lamp,501,Debit Card,73,47,23547
+C0358,Customer 358,20,Female,Chicago,O1358,2023-12-24,Sports,Smartphone,1542,Debit Card,357,12,18504
+C0359,Customer 359,57,Male,Houston,O1359,2023-12-25,Electronics,Running Shoes,969,Debit Card,354,21,20349
+C0360,Customer 360,63,Male,New York,O1360,2023-12-26,Sports,Running Shoes,979,PayPal,26,42,41118
+C0361,Customer 361,41,Male,Los Angeles,O1361,2023-12-27,Sports,Smartphone,590,PayPal,210,34,20060
+C0362,Customer 362,49,Male,Houston,O1362,2023-12-28,Sports,Running Shoes,786,Net Banking,92,7,5502
+C0363,Customer 363,64,Female,Chicago,O1363,2023-12-29,Fashion,Handbag,267,PayPal,125,45,12015
+C0364,Customer 364,39,Female,Houston,O1364,2023-12-30,Electronics,Running Shoes,1963,Net Banking,73,35,68705
+C0365,Customer 365,40,Female,New York,O1365,2023-12-31,Sports,Running Shoes,1221,Credit Card,123,15,18315
+C0366,Customer 366,19,Female,Chicago,O1366,2024-01-01,Sports,Smartphone,239,Credit Card,309,1,239
+C0367,Customer 367,44,Male,Los Angeles,O1367,2024-01-02,Fashion,Lipstick,198,PayPal,184,26,5148
+C0368,Customer 368,59,Male,Chicago,O1368,2024-01-03,Electronics,Running Shoes,1448,Credit Card,187,35,50680
+C0369,Customer 369,19,Male,Chicago,O1369,2024-01-04,Home Decor,Running Shoes,19,Credit Card,198,25,475
+C0370,Customer 370,43,Female,Miami,O1370,2024-01-05,Fashion,Lipstick,1147,Debit Card,78,42,48174
+C0371,Customer 371,34,Male,Chicago,O1371,2024-01-06,Electronics,Smartphone,1109,Debit Card,348,15,16635
+C0372,Customer 372,57,Male,Chicago,O1372,2024-01-07,Sports,Lipstick,685,Net Banking,186,22,15070
+C0373,Customer 373,50,Female,Houston,O1373,2024-01-08,Electronics,Smartphone,511,Credit Card,344,6,3066
+C0374,Customer 374,26,Female,Los Angeles,O1374,2024-01-09,Electronics,Handbag,94,Net Banking,253,15,1410
+C0375,Customer 375,60,Male,Houston,O1375,2024-01-10,Electronics,Smartphone,58,Net Banking,13,24,1392
+C0376,Customer 376,56,Male,Houston,O1376,2024-01-11,Home Decor,Handbag,1528,Credit Card,299,21,32088
+C0377,Customer 377,46,Male,New York,O1377,2024-01-12,Electronics,Handbag,847,PayPal,76,7,5929
+C0378,Customer 378,59,Male,Houston,O1378,2024-01-13,Home Decor,Smartphone,1017,Credit Card,51,29,29493
+C0379,Customer 379,43,Male,Miami,O1379,2024-01-14,Sports,Table Lamp,698,Debit Card,275,32,22336
+C0380,Customer 380,52,Male,Miami,O1380,2024-01-15,Home Decor,Smartphone,396,Credit Card,149,32,12672
+C0381,Customer 381,42,Female,New York,O1381,2024-01-16,Sports,Running Shoes,979,PayPal,219,5,4895
+C0382,Customer 382,41,Female,Los Angeles,O1382,2024-01-17,Sports,Running Shoes,1422,Net Banking,122,4,5688
+C0383,Customer 383,30,Female,Los Angeles,O1383,2024-01-18,Home Decor,Table Lamp,1015,Net Banking,211,22,22330
+C0384,Customer 384,24,Male,Houston,O1384,2024-01-19,Fashion,Handbag,227,Debit Card,280,18,4086
+C0385,Customer 385,53,Female,Houston,O1385,2024-01-20,Beauty,Table Lamp,1734,Debit Card,26,35,60690
+C0386,Customer 386,62,Male,Houston,O1386,2024-01-21,Electronics,Running Shoes,1014,Debit Card,173,17,17238
+C0387,Customer 387,37,Male,Los Angeles,O1387,2024-01-22,Beauty,Table Lamp,1379,Net Banking,156,24,33096
+C0388,Customer 388,18,Female,Chicago,O1388,2024-01-23,Electronics,Smartphone,1263,Debit Card,238,2,2526
+C0389,Customer 389,25,Male,Miami,O1389,2024-01-24,Electronics,Table Lamp,264,Credit Card,82,13,3432
+C0390,Customer 390,63,Male,Chicago,O1390,2024-01-25,Sports,Handbag,245,Net Banking,356,15,3675
+C0391,Customer 391,33,Female,Chicago,O1391,2024-01-26,Electronics,Smartphone,1059,PayPal,273,5,5295
+C0392,Customer 392,31,Female,Los Angeles,O1392,2024-01-27,Electronics,Lipstick,1617,Net Banking,68,3,4851
+C0393,Customer 393,29,Female,Chicago,O1393,2024-01-28,Home Decor,Running Shoes,1294,Credit Card,44,37,47878
+C0394,Customer 394,40,Male,New York,O1394,2024-01-29,Beauty,Running Shoes,1799,Credit Card,61,37,66563
+C0395,Customer 395,32,Female,Houston,O1395,2024-01-30,Home Decor,Table Lamp,280,Debit Card,123,37,10360
+C0396,Customer 396,45,Female,New York,O1396,2024-01-31,Electronics,Smartphone,132,Net Banking,349,3,396
+C0397,Customer 397,51,Male,Miami,O1397,2024-02-01,Sports,Lipstick,665,Net Banking,196,35,23275
+C0398,Customer 398,19,Female,Houston,O1398,2024-02-02,Home Decor,Smartphone,1290,Net Banking,330,23,29670
+C0399,Customer 399,49,Female,Chicago,O1399,2024-02-03,Home Decor,Running Shoes,1689,PayPal,323,28,47292
+C0400,Customer 400,40,Female,Miami,O1400,2024-02-04,Fashion,Smartphone,1454,Debit Card,111,30,43620
+C0401,Customer 401,39,Male,Houston,O1401,2024-02-05,Electronics,Lipstick,268,Credit Card,258,18,4824
+C0402,Customer 402,42,Male,Chicago,O1402,2024-02-06,Sports,Table Lamp,957,Credit Card,89,36,34452
+C0403,Customer 403,39,Male,New York,O1403,2024-02-07,Home Decor,Handbag,56,Debit Card,198,33,1848
+C0404,Customer 404,39,Male,Houston,O1404,2024-02-08,Home Decor,Smartphone,872,Credit Card,282,26,22672
+C0405,Customer 405,59,Female,Chicago,O1405,2024-02-09,Sports,Handbag,534,Credit Card,200,48,25632
+C0406,Customer 406,23,Male,New York,O1406,2024-02-10,Electronics,Running Shoes,897,Debit Card,99,40,35880
+C0407,Customer 407,32,Male,Miami,O1407,2024-02-11,Fashion,Table Lamp,217,Credit Card,27,17,3689
+C0408,Customer 408,60,Female,Miami,O1408,2024-02-12,Home Decor,Table Lamp,1344,Net Banking,89,40,53760
+C0409,Customer 409,54,Female,Miami,O1409,2024-02-13,Fashion,Smartphone,756,PayPal,146,7,5292
+C0410,Customer 410,50,Female,Miami,O1410,2024-02-14,Beauty,Table Lamp,158,Debit Card,182,8,1264
+C0411,Customer 411,25,Male,Los Angeles,O1411,2024-02-15,Electronics,Smartphone,1867,PayPal,257,31,57877
+C0412,Customer 412,61,Male,Houston,O1412,2024-02-16,Beauty,Smartphone,447,Credit Card,189,12,5364
+C0413,Customer 413,61,Male,Houston,O1413,2024-02-17,Beauty,Handbag,164,Credit Card,240,48,7872
+C0414,Customer 414,22,Female,Los Angeles,O1414,2024-02-18,Beauty,Table Lamp,1711,Net Banking,359,31,53041
+C0415,Customer 415,56,Female,Chicago,O1415,2024-02-19,Electronics,Smartphone,1123,Debit Card,196,44,49412
+C0416,Customer 416,21,Male,Chicago,O1416,2024-02-20,Electronics,Handbag,1731,Credit Card,297,19,32889
+C0417,Customer 417,23,Female,Miami,O1417,2024-02-21,Sports,Lipstick,1863,Debit Card,165,10,18630
+C0418,Customer 418,62,Female,New York,O1418,2024-02-22,Fashion,Handbag,367,Debit Card,307,39,14313
+C0419,Customer 419,49,Female,Chicago,O1419,2024-02-23,Fashion,Handbag,1207,Debit Card,271,12,14484
+C0420,Customer 420,47,Male,New York,O1420,2024-02-24,Sports,Smartphone,1250,Debit Card,8,20,25000
+C0421,Customer 421,64,Female,Houston,O1421,2024-02-25,Sports,Running Shoes,1940,Debit Card,38,37,71780
+C0422,Customer 422,52,Female,New York,O1422,2024-02-26,Beauty,Running Shoes,465,PayPal,114,48,22320
+C0423,Customer 423,57,Male,Houston,O1423,2024-02-27,Sports,Running Shoes,785,Net Banking,339,41,32185
+C0424,Customer 424,33,Male,Los Angeles,O1424,2024-02-28,Home Decor,Handbag,1642,Debit Card,56,7,11494
+C0425,Customer 425,30,Female,Los Angeles,O1425,2024-02-29,Fashion,Smartphone,638,PayPal,359,14,8932
+C0426,Customer 426,59,Female,Miami,O1426,2024-03-01,Sports,Table Lamp,1232,Credit Card,138,11,13552
+C0427,Customer 427,47,Male,Chicago,O1427,2024-03-02,Home Decor,Handbag,841,Debit Card,102,7,5887
+C0428,Customer 428,36,Male,Miami,O1428,2024-03-03,Home Decor,Handbag,495,Credit Card,334,29,14355
+C0429,Customer 429,34,Female,Houston,O1429,2024-03-04,Home Decor,Smartphone,542,Debit Card,177,10,5420
+C0430,Customer 430,36,Female,Miami,O1430,2024-03-05,Home Decor,Lipstick,209,PayPal,169,29,6061
+C0431,Customer 431,45,Female,New York,O1431,2024-03-06,Beauty,Handbag,380,PayPal,339,9,3420
+C0432,Customer 432,43,Female,Houston,O1432,2024-03-07,Home Decor,Lipstick,1023,PayPal,286,36,36828
+C0433,Customer 433,54,Male,Los Angeles,O1433,2024-03-08,Beauty,Lipstick,1992,Net Banking,261,48,95616
+C0434,Customer 434,43,Female,Chicago,O1434,2024-03-09,Beauty,Running Shoes,862,Credit Card,223,10,8620
+C0435,Customer 435,40,Female,Houston,O1435,2024-03-10,Home Decor,Smartphone,1481,Net Banking,199,19,28139
+C0436,Customer 436,26,Male,Houston,O1436,2024-03-11,Fashion,Lipstick,257,Debit Card,211,31,7967
+C0437,Customer 437,29,Female,New York,O1437,2024-03-12,Home Decor,Smartphone,797,Credit Card,287,17,13549
+C0438,Customer 438,18,Male,Chicago,O1438,2024-03-13,Home Decor,Running Shoes,273,PayPal,180,9,2457
+C0439,Customer 439,18,Female,Los Angeles,O1439,2024-03-14,Home Decor,Smartphone,1091,Credit Card,250,45,49095
+C0440,Customer 440,64,Female,Houston,O1440,2024-03-15,Fashion,Handbag,1335,PayPal,231,33,44055
+C0441,Customer 441,51,Male,Houston,O1441,2024-03-16,Electronics,Lipstick,40,Net Banking,23,34,1360
+C0442,Customer 442,49,Male,New York,O1442,2024-03-17,Electronics,Smartphone,1531,Net Banking,48,45,68895
+C0443,Customer 443,42,Female,Miami,O1443,2024-03-18,Beauty,Table Lamp,1282,PayPal,109,24,30768
+C0444,Customer 444,57,Female,Los Angeles,O1444,2024-03-19,Beauty,Smartphone,614,PayPal,296,9,5526
+C0445,Customer 445,62,Female,Chicago,O1445,2024-03-20,Fashion,Lipstick,1810,Debit Card,6,7,12670
+C0446,Customer 446,18,Male,Houston,O1446,2024-03-21,Sports,Running Shoes,1304,Net Banking,38,16,20864
+C0447,Customer 447,33,Female,Houston,O1447,2024-03-22,Electronics,Running Shoes,1639,Net Banking,169,19,31141
+C0448,Customer 448,56,Male,Los Angeles,O1448,2024-03-23,Beauty,Lipstick,1699,Debit Card,356,39,66261
+C0449,Customer 449,22,Male,Miami,O1449,2024-03-24,Electronics,Handbag,1427,Net Banking,283,6,8562
+C0450,Customer 450,39,Female,Houston,O1450,2024-03-25,Fashion,Handbag,1830,PayPal,203,11,20130
+C0451,Customer 451,46,Male,Los Angeles,O1451,2024-03-26,Fashion,Running Shoes,511,Credit Card,325,12,6132
+C0452,Customer 452,20,Female,New York,O1452,2024-03-27,Sports,Running Shoes,1625,Credit Card,313,42,68250
+C0453,Customer 453,29,Female,Miami,O1453,2024-03-28,Sports,Lipstick,1837,Net Banking,273,13,23881
+C0454,Customer 454,43,Female,Chicago,O1454,2024-03-29,Fashion,Handbag,1117,Debit Card,244,12,13404
+C0455,Customer 455,33,Female,Houston,O1455,2024-03-30,Beauty,Running Shoes,1398,PayPal,327,21,29358
+C0456,Customer 456,54,Female,Los Angeles,O1456,2024-03-31,Electronics,Handbag,895,Credit Card,47,10,8950
+C0457,Customer 457,39,Male,New York,O1457,2024-04-01,Home Decor,Running Shoes,558,PayPal,249,20,11160
+C0458,Customer 458,46,Male,Chicago,O1458,2024-04-02,Sports,Smartphone,1375,Net Banking,79,36,49500
+C0459,Customer 459,31,Female,Los Angeles,O1459,2024-04-03,Home Decor,Table Lamp,848,Net Banking,110,28,23744
+C0460,Customer 460,45,Female,Los Angeles,O1460,2024-04-04,Beauty,Smartphone,1440,Credit Card,13,24,34560
+C0461,Customer 461,22,Male,Chicago,O1461,2024-04-05,Sports,Running Shoes,1458,Net Banking,90,5,7290
+C0462,Customer 462,64,Male,New York,O1462,2024-04-06,Home Decor,Table Lamp,1777,Debit Card,342,37,65749
+C0463,Customer 463,47,Male,New York,O1463,2024-04-07,Beauty,Table Lamp,1126,Net Banking,348,12,13512
+C0464,Customer 464,63,Male,Miami,O1464,2024-04-08,Electronics,Running Shoes,857,Net Banking,280,35,29995
+C0465,Customer 465,22,Female,Houston,O1465,2024-04-09,Beauty,Running Shoes,623,Net Banking,221,40,24920
+C0466,Customer 466,29,Female,Chicago,O1466,2024-04-10,Sports,Handbag,421,PayPal,73,2,842
+C0467,Customer 467,33,Male,Chicago,O1467,2024-04-11,Fashion,Running Shoes,441,PayPal,234,41,18081
+C0468,Customer 468,43,Female,Chicago,O1468,2024-04-12,Electronics,Lipstick,687,Credit Card,260,45,30915
+C0469,Customer 469,43,Male,New York,O1469,2024-04-13,Home Decor,Running Shoes,168,Credit Card,113,39,6552
+C0470,Customer 470,38,Female,Houston,O1470,2024-04-14,Sports,Lipstick,23,Credit Card,46,42,966
+C0471,Customer 471,56,Male,Miami,O1471,2024-04-15,Fashion,Running Shoes,382,Net Banking,274,9,3438
+C0472,Customer 472,53,Female,Los Angeles,O1472,2024-04-16,Beauty,Handbag,234,PayPal,43,22,5148
+C0473,Customer 473,50,Male,Los Angeles,O1473,2024-04-17,Fashion,Lipstick,1538,Debit Card,208,47,72286
+C0474,Customer 474,47,Male,Chicago,O1474,2024-04-18,Sports,Smartphone,1106,Net Banking,349,5,5530
+C0475,Customer 475,54,Female,Houston,O1475,2024-04-19,Sports,Lipstick,1282,Net Banking,103,12,15384
+C0476,Customer 476,40,Male,New York,O1476,2024-04-20,Fashion,Handbag,520,Net Banking,124,1,520
+C0477,Customer 477,27,Female,Houston,O1477,2024-04-21,Beauty,Lipstick,612,Debit Card,10,44,26928
+C0478,Customer 478,22,Female,Houston,O1478,2024-04-22,Fashion,Running Shoes,225,Credit Card,329,22,4950
+C0479,Customer 479,53,Male,New York,O1479,2024-04-23,Sports,Running Shoes,1635,Debit Card,187,38,62130
+C0480,Customer 480,51,Female,Chicago,O1480,2024-04-24,Sports,Handbag,1574,Credit Card,31,19,29906
+C0481,Customer 481,48,Female,Houston,O1481,2024-04-25,Home Decor,Table Lamp,1980,Debit Card,156,16,31680
+C0482,Customer 482,27,Female,Los Angeles,O1482,2024-04-26,Home Decor,Running Shoes,1850,PayPal,60,31,57350
+C0483,Customer 483,36,Female,New York,O1483,2024-04-27,Electronics,Smartphone,1972,Net Banking,249,3,5916
+C0484,Customer 484,49,Female,Miami,O1484,2024-04-28,Sports,Handbag,997,Net Banking,270,23,22931
+C0485,Customer 485,18,Male,Chicago,O1485,2024-04-29,Home Decor,Lipstick,1253,Net Banking,217,42,52626
+C0486,Customer 486,22,Female,New York,O1486,2024-04-30,Fashion,Lipstick,849,Credit Card,2,18,15282
+C0487,Customer 487,62,Female,Miami,O1487,2024-05-01,Beauty,Smartphone,736,Debit Card,24,26,19136
+C0488,Customer 488,21,Female,Miami,O1488,2024-05-02,Fashion,Running Shoes,1254,PayPal,206,13,16302
+C0489,Customer 489,33,Female,Houston,O1489,2024-05-03,Beauty,Handbag,1422,Debit Card,320,18,25596
+C0490,Customer 490,41,Female,Houston,O1490,2024-05-04,Home Decor,Smartphone,563,Net Banking,199,3,1689
+C0491,Customer 491,33,Male,Houston,O1491,2024-05-05,Electronics,Running Shoes,1680,PayPal,356,23,38640
+C0492,Customer 492,19,Female,New York,O1492,2024-05-06,Fashion,Handbag,1075,PayPal,114,3,3225
+C0493,Customer 493,45,Male,New York,O1493,2024-05-07,Fashion,Lipstick,685,Net Banking,280,25,17125
+C0494,Customer 494,49,Male,Chicago,O1494,2024-05-08,Fashion,Handbag,882,Debit Card,155,27,23814
+C0495,Customer 495,44,Male,Houston,O1495,2024-05-09,Beauty,Table Lamp,292,Net Banking,165,44,12848
+C0496,Customer 496,37,Male,Miami,O1496,2024-05-10,Home Decor,Handbag,1091,Debit Card,222,27,29457
+C0497,Customer 497,41,Female,Los Angeles,O1497,2024-05-11,Fashion,Table Lamp,1847,PayPal,91,39,72033
+C0498,Customer 498,29,Male,Chicago,O1498,2024-05-12,Fashion,Handbag,843,PayPal,167,25,21075
+C0499,Customer 499,52,Male,New York,O1499,2024-05-13,Electronics,Table Lamp,546,Net Banking,207,24,13104
+C0500,Customer 500,50,Female,Chicago,O1500,2024-05-14,Electronics,Lipstick,1106,PayPal,282,8,8848
+C0501,Customer 501,50,Female,Chicago,O1501,2024-05-15,Home Decor,Running Shoes,1918,Credit Card,65,9,17262
+C0502,Customer 502,60,Female,Chicago,O1502,2024-05-16,Home Decor,Table Lamp,932,PayPal,4,46,42872
+C0503,Customer 503,54,Male,Chicago,O1503,2024-05-17,Sports,Table Lamp,1162,Credit Card,157,37,42994
+C0504,Customer 504,29,Female,Los Angeles,O1504,2024-05-18,Electronics,Lipstick,1632,PayPal,249,30,48960
+C0505,Customer 505,20,Female,Houston,O1505,2024-05-19,Sports,Table Lamp,851,Net Banking,257,19,16169
+C0506,Customer 506,18,Male,Miami,O1506,2024-05-20,Beauty,Smartphone,1459,Net Banking,235,16,23344
+C0507,Customer 507,50,Female,Chicago,O1507,2024-05-21,Sports,Lipstick,957,Credit Card,306,24,22968
+C0508,Customer 508,57,Female,Chicago,O1508,2024-05-22,Fashion,Smartphone,674,Net Banking,74,44,29656
+C0509,Customer 509,27,Female,Chicago,O1509,2024-05-23,Sports,Lipstick,1727,PayPal,187,21,36267
+C0510,Customer 510,60,Female,Houston,O1510,2024-05-24,Home Decor,Table Lamp,1158,PayPal,62,36,41688
+C0511,Customer 511,61,Male,New York,O1511,2024-05-25,Beauty,Smartphone,76,Net Banking,337,40,3040
+C0512,Customer 512,46,Female,New York,O1512,2024-05-26,Fashion,Table Lamp,15,PayPal,164,39,585
+C0513,Customer 513,30,Female,Los Angeles,O1513,2024-05-27,Sports,Lipstick,646,Debit Card,56,47,30362
+C0514,Customer 514,29,Male,New York,O1514,2024-05-28,Beauty,Table Lamp,323,Debit Card,111,6,1938
+C0515,Customer 515,48,Female,Chicago,O1515,2024-05-29,Beauty,Smartphone,1359,PayPal,218,5,6795
+C0516,Customer 516,63,Male,Chicago,O1516,2024-05-30,Fashion,Smartphone,574,Net Banking,240,14,8036
+C0517,Customer 517,19,Female,Chicago,O1517,2024-05-31,Sports,Table Lamp,1611,Credit Card,21,45,72495
+C0518,Customer 518,52,Male,Los Angeles,O1518,2024-06-01,Beauty,Handbag,835,Net Banking,141,42,35070
+C0519,Customer 519,40,Male,Chicago,O1519,2024-06-02,Beauty,Lipstick,515,Credit Card,265,4,2060
+C0520,Customer 520,34,Male,New York,O1520,2024-06-03,Electronics,Lipstick,1115,Net Banking,139,8,8920
+C0521,Customer 521,43,Male,Houston,O1521,2024-06-04,Beauty,Table Lamp,1632,PayPal,70,24,39168
+C0522,Customer 522,25,Female,Houston,O1522,2024-06-05,Electronics,Handbag,1035,Debit Card,118,11,11385
+C0523,Customer 523,46,Male,Miami,O1523,2024-06-06,Sports,Smartphone,213,Net Banking,198,17,3621
+C0524,Customer 524,43,Female,New York,O1524,2024-06-07,Sports,Running Shoes,671,Credit Card,205,21,14091
+C0525,Customer 525,27,Male,Chicago,O1525,2024-06-08,Sports,Running Shoes,814,Debit Card,214,26,21164
+C0526,Customer 526,43,Male,Houston,O1526,2024-06-09,Home Decor,Table Lamp,413,Credit Card,56,43,17759
+C0527,Customer 527,51,Male,New York,O1527,2024-06-10,Sports,Handbag,1136,PayPal,287,48,54528
+C0528,Customer 528,58,Female,Houston,O1528,2024-06-11,Beauty,Handbag,545,Debit Card,293,44,23980
+C0529,Customer 529,24,Male,Chicago,O1529,2024-06-12,Fashion,Lipstick,1401,Credit Card,175,45,63045
+C0530,Customer 530,21,Female,Houston,O1530,2024-06-13,Electronics,Smartphone,1245,Net Banking,347,27,33615
+C0531,Customer 531,62,Female,Miami,O1531,2024-06-14,Home Decor,Handbag,586,PayPal,128,16,9376
+C0532,Customer 532,28,Female,Miami,O1532,2024-06-15,Sports,Running Shoes,1994,PayPal,325,26,51844
+C0533,Customer 533,46,Female,Houston,O1533,2024-06-16,Sports,Smartphone,1242,PayPal,292,33,40986
+C0534,Customer 534,53,Female,New York,O1534,2024-06-17,Fashion,Smartphone,772,Net Banking,288,31,23932
+C0535,Customer 535,42,Female,New York,O1535,2024-06-18,Fashion,Table Lamp,1930,Net Banking,226,48,92640
+C0536,Customer 536,38,Female,New York,O1536,2024-06-19,Home Decor,Handbag,126,Debit Card,64,47,5922
+C0537,Customer 537,53,Female,Houston,O1537,2024-06-20,Electronics,Table Lamp,637,Net Banking,48,6,3822
+C0538,Customer 538,27,Female,New York,O1538,2024-06-21,Sports,Handbag,758,Debit Card,202,44,33352
+C0539,Customer 539,54,Male,Chicago,O1539,2024-06-22,Home Decor,Lipstick,1511,PayPal,337,8,12088
+C0540,Customer 540,26,Male,Miami,O1540,2024-06-23,Beauty,Table Lamp,114,Debit Card,60,7,798
+C0541,Customer 541,41,Male,Chicago,O1541,2024-06-24,Beauty,Table Lamp,504,Credit Card,257,34,17136
+C0542,Customer 542,52,Male,New York,O1542,2024-06-25,Home Decor,Running Shoes,1804,PayPal,65,44,79376
+C0543,Customer 543,52,Male,Chicago,O1543,2024-06-26,Sports,Table Lamp,55,PayPal,239,14,770
+C0544,Customer 544,53,Female,New York,O1544,2024-06-27,Home Decor,Handbag,832,Debit Card,289,16,13312
+C0545,Customer 545,35,Female,Houston,O1545,2024-06-28,Sports,Running Shoes,1364,PayPal,38,43,58652
+C0546,Customer 546,56,Female,Chicago,O1546,2024-06-29,Fashion,Table Lamp,1249,Net Banking,25,9,11241
+C0547,Customer 547,49,Female,Houston,O1547,2024-06-30,Home Decor,Table Lamp,991,Credit Card,59,10,9910
+C0548,Customer 548,41,Female,Houston,O1548,2024-07-01,Sports,Lipstick,969,Debit Card,357,17,16473
+C0549,Customer 549,40,Female,Los Angeles,O1549,2024-07-02,Home Decor,Table Lamp,1525,Debit Card,297,12,18300
+C0550,Customer 550,49,Female,New York,O1550,2024-07-03,Home Decor,Smartphone,1846,PayPal,158,6,11076
+C0551,Customer 551,54,Male,Miami,O1551,2024-07-04,Sports,Running Shoes,1955,Net Banking,57,19,37145
+C0552,Customer 552,29,Male,New York,O1552,2024-07-05,Sports,Smartphone,854,PayPal,48,43,36722
+C0553,Customer 553,30,Male,Miami,O1553,2024-07-06,Electronics,Running Shoes,458,PayPal,328,41,18778
+C0554,Customer 554,40,Male,New York,O1554,2024-07-07,Home Decor,Lipstick,545,Debit Card,56,29,15805
+C0555,Customer 555,42,Female,Houston,O1555,2024-07-08,Beauty,Table Lamp,520,PayPal,65,6,3120
+C0556,Customer 556,52,Female,Chicago,O1556,2024-07-09,Home Decor,Table Lamp,1491,Credit Card,268,25,37275
+C0557,Customer 557,58,Female,Chicago,O1557,2024-07-10,Home Decor,Table Lamp,1580,PayPal,69,24,37920
+C0558,Customer 558,47,Male,Los Angeles,O1558,2024-07-11,Sports,Running Shoes,1569,PayPal,216,25,39225
+C0559,Customer 559,34,Female,Miami,O1559,2024-07-12,Home Decor,Table Lamp,549,Debit Card,89,16,8784
+C0560,Customer 560,37,Female,Miami,O1560,2024-07-13,Home Decor,Smartphone,1517,PayPal,281,16,24272
+C0561,Customer 561,42,Female,Miami,O1561,2024-07-14,Beauty,Table Lamp,25,Net Banking,257,6,150
+C0562,Customer 562,39,Male,Houston,O1562,2024-07-15,Sports,Lipstick,1604,Debit Card,160,37,59348
+C0563,Customer 563,30,Female,Miami,O1563,2024-07-16,Home Decor,Smartphone,252,PayPal,234,21,5292
+C0564,Customer 564,36,Male,Chicago,O1564,2024-07-17,Fashion,Table Lamp,1983,Credit Card,131,4,7932
+C0565,Customer 565,53,Male,Houston,O1565,2024-07-18,Electronics,Table Lamp,1240,Credit Card,49,34,42160
+C0566,Customer 566,29,Male,New York,O1566,2024-07-19,Beauty,Handbag,921,Debit Card,147,28,25788
+C0567,Customer 567,58,Male,Miami,O1567,2024-07-20,Home Decor,Running Shoes,1304,Debit Card,316,38,49552
+C0568,Customer 568,36,Female,Miami,O1568,2024-07-21,Fashion,Smartphone,770,PayPal,2,41,31570
+C0569,Customer 569,29,Male,New York,O1569,2024-07-22,Home Decor,Handbag,1812,Net Banking,329,28,50736
+C0570,Customer 570,26,Male,Miami,O1570,2024-07-23,Home Decor,Lipstick,714,PayPal,145,17,12138
+C0571,Customer 571,24,Female,New York,O1571,2024-07-24,Sports,Running Shoes,1880,Credit Card,61,14,26320
+C0572,Customer 572,45,Female,Houston,O1572,2024-07-25,Sports,Smartphone,1763,Net Banking,273,7,12341
+C0573,Customer 573,31,Male,Chicago,O1573,2024-07-26,Sports,Table Lamp,124,Net Banking,49,22,2728
+C0574,Customer 574,48,Female,New York,O1574,2024-07-27,Fashion,Smartphone,1613,Net Banking,332,1,1613
+C0575,Customer 575,36,Male,Los Angeles,O1575,2024-07-28,Home Decor,Table Lamp,1332,PayPal,131,29,38628
+C0576,Customer 576,64,Male,New York,O1576,2024-07-29,Electronics,Running Shoes,1870,Credit Card,43,31,57970
+C0577,Customer 577,33,Male,Miami,O1577,2024-07-30,Beauty,Table Lamp,1516,Debit Card,57,30,45480
+C0578,Customer 578,22,Male,Houston,O1578,2024-07-31,Sports,Lipstick,406,PayPal,50,15,6090
+C0579,Customer 579,52,Female,Houston,O1579,2024-08-01,Sports,Table Lamp,403,Debit Card,178,18,7254
+C0580,Customer 580,29,Male,New York,O1580,2024-08-02,Home Decor,Lipstick,1108,Net Banking,293,35,38780
+C0581,Customer 581,42,Female,Chicago,O1581,2024-08-03,Home Decor,Running Shoes,987,Net Banking,46,30,29610
+C0582,Customer 582,38,Female,Los Angeles,O1582,2024-08-04,Fashion,Running Shoes,1515,PayPal,170,34,51510
+C0583,Customer 583,53,Female,Houston,O1583,2024-08-05,Fashion,Smartphone,1136,Credit Card,271,42,47712
+C0584,Customer 584,40,Female,Miami,O1584,2024-08-06,Sports,Lipstick,306,Net Banking,336,11,3366
+C0585,Customer 585,33,Male,Miami,O1585,2024-08-07,Home Decor,Lipstick,1011,Debit Card,139,27,27297
+C0586,Customer 586,56,Female,Chicago,O1586,2024-08-08,Electronics,Handbag,187,Debit Card,247,24,4488
+C0587,Customer 587,62,Male,Houston,O1587,2024-08-09,Beauty,Handbag,1248,PayPal,148,35,43680
+C0588,Customer 588,59,Female,New York,O1588,2024-08-10,Home Decor,Handbag,976,Debit Card,230,39,38064
+C0589,Customer 589,56,Female,Miami,O1589,2024-08-11,Home Decor,Table Lamp,324,Credit Card,280,8,2592
+C0590,Customer 590,31,Male,Chicago,O1590,2024-08-12,Fashion,Handbag,1072,Net Banking,125,18,19296
+C0591,Customer 591,48,Male,Houston,O1591,2024-08-13,Beauty,Lipstick,268,Debit Card,192,13,3484
+C0592,Customer 592,22,Male,Houston,O1592,2024-08-14,Sports,Table Lamp,1749,Debit Card,80,45,78705
+C0593,Customer 593,52,Female,Houston,O1593,2024-08-15,Home Decor,Running Shoes,16,Net Banking,94,24,384
+C0594,Customer 594,40,Female,Houston,O1594,2024-08-16,Sports,Smartphone,58,PayPal,226,23,1334
+C0595,Customer 595,46,Male,Houston,O1595,2024-08-17,Home Decor,Handbag,1571,Debit Card,65,12,18852
+C0596,Customer 596,60,Male,Miami,O1596,2024-08-18,Sports,Running Shoes,170,PayPal,88,49,8330
+C0597,Customer 597,28,Male,Chicago,O1597,2024-08-19,Beauty,Lipstick,1902,PayPal,88,30,57060
+C0598,Customer 598,35,Male,Houston,O1598,2024-08-20,Fashion,Smartphone,185,Debit Card,201,31,5735
+C0599,Customer 599,64,Female,Los Angeles,O1599,2024-08-21,Beauty,Running Shoes,1624,Credit Card,214,28,45472
+C0600,Customer 600,29,Male,Los Angeles,O1600,2024-08-22,Electronics,Smartphone,1035,PayPal,204,22,22770
+C0601,Customer 601,26,Male,Chicago,O1601,2024-08-23,Fashion,Handbag,1010,Debit Card,89,44,44440
+C0602,Customer 602,27,Male,New York,O1602,2024-08-24,Beauty,Lipstick,1928,PayPal,61,28,53984
+C0603,Customer 603,61,Male,New York,O1603,2024-08-25,Electronics,Smartphone,464,Net Banking,271,13,6032
+C0604,Customer 604,34,Female,New York,O1604,2024-08-26,Home Decor,Running Shoes,1961,Credit Card,94,25,49025
+C0605,Customer 605,55,Male,Los Angeles,O1605,2024-08-27,Home Decor,Handbag,1677,Credit Card,307,44,73788
+C0606,Customer 606,24,Female,New York,O1606,2024-08-28,Sports,Handbag,285,Net Banking,27,46,13110
+C0607,Customer 607,63,Male,Miami,O1607,2024-08-29,Fashion,Running Shoes,507,Net Banking,214,7,3549
+C0608,Customer 608,30,Male,Houston,O1608,2024-08-30,Home Decor,Running Shoes,1662,PayPal,74,45,74790
+C0609,Customer 609,57,Female,Los Angeles,O1609,2024-08-31,Fashion,Smartphone,685,Net Banking,61,6,4110
+C0610,Customer 610,59,Male,Chicago,O1610,2024-09-01,Home Decor,Table Lamp,1833,Credit Card,186,24,43992
+C0611,Customer 611,26,Female,Chicago,O1611,2024-09-02,Sports,Handbag,1061,Net Banking,31,19,20159
+C0612,Customer 612,44,Female,Houston,O1612,2024-09-03,Beauty,Smartphone,1366,Debit Card,219,19,25954
+C0613,Customer 613,19,Male,Los Angeles,O1613,2024-09-04,Sports,Running Shoes,1034,Debit Card,12,36,37224
+C0614,Customer 614,22,Female,New York,O1614,2024-09-05,Electronics,Smartphone,1221,PayPal,302,9,10989
+C0615,Customer 615,46,Female,New York,O1615,2024-09-06,Home Decor,Running Shoes,65,Credit Card,32,48,3120
+C0616,Customer 616,54,Female,Miami,O1616,2024-09-07,Electronics,Lipstick,556,Debit Card,160,36,20016
+C0617,Customer 617,55,Female,Miami,O1617,2024-09-08,Electronics,Running Shoes,1145,Net Banking,237,38,43510
+C0618,Customer 618,36,Female,New York,O1618,2024-09-09,Fashion,Running Shoes,1831,Debit Card,227,40,73240
+C0619,Customer 619,25,Female,Chicago,O1619,2024-09-10,Home Decor,Running Shoes,1343,Debit Card,181,29,38947
+C0620,Customer 620,62,Female,Chicago,O1620,2024-09-11,Electronics,Table Lamp,45,PayPal,317,24,1080
+C0621,Customer 621,18,Female,Miami,O1621,2024-09-12,Beauty,Running Shoes,448,Net Banking,46,48,21504
+C0622,Customer 622,39,Male,Houston,O1622,2024-09-13,Electronics,Handbag,1762,Net Banking,341,5,8810
+C0623,Customer 623,34,Male,New York,O1623,2024-09-14,Beauty,Handbag,1625,Net Banking,80,42,68250
+C0624,Customer 624,24,Female,Miami,O1624,2024-09-15,Fashion,Smartphone,1859,PayPal,135,45,83655
+C0625,Customer 625,42,Male,Miami,O1625,2024-09-16,Electronics,Table Lamp,604,Net Banking,260,26,15704
+C0626,Customer 626,62,Female,New York,O1626,2024-09-17,Sports,Smartphone,1610,Net Banking,308,14,22540
+C0627,Customer 627,21,Female,New York,O1627,2024-09-18,Fashion,Handbag,1358,Debit Card,247,39,52962
+C0628,Customer 628,53,Male,Chicago,O1628,2024-09-19,Beauty,Handbag,1673,Debit Card,159,29,48517
+C0629,Customer 629,23,Female,Houston,O1629,2024-09-20,Fashion,Lipstick,316,Net Banking,203,6,1896
+C0630,Customer 630,48,Female,Houston,O1630,2024-09-21,Electronics,Running Shoes,1567,Credit Card,112,7,10969
+C0631,Customer 631,36,Female,New York,O1631,2024-09-22,Home Decor,Handbag,1761,Credit Card,292,37,65157
+C0632,Customer 632,61,Female,Los Angeles,O1632,2024-09-23,Home Decor,Smartphone,628,Net Banking,310,18,11304
+C0633,Customer 633,56,Male,Miami,O1633,2024-09-24,Beauty,Smartphone,1142,Credit Card,119,23,26266
+C0634,Customer 634,44,Female,Miami,O1634,2024-09-25,Beauty,Running Shoes,1405,PayPal,17,44,61820
+C0635,Customer 635,27,Female,New York,O1635,2024-09-26,Home Decor,Running Shoes,366,Debit Card,331,38,13908
+C0636,Customer 636,43,Female,Los Angeles,O1636,2024-09-27,Beauty,Lipstick,190,PayPal,227,1,190
+C0637,Customer 637,36,Male,Chicago,O1637,2024-09-28,Fashion,Table Lamp,1389,Debit Card,361,4,5556
+C0638,Customer 638,56,Female,New York,O1638,2024-09-29,Sports,Smartphone,1709,Credit Card,117,44,75196
+C0639,Customer 639,20,Male,New York,O1639,2024-09-30,Sports,Running Shoes,77,Credit Card,43,47,3619
+C0640,Customer 640,62,Male,Miami,O1640,2024-10-01,Fashion,Smartphone,301,Net Banking,115,35,10535
+C0641,Customer 641,30,Female,New York,O1641,2024-10-02,Sports,Running Shoes,701,Credit Card,283,23,16123
+C0642,Customer 642,45,Female,New York,O1642,2024-10-03,Electronics,Handbag,190,Credit Card,37,27,5130
+C0643,Customer 643,37,Male,New York,O1643,2024-10-04,Fashion,Smartphone,1499,Net Banking,302,26,38974
+C0644,Customer 644,45,Female,Miami,O1644,2024-10-05,Beauty,Handbag,443,Net Banking,113,8,3544
+C0645,Customer 645,25,Male,Chicago,O1645,2024-10-06,Fashion,Smartphone,1497,Debit Card,35,43,64371
+C0646,Customer 646,58,Male,Chicago,O1646,2024-10-07,Home Decor,Table Lamp,1714,Credit Card,132,16,27424
+C0647,Customer 647,56,Female,New York,O1647,2024-10-08,Beauty,Lipstick,923,Debit Card,336,41,37843
+C0648,Customer 648,18,Female,Miami,O1648,2024-10-09,Home Decor,Handbag,1567,Debit Card,336,3,4701
+C0649,Customer 649,20,Male,Chicago,O1649,2024-10-10,Beauty,Running Shoes,75,PayPal,228,32,2400
+C0650,Customer 650,30,Male,Chicago,O1650,2024-10-11,Sports,Table Lamp,1054,Credit Card,147,5,5270
+C0651,Customer 651,45,Male,Chicago,O1651,2024-10-12,Fashion,Smartphone,1645,Credit Card,122,20,32900
+C0652,Customer 652,42,Male,Miami,O1652,2024-10-13,Electronics,Handbag,393,PayPal,81,14,5502
+C0653,Customer 653,50,Female,Miami,O1653,2024-10-14,Beauty,Smartphone,1845,Debit Card,173,32,59040
+C0654,Customer 654,55,Female,New York,O1654,2024-10-15,Beauty,Smartphone,1648,Credit Card,154,26,42848
+C0655,Customer 655,23,Female,Houston,O1655,2024-10-16,Home Decor,Smartphone,1592,Debit Card,150,47,74824
+C0656,Customer 656,61,Female,Chicago,O1656,2024-10-17,Sports,Lipstick,48,PayPal,58,6,288
+C0657,Customer 657,62,Female,Houston,O1657,2024-10-18,Home Decor,Lipstick,1318,Net Banking,63,36,47448
+C0658,Customer 658,49,Male,Miami,O1658,2024-10-19,Home Decor,Running Shoes,831,Debit Card,156,40,33240
+C0659,Customer 659,62,Female,Miami,O1659,2024-10-20,Sports,Handbag,611,Credit Card,356,5,3055
+C0660,Customer 660,64,Female,Miami,O1660,2024-10-21,Electronics,Table Lamp,1630,Net Banking,322,13,21190
+C0661,Customer 661,38,Female,Houston,O1661,2024-10-22,Home Decor,Table Lamp,794,Debit Card,168,32,25408
+C0662,Customer 662,33,Female,Miami,O1662,2024-10-23,Home Decor,Table Lamp,1369,Debit Card,166,16,21904
+C0663,Customer 663,38,Female,New York,O1663,2024-10-24,Beauty,Smartphone,1221,Net Banking,85,1,1221
+C0664,Customer 664,28,Male,Miami,O1664,2024-10-25,Sports,Lipstick,680,Net Banking,137,13,8840
+C0665,Customer 665,54,Male,Los Angeles,O1665,2024-10-26,Fashion,Handbag,1276,Net Banking,189,11,14036
+C0666,Customer 666,53,Male,Houston,O1666,2024-10-27,Electronics,Smartphone,1106,Credit Card,2,8,8848
+C0667,Customer 667,52,Female,Los Angeles,O1667,2024-10-28,Electronics,Lipstick,488,Credit Card,106,25,12200
+C0668,Customer 668,36,Male,Miami,O1668,2024-10-29,Sports,Lipstick,570,Debit Card,364,40,22800
+C0669,Customer 669,37,Male,New York,O1669,2024-10-30,Beauty,Handbag,110,Debit Card,72,32,3520
+C0670,Customer 670,35,Female,Chicago,O1670,2024-10-31,Beauty,Handbag,523,PayPal,126,24,12552
+C0671,Customer 671,64,Female,Miami,O1671,2024-11-01,Sports,Handbag,1789,Credit Card,170,28,50092
+C0672,Customer 672,58,Female,New York,O1672,2024-11-02,Beauty,Smartphone,185,Debit Card,205,14,2590
+C0673,Customer 673,31,Male,Houston,O1673,2024-11-03,Electronics,Running Shoes,247,Net Banking,313,45,11115
+C0674,Customer 674,32,Male,Los Angeles,O1674,2024-11-04,Electronics,Handbag,919,Net Banking,337,3,2757
+C0675,Customer 675,48,Female,Los Angeles,O1675,2024-11-05,Fashion,Running Shoes,1092,Credit Card,195,36,39312
+C0676,Customer 676,18,Female,Los Angeles,O1676,2024-11-06,Sports,Smartphone,1898,Net Banking,158,27,51246
+C0677,Customer 677,20,Male,Houston,O1677,2024-11-07,Home Decor,Running Shoes,1132,PayPal,141,20,22640
+C0678,Customer 678,33,Male,New York,O1678,2024-11-08,Home Decor,Table Lamp,1987,Debit Card,275,47,93389
+C0679,Customer 679,40,Female,Houston,O1679,2024-11-09,Fashion,Running Shoes,880,Debit Card,7,15,13200
+C0680,Customer 680,28,Female,Los Angeles,O1680,2024-11-10,Fashion,Handbag,1987,Debit Card,54,27,53649
+C0681,Customer 681,29,Male,Miami,O1681,2024-11-11,Beauty,Smartphone,504,Credit Card,104,45,22680
+C0682,Customer 682,27,Female,Chicago,O1682,2024-11-12,Fashion,Handbag,956,Net Banking,342,41,39196
+C0683,Customer 683,49,Male,Houston,O1683,2024-11-13,Fashion,Table Lamp,1547,PayPal,338,28,43316
+C0684,Customer 684,33,Male,Houston,O1684,2024-11-14,Home Decor,Handbag,764,Credit Card,61,25,19100
+C0685,Customer 685,25,Male,New York,O1685,2024-11-15,Beauty,Handbag,1330,Debit Card,87,42,55860
+C0686,Customer 686,55,Male,New York,O1686,2024-11-16,Fashion,Handbag,220,PayPal,258,44,9680
+C0687,Customer 687,29,Female,Houston,O1687,2024-11-17,Fashion,Lipstick,1156,Debit Card,178,46,53176
+C0688,Customer 688,41,Female,Los Angeles,O1688,2024-11-18,Beauty,Table Lamp,1262,Debit Card,242,33,41646
+C0689,Customer 689,45,Male,Chicago,O1689,2024-11-19,Sports,Handbag,1627,Credit Card,203,46,74842
+C0690,Customer 690,25,Male,New York,O1690,2024-11-20,Beauty,Handbag,1689,Debit Card,31,14,23646
+C0691,Customer 691,45,Male,Los Angeles,O1691,2024-11-21,Home Decor,Handbag,1421,PayPal,289,8,11368
+C0692,Customer 692,53,Male,Miami,O1692,2024-11-22,Sports,Smartphone,149,Debit Card,80,48,7152
+C0693,Customer 693,43,Male,New York,O1693,2024-11-23,Electronics,Lipstick,550,Net Banking,11,14,7700
+C0694,Customer 694,25,Female,Los Angeles,O1694,2024-11-24,Beauty,Smartphone,1424,Debit Card,254,1,1424
+C0695,Customer 695,45,Female,Los Angeles,O1695,2024-11-25,Home Decor,Lipstick,279,Credit Card,287,16,4464
+C0696,Customer 696,45,Female,Chicago,O1696,2024-11-26,Sports,Handbag,1792,PayPal,176,18,32256
+C0697,Customer 697,54,Female,Chicago,O1697,2024-11-27,Beauty,Table Lamp,1045,Credit Card,126,7,7315
+C0698,Customer 698,58,Male,Miami,O1698,2024-11-28,Fashion,Running Shoes,1900,Net Banking,47,15,28500
+C0699,Customer 699,53,Male,Los Angeles,O1699,2024-11-29,Beauty,Running Shoes,1422,Debit Card,206,24,34128
+C0700,Customer 700,44,Male,Los Angeles,O1700,2024-11-30,Electronics,Handbag,1370,Credit Card,107,49,67130
+C0701,Customer 701,34,Male,Chicago,O1701,2024-12-01,Beauty,Smartphone,515,Credit Card,275,13,6695
+C0702,Customer 702,26,Male,New York,O1702,2024-12-02,Sports,Table Lamp,1139,Credit Card,337,9,10251
+C0703,Customer 703,50,Female,New York,O1703,2024-12-03,Sports,Lipstick,41,Credit Card,123,15,615
+C0704,Customer 704,37,Male,Houston,O1704,2024-12-04,Beauty,Handbag,1107,Net Banking,134,35,38745
+C0705,Customer 705,30,Female,Chicago,O1705,2024-12-05,Sports,Table Lamp,1204,Net Banking,107,24,28896
+C0706,Customer 706,45,Female,Houston,O1706,2024-12-06,Fashion,Table Lamp,1882,Debit Card,305,33,62106
+C0707,Customer 707,46,Female,Chicago,O1707,2024-12-07,Beauty,Lipstick,1102,Debit Card,329,16,17632
+C0708,Customer 708,30,Female,Miami,O1708,2024-12-08,Fashion,Table Lamp,822,PayPal,50,8,6576
+C0709,Customer 709,63,Male,Los Angeles,O1709,2024-12-09,Fashion,Smartphone,371,Net Banking,337,29,10759
+C0710,Customer 710,52,Female,Miami,O1710,2024-12-10,Home Decor,Smartphone,1682,Credit Card,95,23,38686
+C0711,Customer 711,23,Female,Chicago,O1711,2024-12-11,Beauty,Smartphone,1466,Credit Card,268,45,65970
+C0712,Customer 712,35,Female,Los Angeles,O1712,2024-12-12,Sports,Table Lamp,938,PayPal,23,31,29078
+C0713,Customer 713,22,Male,New York,O1713,2024-12-13,Fashion,Smartphone,109,Credit Card,54,40,4360
+C0714,Customer 714,64,Male,New York,O1714,2024-12-14,Home Decor,Lipstick,1691,PayPal,254,49,82859
+C0715,Customer 715,42,Male,Houston,O1715,2024-12-15,Beauty,Table Lamp,18,Debit Card,235,14,252
+C0716,Customer 716,19,Female,Chicago,O1716,2024-12-16,Beauty,Running Shoes,1607,Net Banking,59,30,48210
+C0717,Customer 717,27,Female,Chicago,O1717,2024-12-17,Electronics,Table Lamp,706,PayPal,164,39,27534
+C0718,Customer 718,47,Male,New York,O1718,2024-12-18,Electronics,Lipstick,1062,Credit Card,259,27,28674
+C0719,Customer 719,62,Female,Miami,O1719,2024-12-19,Fashion,Running Shoes,1926,PayPal,314,47,90522
+C0720,Customer 720,22,Male,Los Angeles,O1720,2024-12-20,Electronics,Table Lamp,1147,Debit Card,216,16,18352
+C0721,Customer 721,50,Male,Miami,O1721,2024-12-21,Fashion,Smartphone,471,Credit Card,183,6,2826
+C0722,Customer 722,18,Female,Miami,O1722,2024-12-22,Sports,Handbag,930,Debit Card,57,33,30690
+C0723,Customer 723,35,Female,New York,O1723,2024-12-23,Fashion,Handbag,1176,Debit Card,145,44,51744
+C0724,Customer 724,49,Female,New York,O1724,2024-12-24,Electronics,Smartphone,399,PayPal,90,18,7182
+C0725,Customer 725,64,Female,New York,O1725,2024-12-25,Sports,Handbag,641,Debit Card,311,16,10256
+C0726,Customer 726,28,Male,Houston,O1726,2024-12-26,Electronics,Handbag,691,Credit Card,45,12,8292
+C0727,Customer 727,38,Male,Miami,O1727,2024-12-27,Fashion,Smartphone,166,Debit Card,257,20,3320
+C0728,Customer 728,43,Male,Chicago,O1728,2024-12-28,Home Decor,Smartphone,344,Debit Card,21,45,15480
+C0729,Customer 729,42,Male,Los Angeles,O1729,2024-12-29,Beauty,Table Lamp,1894,PayPal,21,40,75760
+C0730,Customer 730,39,Male,Houston,O1730,2024-12-30,Electronics,Table Lamp,269,Debit Card,52,29,7801
+C0731,Customer 731,44,Female,Chicago,O1731,2024-12-31,Fashion,Smartphone,91,Net Banking,338,30,2730
+C0732,Customer 732,30,Male,Miami,O1732,2025-01-01,Sports,Lipstick,763,PayPal,171,26,19838
+C0733,Customer 733,50,Male,New York,O1733,2025-01-02,Electronics,Handbag,1474,PayPal,67,22,32428
+C0734,Customer 734,51,Male,Miami,O1734,2025-01-03,Electronics,Table Lamp,1978,Credit Card,113,33,65274
+C0735,Customer 735,58,Female,Los Angeles,O1735,2025-01-04,Beauty,Handbag,1205,Credit Card,300,39,46995
+C0736,Customer 736,52,Female,Houston,O1736,2025-01-05,Fashion,Running Shoes,1264,Credit Card,160,47,59408
+C0737,Customer 737,18,Female,Houston,O1737,2025-01-06,Home Decor,Smartphone,729,Credit Card,266,29,21141
+C0738,Customer 738,38,Female,Los Angeles,O1738,2025-01-07,Sports,Lipstick,84,Net Banking,320,22,1848
+C0739,Customer 739,23,Male,Chicago,O1739,2025-01-08,Fashion,Running Shoes,1303,PayPal,232,45,58635
+C0740,Customer 740,45,Male,Chicago,O1740,2025-01-09,Sports,Running Shoes,1932,Debit Card,325,13,25116
+C0741,Customer 741,34,Female,Houston,O1741,2025-01-10,Electronics,Running Shoes,635,Credit Card,68,9,5715
+C0742,Customer 742,22,Female,Houston,O1742,2025-01-11,Beauty,Smartphone,71,Credit Card,28,24,1704
+C0743,Customer 743,48,Male,New York,O1743,2025-01-12,Beauty,Table Lamp,883,Credit Card,116,15,13245
+C0744,Customer 744,22,Male,Chicago,O1744,2025-01-13,Home Decor,Smartphone,329,Debit Card,51,36,11844
+C0745,Customer 745,55,Female,Los Angeles,O1745,2025-01-14,Beauty,Table Lamp,111,Credit Card,181,13,1443
+C0746,Customer 746,20,Female,Chicago,O1746,2025-01-15,Electronics,Running Shoes,1462,Debit Card,260,27,39474
+C0747,Customer 747,40,Female,New York,O1747,2025-01-16,Home Decor,Running Shoes,883,PayPal,79,44,38852
+C0748,Customer 748,54,Female,Houston,O1748,2025-01-17,Fashion,Lipstick,1755,PayPal,273,37,64935
+C0749,Customer 749,54,Male,Houston,O1749,2025-01-18,Beauty,Table Lamp,963,PayPal,108,7,6741
+C0750,Customer 750,27,Male,New York,O1750,2025-01-19,Home Decor,Running Shoes,264,Net Banking,74,8,2112
+C0751,Customer 751,27,Male,Los Angeles,O1751,2025-01-20,Electronics,Handbag,1565,Debit Card,175,37,57905
+C0752,Customer 752,36,Female,Houston,O1752,2025-01-21,Sports,Lipstick,579,Credit Card,184,41,23739
+C0753,Customer 753,34,Female,Miami,O1753,2025-01-22,Sports,Smartphone,121,Credit Card,23,14,1694
+C0754,Customer 754,38,Male,Houston,O1754,2025-01-23,Electronics,Lipstick,994,Credit Card,274,12,11928
+C0755,Customer 755,31,Male,Miami,O1755,2025-01-24,Electronics,Handbag,1346,Credit Card,129,36,48456
+C0756,Customer 756,26,Male,New York,O1756,2025-01-25,Sports,Table Lamp,1007,Net Banking,291,40,40280
+C0757,Customer 757,63,Male,New York,O1757,2025-01-26,Home Decor,Smartphone,470,Credit Card,320,17,7990
+C0758,Customer 758,18,Female,Houston,O1758,2025-01-27,Sports,Smartphone,717,Net Banking,186,40,28680
+C0759,Customer 759,62,Male,Chicago,O1759,2025-01-28,Electronics,Table Lamp,896,Debit Card,59,29,25984
+C0760,Customer 760,30,Male,Miami,O1760,2025-01-29,Beauty,Lipstick,1495,PayPal,1,27,40365
+C0761,Customer 761,21,Male,Los Angeles,O1761,2025-01-30,Fashion,Running Shoes,1898,Credit Card,131,1,1898
+C0762,Customer 762,18,Male,Houston,O1762,2025-01-31,Beauty,Lipstick,1125,PayPal,67,34,38250
+C0763,Customer 763,57,Male,Los Angeles,O1763,2025-02-01,Beauty,Handbag,1085,Debit Card,293,4,4340
+C0764,Customer 764,49,Male,Houston,O1764,2025-02-02,Electronics,Running Shoes,1838,Debit Card,285,24,44112
+C0765,Customer 765,51,Male,Chicago,O1765,2025-02-03,Sports,Lipstick,529,Credit Card,89,21,11109
+C0766,Customer 766,45,Female,Chicago,O1766,2025-02-04,Home Decor,Table Lamp,821,Debit Card,100,33,27093
+C0767,Customer 767,48,Female,Chicago,O1767,2025-02-05,Beauty,Handbag,1131,PayPal,189,7,7917
+C0768,Customer 768,25,Female,Chicago,O1768,2025-02-06,Sports,Handbag,245,Credit Card,346,1,245
+C0769,Customer 769,56,Female,New York,O1769,2025-02-07,Home Decor,Handbag,1934,Net Banking,241,41,79294
+C0770,Customer 770,43,Male,New York,O1770,2025-02-08,Beauty,Running Shoes,1407,Credit Card,270,3,4221
+C0771,Customer 771,51,Female,Miami,O1771,2025-02-09,Home Decor,Smartphone,1614,PayPal,219,44,71016
+C0772,Customer 772,20,Female,Los Angeles,O1772,2025-02-10,Sports,Running Shoes,936,Credit Card,176,15,14040
+C0773,Customer 773,29,Male,Houston,O1773,2025-02-11,Fashion,Lipstick,566,Credit Card,341,31,17546
+C0774,Customer 774,18,Male,Houston,O1774,2025-02-12,Sports,Smartphone,658,PayPal,233,16,10528
+C0775,Customer 775,61,Female,New York,O1775,2025-02-13,Electronics,Lipstick,243,Credit Card,151,10,2430
+C0776,Customer 776,22,Female,Houston,O1776,2025-02-14,Home Decor,Smartphone,1065,Credit Card,277,29,30885
+C0777,Customer 777,47,Male,New York,O1777,2025-02-15,Fashion,Running Shoes,1322,PayPal,229,6,7932
+C0778,Customer 778,47,Female,Miami,O1778,2025-02-16,Home Decor,Handbag,1671,Debit Card,171,29,48459
+C0779,Customer 779,34,Male,Los Angeles,O1779,2025-02-17,Home Decor,Table Lamp,588,PayPal,223,17,9996
+C0780,Customer 780,64,Male,Miami,O1780,2025-02-18,Beauty,Handbag,551,Credit Card,213,22,12122
+C0781,Customer 781,40,Male,Chicago,O1781,2025-02-19,Electronics,Running Shoes,123,Net Banking,282,24,2952
+C0782,Customer 782,32,Male,Chicago,O1782,2025-02-20,Home Decor,Smartphone,213,Net Banking,41,17,3621
+C0783,Customer 783,54,Female,Chicago,O1783,2025-02-21,Sports,Handbag,1062,PayPal,122,21,22302
+C0784,Customer 784,38,Male,Miami,O1784,2025-02-22,Sports,Running Shoes,652,Net Banking,227,11,7172
+C0785,Customer 785,31,Male,Houston,O1785,2025-02-23,Beauty,Lipstick,483,Credit Card,294,7,3381
+C0786,Customer 786,19,Female,Los Angeles,O1786,2025-02-24,Electronics,Table Lamp,706,Credit Card,88,42,29652
+C0787,Customer 787,28,Male,Chicago,O1787,2025-02-25,Electronics,Handbag,262,PayPal,267,39,10218
+C0788,Customer 788,56,Female,Chicago,O1788,2025-02-26,Sports,Smartphone,1831,Credit Card,29,5,9155
+C0789,Customer 789,55,Female,Chicago,O1789,2025-02-27,Fashion,Lipstick,914,Debit Card,247,44,40216
+C0790,Customer 790,51,Female,Los Angeles,O1790,2025-02-28,Beauty,Running Shoes,1955,Credit Card,316,48,93840
+C0791,Customer 791,55,Male,Chicago,O1791,2025-03-01,Beauty,Table Lamp,395,PayPal,244,21,8295
+C0792,Customer 792,51,Female,Los Angeles,O1792,2025-03-02,Sports,Smartphone,71,Debit Card,61,18,1278
+C0793,Customer 793,35,Female,Chicago,O1793,2025-03-03,Sports,Running Shoes,524,Debit Card,147,35,18340
+C0794,Customer 794,47,Male,Miami,O1794,2025-03-04,Fashion,Running Shoes,439,Net Banking,174,20,8780
+C0795,Customer 795,32,Female,Miami,O1795,2025-03-05,Fashion,Handbag,589,Credit Card,278,15,8835
+C0796,Customer 796,44,Female,Los Angeles,O1796,2025-03-06,Electronics,Handbag,1570,PayPal,334,5,7850
+C0797,Customer 797,51,Female,Miami,O1797,2025-03-07,Beauty,Smartphone,1724,Net Banking,142,13,22412
+C0798,Customer 798,55,Female,Los Angeles,O1798,2025-03-08,Beauty,Running Shoes,1174,Net Banking,44,12,14088
+C0799,Customer 799,50,Female,Miami,O1799,2025-03-09,Sports,Handbag,752,Credit Card,144,21,15792
+C0800,Customer 800,41,Male,Miami,O1800,2025-03-10,Electronics,Table Lamp,1333,Credit Card,353,37,49321
+C0801,Customer 801,32,Female,Los Angeles,O1801,2025-03-11,Beauty,Table Lamp,684,PayPal,333,6,4104
+C0802,Customer 802,47,Female,Houston,O1802,2025-03-12,Electronics,Running Shoes,320,Net Banking,55,7,2240
+C0803,Customer 803,59,Male,Miami,O1803,2025-03-13,Electronics,Handbag,480,PayPal,307,26,12480
+C0804,Customer 804,34,Male,Chicago,O1804,2025-03-14,Sports,Smartphone,1426,Net Banking,358,42,59892
+C0805,Customer 805,22,Male,Houston,O1805,2025-03-15,Electronics,Smartphone,1675,Net Banking,161,48,80400
+C0806,Customer 806,46,Female,Los Angeles,O1806,2025-03-16,Fashion,Smartphone,1478,Net Banking,285,8,11824
+C0807,Customer 807,21,Male,Houston,O1807,2025-03-17,Fashion,Table Lamp,1791,Credit Card,325,9,16119
+C0808,Customer 808,27,Female,New York,O1808,2025-03-18,Home Decor,Handbag,818,Net Banking,198,27,22086
+C0809,Customer 809,34,Female,New York,O1809,2025-03-19,Sports,Handbag,181,Net Banking,159,4,724
+C0810,Customer 810,27,Male,Miami,O1810,2025-03-20,Home Decor,Table Lamp,585,Net Banking,80,21,12285
+C0811,Customer 811,34,Male,Miami,O1811,2025-03-21,Fashion,Smartphone,40,Debit Card,31,31,1240
+C0812,Customer 812,37,Female,Chicago,O1812,2025-03-22,Home Decor,Smartphone,56,Credit Card,112,21,1176
+C0813,Customer 813,41,Male,Houston,O1813,2025-03-23,Sports,Running Shoes,139,Debit Card,46,40,5560
+C0814,Customer 814,22,Female,New York,O1814,2025-03-24,Sports,Lipstick,361,Credit Card,353,25,9025
+C0815,Customer 815,51,Male,Miami,O1815,2025-03-25,Electronics,Handbag,987,PayPal,205,39,38493
+C0816,Customer 816,23,Male,Houston,O1816,2025-03-26,Beauty,Handbag,1878,Debit Card,52,15,28170
+C0817,Customer 817,19,Male,Miami,O1817,2025-03-27,Electronics,Handbag,1655,PayPal,138,35,57925
+C0818,Customer 818,30,Female,Miami,O1818,2025-03-28,Sports,Lipstick,1614,Net Banking,74,49,79086
+C0819,Customer 819,60,Male,New York,O1819,2025-03-29,Fashion,Running Shoes,67,PayPal,41,43,2881
+C0820,Customer 820,60,Female,New York,O1820,2025-03-30,Fashion,Lipstick,1139,PayPal,77,41,46699
+C0821,Customer 821,28,Female,Miami,O1821,2025-03-31,Electronics,Smartphone,821,PayPal,187,37,30377
+C0822,Customer 822,64,Female,Los Angeles,O1822,2025-04-01,Sports,Smartphone,1363,PayPal,52,42,57246
+C0823,Customer 823,40,Female,Miami,O1823,2025-04-02,Fashion,Handbag,777,Credit Card,87,47,36519
+C0824,Customer 824,33,Male,Miami,O1824,2025-04-03,Sports,Table Lamp,1857,Debit Card,109,28,51996
+C0825,Customer 825,48,Female,Chicago,O1825,2025-04-04,Fashion,Handbag,692,Credit Card,225,14,9688
+C0826,Customer 826,28,Female,Chicago,O1826,2025-04-05,Sports,Table Lamp,1416,Credit Card,248,4,5664
+C0827,Customer 827,33,Male,Chicago,O1827,2025-04-06,Home Decor,Lipstick,1195,Credit Card,69,20,23900
+C0828,Customer 828,25,Female,Los Angeles,O1828,2025-04-07,Sports,Smartphone,1006,PayPal,120,34,34204
+C0829,Customer 829,21,Male,Los Angeles,O1829,2025-04-08,Sports,Table Lamp,295,Credit Card,67,12,3540
+C0830,Customer 830,57,Female,Miami,O1830,2025-04-09,Electronics,Lipstick,1104,Debit Card,61,33,36432
+C0831,Customer 831,21,Male,Chicago,O1831,2025-04-10,Home Decor,Smartphone,1800,Credit Card,327,24,43200
+C0832,Customer 832,42,Female,Los Angeles,O1832,2025-04-11,Beauty,Table Lamp,1487,Net Banking,191,20,29740
+C0833,Customer 833,20,Male,New York,O1833,2025-04-12,Electronics,Handbag,895,PayPal,189,5,4475
+C0834,Customer 834,49,Female,Miami,O1834,2025-04-13,Beauty,Handbag,1600,Net Banking,151,38,60800
+C0835,Customer 835,20,Female,Houston,O1835,2025-04-14,Fashion,Handbag,1868,Debit Card,286,30,56040
+C0836,Customer 836,44,Male,Miami,O1836,2025-04-15,Beauty,Lipstick,406,Debit Card,96,24,9744
+C0837,Customer 837,46,Male,Houston,O1837,2025-04-16,Sports,Handbag,1548,Debit Card,312,43,66564
+C0838,Customer 838,49,Male,Chicago,O1838,2025-04-17,Beauty,Running Shoes,35,Debit Card,309,40,1400
+C0839,Customer 839,36,Male,Houston,O1839,2025-04-18,Electronics,Smartphone,322,Credit Card,263,7,2254
+C0840,Customer 840,38,Female,Chicago,O1840,2025-04-19,Electronics,Lipstick,135,PayPal,97,36,4860
+C0841,Customer 841,22,Female,New York,O1841,2025-04-20,Beauty,Handbag,1441,Debit Card,113,38,54758
+C0842,Customer 842,35,Male,Houston,O1842,2025-04-21,Electronics,Smartphone,1598,Net Banking,125,16,25568
+C0843,Customer 843,45,Female,Miami,O1843,2025-04-22,Electronics,Table Lamp,1231,Debit Card,132,15,18465
+C0844,Customer 844,59,Male,Chicago,O1844,2025-04-23,Beauty,Handbag,820,PayPal,121,46,37720
+C0845,Customer 845,39,Male,Miami,O1845,2025-04-24,Home Decor,Smartphone,197,Net Banking,197,23,4531
+C0846,Customer 846,38,Female,Los Angeles,O1846,2025-04-25,Home Decor,Running Shoes,707,Net Banking,294,12,8484
+C0847,Customer 847,23,Female,Chicago,O1847,2025-04-26,Fashion,Table Lamp,1850,Net Banking,122,29,53650
+C0848,Customer 848,18,Female,Houston,O1848,2025-04-27,Electronics,Running Shoes,819,Credit Card,282,44,36036
+C0849,Customer 849,22,Female,Chicago,O1849,2025-04-28,Beauty,Smartphone,725,Debit Card,260,48,34800
+C0850,Customer 850,58,Female,Miami,O1850,2025-04-29,Electronics,Running Shoes,1517,Credit Card,39,15,22755
+C0851,Customer 851,29,Female,New York,O1851,2025-04-30,Sports,Smartphone,459,Net Banking,54,29,13311
+C0852,Customer 852,43,Female,Chicago,O1852,2025-05-01,Electronics,Smartphone,532,Credit Card,161,45,23940
+C0853,Customer 853,63,Male,Houston,O1853,2025-05-02,Electronics,Running Shoes,1904,Credit Card,289,43,81872
+C0854,Customer 854,51,Male,Los Angeles,O1854,2025-05-03,Home Decor,Smartphone,1387,Credit Card,200,49,67963
+C0855,Customer 855,31,Male,New York,O1855,2025-05-04,Beauty,Handbag,995,Debit Card,276,21,20895
+C0856,Customer 856,43,Male,Los Angeles,O1856,2025-05-05,Electronics,Smartphone,667,Net Banking,16,15,10005
+C0857,Customer 857,62,Male,Chicago,O1857,2025-05-06,Home Decor,Lipstick,606,Net Banking,173,14,8484
+C0858,Customer 858,44,Female,Miami,O1858,2025-05-07,Fashion,Smartphone,109,Debit Card,248,42,4578
+C0859,Customer 859,26,Male,Miami,O1859,2025-05-08,Home Decor,Lipstick,625,Credit Card,218,44,27500
+C0860,Customer 860,43,Male,Houston,O1860,2025-05-09,Home Decor,Smartphone,957,Credit Card,87,16,15312
+C0861,Customer 861,64,Male,Miami,O1861,2025-05-10,Home Decor,Smartphone,1591,PayPal,82,15,23865
+C0862,Customer 862,39,Male,New York,O1862,2025-05-11,Electronics,Running Shoes,565,PayPal,62,42,23730
+C0863,Customer 863,64,Male,Miami,O1863,2025-05-12,Electronics,Handbag,287,PayPal,287,4,1148
+C0864,Customer 864,47,Male,Houston,O1864,2025-05-13,Fashion,Handbag,1726,Debit Card,42,27,46602
+C0865,Customer 865,60,Male,Chicago,O1865,2025-05-14,Sports,Table Lamp,1732,Net Banking,12,23,39836
+C0866,Customer 866,34,Female,Chicago,O1866,2025-05-15,Sports,Running Shoes,1659,PayPal,321,29,48111
+C0867,Customer 867,43,Female,Miami,O1867,2025-05-16,Sports,Running Shoes,500,Net Banking,234,41,20500
+C0868,Customer 868,53,Male,Los Angeles,O1868,2025-05-17,Fashion,Handbag,264,Net Banking,329,9,2376
+C0869,Customer 869,18,Female,Chicago,O1869,2025-05-18,Sports,Running Shoes,390,Net Banking,131,43,16770
+C0870,Customer 870,25,Female,Miami,O1870,2025-05-19,Sports,Handbag,901,Debit Card,115,43,38743
+C0871,Customer 871,52,Female,Houston,O1871,2025-05-20,Home Decor,Running Shoes,551,Debit Card,218,7,3857
+C0872,Customer 872,32,Female,Miami,O1872,2025-05-21,Electronics,Smartphone,1297,Debit Card,137,42,54474
+C0873,Customer 873,64,Male,Chicago,O1873,2025-05-22,Electronics,Handbag,1643,Debit Card,106,4,6572
+C0874,Customer 874,39,Female,Houston,O1874,2025-05-23,Home Decor,Handbag,834,PayPal,179,5,4170
+C0875,Customer 875,31,Female,Miami,O1875,2025-05-24,Home Decor,Lipstick,888,Credit Card,16,5,4440
+C0876,Customer 876,43,Female,New York,O1876,2025-05-25,Home Decor,Running Shoes,1362,Credit Card,242,11,14982
+C0877,Customer 877,45,Male,Houston,O1877,2025-05-26,Electronics,Running Shoes,1148,Credit Card,334,41,47068
+C0878,Customer 878,40,Male,New York,O1878,2025-05-27,Sports,Handbag,1309,PayPal,226,28,36652
+C0879,Customer 879,31,Male,Los Angeles,O1879,2025-05-28,Home Decor,Smartphone,1521,Credit Card,242,16,24336
+C0880,Customer 880,41,Male,Houston,O1880,2025-05-29,Fashion,Smartphone,290,PayPal,141,41,11890
+C0881,Customer 881,19,Male,New York,O1881,2025-05-30,Home Decor,Smartphone,1308,PayPal,199,30,39240
+C0882,Customer 882,62,Male,Chicago,O1882,2025-05-31,Beauty,Running Shoes,782,PayPal,112,4,3128
+C0883,Customer 883,43,Male,Chicago,O1883,2025-06-01,Home Decor,Lipstick,852,Credit Card,127,2,1704
+C0884,Customer 884,31,Female,Los Angeles,O1884,2025-06-02,Electronics,Handbag,728,Net Banking,21,46,33488
+C0885,Customer 885,24,Female,Houston,O1885,2025-06-03,Home Decor,Table Lamp,1929,Credit Card,147,3,5787
+C0886,Customer 886,20,Female,Houston,O1886,2025-06-04,Beauty,Lipstick,337,Credit Card,89,21,7077
+C0887,Customer 887,64,Male,Houston,O1887,2025-06-05,Fashion,Table Lamp,220,Debit Card,303,6,1320
+C0888,Customer 888,40,Male,Los Angeles,O1888,2025-06-06,Sports,Lipstick,736,PayPal,203,43,31648
+C0889,Customer 889,63,Male,Houston,O1889,2025-06-07,Home Decor,Smartphone,932,Net Banking,85,18,16776
+C0890,Customer 890,60,Male,Chicago,O1890,2025-06-08,Beauty,Running Shoes,561,Debit Card,167,44,24684
+C0891,Customer 891,64,Male,New York,O1891,2025-06-09,Beauty,Table Lamp,35,Net Banking,72,5,175
+C0892,Customer 892,62,Female,Chicago,O1892,2025-06-10,Fashion,Lipstick,36,Net Banking,298,9,324
+C0893,Customer 893,35,Female,Chicago,O1893,2025-06-11,Electronics,Running Shoes,711,PayPal,9,20,14220
+C0894,Customer 894,55,Male,New York,O1894,2025-06-12,Home Decor,Table Lamp,1116,Credit Card,281,28,31248
+C0895,Customer 895,52,Male,Chicago,O1895,2025-06-13,Beauty,Handbag,1929,PayPal,258,26,50154
+C0896,Customer 896,32,Male,Los Angeles,O1896,2025-06-14,Fashion,Lipstick,1979,PayPal,275,18,35622
+C0897,Customer 897,42,Male,New York,O1897,2025-06-15,Sports,Handbag,691,Debit Card,238,19,13129
+C0898,Customer 898,54,Female,Chicago,O1898,2025-06-16,Beauty,Smartphone,422,PayPal,20,3,1266
+C0899,Customer 899,45,Male,Miami,O1899,2025-06-17,Fashion,Handbag,176,Credit Card,233,9,1584
+C0900,Customer 900,27,Male,Chicago,O1900,2025-06-18,Electronics,Handbag,1733,Net Banking,221,36,62388
+C0901,Customer 901,56,Male,Los Angeles,O1901,2025-06-19,Electronics,Lipstick,178,PayPal,326,31,5518
+C0902,Customer 902,34,Male,Houston,O1902,2025-06-20,Beauty,Smartphone,1834,Net Banking,17,49,89866
+C0903,Customer 903,56,Female,Chicago,O1903,2025-06-21,Beauty,Handbag,238,PayPal,89,17,4046
+C0904,Customer 904,39,Male,Houston,O1904,2025-06-22,Home Decor,Running Shoes,1642,Net Banking,196,23,37766
+C0905,Customer 905,43,Male,Miami,O1905,2025-06-23,Fashion,Table Lamp,376,PayPal,350,34,12784
+C0906,Customer 906,61,Female,Chicago,O1906,2025-06-24,Beauty,Handbag,537,Debit Card,84,41,22017
+C0907,Customer 907,42,Female,New York,O1907,2025-06-25,Home Decor,Smartphone,800,Net Banking,87,41,32800
+C0908,Customer 908,34,Female,Houston,O1908,2025-06-26,Home Decor,Handbag,1680,PayPal,307,5,8400
+C0909,Customer 909,30,Male,Miami,O1909,2025-06-27,Beauty,Table Lamp,1571,PayPal,338,15,23565
+C0910,Customer 910,37,Male,New York,O1910,2025-06-28,Electronics,Smartphone,1897,Debit Card,154,47,89159
+C0911,Customer 911,42,Female,New York,O1911,2025-06-29,Fashion,Lipstick,533,Debit Card,228,3,1599
+C0912,Customer 912,21,Female,New York,O1912,2025-06-30,Fashion,Smartphone,1105,Debit Card,264,19,20995
+C0913,Customer 913,27,Female,New York,O1913,2025-07-01,Electronics,Lipstick,1678,Net Banking,223,28,46984
+C0914,Customer 914,20,Female,Chicago,O1914,2025-07-02,Beauty,Smartphone,115,Net Banking,121,3,345
+C0915,Customer 915,58,Female,Chicago,O1915,2025-07-03,Fashion,Table Lamp,741,Debit Card,173,38,28158
+C0916,Customer 916,62,Female,Chicago,O1916,2025-07-04,Beauty,Table Lamp,1918,Credit Card,4,4,7672
+C0917,Customer 917,35,Male,Miami,O1917,2025-07-05,Beauty,Smartphone,974,Credit Card,342,24,23376
+C0918,Customer 918,64,Male,Miami,O1918,2025-07-06,Home Decor,Handbag,1722,PayPal,128,31,53382
+C0919,Customer 919,53,Male,Miami,O1919,2025-07-07,Electronics,Table Lamp,1315,Credit Card,110,45,59175
+C0920,Customer 920,64,Female,Los Angeles,O1920,2025-07-08,Beauty,Lipstick,142,PayPal,355,45,6390
+C0921,Customer 921,39,Female,Miami,O1921,2025-07-09,Sports,Lipstick,543,Net Banking,37,11,5973
+C0922,Customer 922,51,Female,Chicago,O1922,2025-07-10,Electronics,Running Shoes,984,Net Banking,71,37,36408
+C0923,Customer 923,64,Female,Chicago,O1923,2025-07-11,Fashion,Lipstick,278,Credit Card,289,1,278
+C0924,Customer 924,25,Female,Los Angeles,O1924,2025-07-12,Home Decor,Running Shoes,1445,Net Banking,31,9,13005
+C0925,Customer 925,57,Female,Los Angeles,O1925,2025-07-13,Fashion,Smartphone,682,Debit Card,268,17,11594
+C0926,Customer 926,61,Male,Miami,O1926,2025-07-14,Fashion,Smartphone,1652,Debit Card,11,1,1652
+C0927,Customer 927,36,Male,Houston,O1927,2025-07-15,Electronics,Smartphone,800,Credit Card,344,3,2400
+C0928,Customer 928,59,Female,Los Angeles,O1928,2025-07-16,Fashion,Handbag,1898,Credit Card,328,47,89206
+C0929,Customer 929,58,Male,New York,O1929,2025-07-17,Beauty,Handbag,1780,PayPal,32,26,46280
+C0930,Customer 930,54,Female,Chicago,O1930,2025-07-18,Fashion,Running Shoes,27,Net Banking,57,31,837
+C0931,Customer 931,23,Male,New York,O1931,2025-07-19,Home Decor,Lipstick,1787,PayPal,166,26,46462
+C0932,Customer 932,43,Female,Chicago,O1932,2025-07-20,Home Decor,Lipstick,126,PayPal,188,23,2898
+C0933,Customer 933,51,Female,Chicago,O1933,2025-07-21,Sports,Smartphone,807,Debit Card,342,30,24210
+C0934,Customer 934,62,Male,Los Angeles,O1934,2025-07-22,Home Decor,Table Lamp,1827,Debit Card,19,10,18270
+C0935,Customer 935,23,Male,Los Angeles,O1935,2025-07-23,Fashion,Handbag,1177,Debit Card,116,8,9416
+C0936,Customer 936,54,Female,New York,O1936,2025-07-24,Home Decor,Handbag,1750,Debit Card,184,44,77000
+C0937,Customer 937,50,Female,Chicago,O1937,2025-07-25,Electronics,Smartphone,560,PayPal,270,25,14000
+C0938,Customer 938,39,Male,New York,O1938,2025-07-26,Home Decor,Handbag,938,Debit Card,33,22,20636
+C0939,Customer 939,38,Male,Houston,O1939,2025-07-27,Beauty,Smartphone,1699,Net Banking,10,15,25485
+C0940,Customer 940,23,Female,New York,O1940,2025-07-28,Electronics,Running Shoes,1721,Debit Card,80,41,70561
+C0941,Customer 941,23,Male,Miami,O1941,2025-07-29,Sports,Lipstick,1994,Debit Card,192,10,19940
+C0942,Customer 942,21,Female,New York,O1942,2025-07-30,Beauty,Table Lamp,762,Debit Card,320,20,15240
+C0943,Customer 943,47,Female,Miami,O1943,2025-07-31,Fashion,Lipstick,431,Credit Card,190,41,17671
+C0944,Customer 944,28,Female,Miami,O1944,2025-08-01,Fashion,Lipstick,1931,Net Banking,68,47,90757
+C0945,Customer 945,47,Female,Miami,O1945,2025-08-02,Fashion,Running Shoes,1402,Net Banking,348,23,32246
+C0946,Customer 946,48,Male,Houston,O1946,2025-08-03,Beauty,Handbag,655,PayPal,125,1,655
+C0947,Customer 947,41,Male,New York,O1947,2025-08-04,Beauty,Table Lamp,567,PayPal,336,2,1134
+C0948,Customer 948,26,Male,New York,O1948,2025-08-05,Beauty,Handbag,59,Debit Card,59,19,1121
+C0949,Customer 949,20,Male,Houston,O1949,2025-08-06,Electronics,Lipstick,687,Credit Card,97,14,9618
+C0950,Customer 950,48,Male,Chicago,O1950,2025-08-07,Electronics,Smartphone,115,PayPal,275,8,920
+C0951,Customer 951,57,Male,Los Angeles,O1951,2025-08-08,Fashion,Lipstick,1249,PayPal,149,38,47462
+C0952,Customer 952,54,Male,New York,O1952,2025-08-09,Home Decor,Handbag,667,Debit Card,278,12,8004
+C0953,Customer 953,53,Female,Los Angeles,O1953,2025-08-10,Fashion,Lipstick,1956,Debit Card,265,26,50856
+C0954,Customer 954,41,Male,Houston,O1954,2025-08-11,Sports,Smartphone,1458,PayPal,9,27,39366
+C0955,Customer 955,48,Male,Chicago,O1955,2025-08-12,Electronics,Running Shoes,1105,PayPal,283,29,32045
+C0956,Customer 956,23,Female,Chicago,O1956,2025-08-13,Beauty,Handbag,997,Net Banking,273,15,14955
+C0957,Customer 957,19,Male,Chicago,O1957,2025-08-14,Electronics,Lipstick,851,Credit Card,301,46,39146
+C0958,Customer 958,37,Male,Houston,O1958,2025-08-15,Beauty,Handbag,1818,Net Banking,8,1,1818
+C0959,Customer 959,45,Female,Miami,O1959,2025-08-16,Sports,Running Shoes,1792,PayPal,208,43,77056
+C0960,Customer 960,28,Male,Miami,O1960,2025-08-17,Sports,Lipstick,455,Net Banking,125,28,12740
+C0961,Customer 961,21,Male,Los Angeles,O1961,2025-08-18,Electronics,Lipstick,1958,Net Banking,123,3,5874
+C0962,Customer 962,32,Male,Miami,O1962,2025-08-19,Beauty,Handbag,1219,PayPal,33,18,21942
+C0963,Customer 963,23,Female,Miami,O1963,2025-08-20,Sports,Handbag,79,Debit Card,1,34,2686
+C0964,Customer 964,47,Male,Chicago,O1964,2025-08-21,Fashion,Smartphone,159,PayPal,204,32,5088
+C0965,Customer 965,55,Male,Chicago,O1965,2025-08-22,Fashion,Running Shoes,1279,Debit Card,6,29,37091
+C0966,Customer 966,19,Female,Los Angeles,O1966,2025-08-23,Beauty,Smartphone,783,PayPal,297,25,19575
+C0967,Customer 967,32,Male,New York,O1967,2025-08-24,Electronics,Lipstick,1571,PayPal,5,26,40846
+C0968,Customer 968,28,Female,Los Angeles,O1968,2025-08-25,Sports,Handbag,1968,PayPal,80,39,76752
+C0969,Customer 969,25,Female,Los Angeles,O1969,2025-08-26,Electronics,Lipstick,1685,Credit Card,274,8,13480
+C0970,Customer 970,43,Male,Houston,O1970,2025-08-27,Fashion,Lipstick,1132,Debit Card,177,19,21508
+C0971,Customer 971,62,Female,Houston,O1971,2025-08-28,Sports,Table Lamp,1943,Credit Card,338,47,91321
+C0972,Customer 972,61,Female,Los Angeles,O1972,2025-08-29,Electronics,Table Lamp,1311,PayPal,321,42,55062
+C0973,Customer 973,22,Male,Los Angeles,O1973,2025-08-30,Home Decor,Lipstick,1596,Net Banking,339,22,35112
+C0974,Customer 974,23,Female,Los Angeles,O1974,2025-08-31,Beauty,Handbag,1696,Credit Card,136,29,49184
+C0975,Customer 975,43,Female,Miami,O1975,2025-09-01,Beauty,Lipstick,953,Debit Card,25,33,31449
+C0976,Customer 976,21,Male,Houston,O1976,2025-09-02,Home Decor,Table Lamp,464,PayPal,325,38,17632
+C0977,Customer 977,36,Male,Los Angeles,O1977,2025-09-03,Fashion,Handbag,1137,Credit Card,183,45,51165
+C0978,Customer 978,37,Male,Chicago,O1978,2025-09-04,Sports,Lipstick,955,Net Banking,168,46,43930
+C0979,Customer 979,50,Female,Chicago,O1979,2025-09-05,Beauty,Running Shoes,610,Credit Card,338,35,21350
+C0980,Customer 980,37,Male,Miami,O1980,2025-09-06,Home Decor,Running Shoes,662,Debit Card,178,43,28466
+C0981,Customer 981,29,Female,Miami,O1981,2025-09-07,Home Decor,Lipstick,734,Credit Card,95,3,2202
+C0982,Customer 982,64,Female,New York,O1982,2025-09-08,Fashion,Handbag,242,Net Banking,33,19,4598
+C0983,Customer 983,18,Female,New York,O1983,2025-09-09,Fashion,Lipstick,1427,Net Banking,111,10,14270
+C0984,Customer 984,43,Female,New York,O1984,2025-09-10,Electronics,Lipstick,1534,Debit Card,146,27,41418
+C0985,Customer 985,31,Female,Miami,O1985,2025-09-11,Beauty,Table Lamp,1728,Net Banking,231,15,25920
+C0986,Customer 986,55,Female,Miami,O1986,2025-09-12,Electronics,Running Shoes,260,PayPal,272,11,2860
+C0987,Customer 987,54,Female,Miami,O1987,2025-09-13,Home Decor,Table Lamp,1554,Net Banking,336,47,73038
+C0988,Customer 988,28,Male,Chicago,O1988,2025-09-14,Sports,Table Lamp,88,PayPal,38,26,2288
+C0989,Customer 989,53,Male,Miami,O1989,2025-09-15,Sports,Lipstick,1085,Credit Card,135,24,26040
+C0990,Customer 990,30,Female,Chicago,O1990,2025-09-16,Fashion,Table Lamp,907,PayPal,334,13,11791
+C0991,Customer 991,60,Female,New York,O1991,2025-09-17,Sports,Running Shoes,930,PayPal,235,32,29760
+C0992,Customer 992,20,Male,New York,O1992,2025-09-18,Sports,Table Lamp,790,Credit Card,319,37,29230
+C0993,Customer 993,50,Female,New York,O1993,2025-09-19,Sports,Running Shoes,235,Net Banking,345,4,940
+C0994,Customer 994,23,Male,Los Angeles,O1994,2025-09-20,Home Decor,Table Lamp,1084,PayPal,160,13,14092
+C0995,Customer 995,27,Male,Los Angeles,O1995,2025-09-21,Sports,Running Shoes,1219,Net Banking,38,9,10971
+C0996,Customer 996,22,Male,Houston,O1996,2025-09-22,Sports,Table Lamp,1067,Credit Card,150,49,52283
+C0997,Customer 997,40,Female,Houston,O1997,2025-09-23,Sports,Table Lamp,812,Debit Card,308,34,27608
+C0998,Customer 998,27,Female,Houston,O1998,2025-09-24,Electronics,Handbag,751,Net Banking,29,37,27787
+C0999,Customer 999,61,Male,Los Angeles,O1999,2025-09-25,Home Decor,Running Shoes,140,Net Banking,144,48,6720
+C1000,Customer 1000,19,Male,Los Angeles,O2000,2025-09-26,Fashion,Running Shoes,1032,Debit Card,76,7,7224
+C1001,Customer 1001,30,Male,Houston,O2001,2025-09-27,Electronics,Running Shoes,641,Debit Card,145,1,641
+C1002,Customer 1002,57,Male,Houston,O2002,2025-09-28,Beauty,Smartphone,1476,Credit Card,229,12,17712
+C1003,Customer 1003,19,Male,Miami,O2003,2025-09-29,Home Decor,Table Lamp,847,Net Banking,64,21,17787
+C1004,Customer 1004,37,Female,Houston,O2004,2025-09-30,Home Decor,Running Shoes,768,Net Banking,347,11,8448
+C1005,Customer 1005,18,Male,Miami,O2005,2025-10-01,Beauty,Smartphone,1465,Credit Card,345,44,64460
+C1006,Customer 1006,54,Female,Chicago,O2006,2025-10-02,Beauty,Handbag,713,Net Banking,269,44,31372
+C1007,Customer 1007,26,Male,Los Angeles,O2007,2025-10-03,Beauty,Running Shoes,506,PayPal,328,44,22264
+C1008,Customer 1008,34,Female,Houston,O2008,2025-10-04,Fashion,Running Shoes,1436,PayPal,184,14,20104
+C1009,Customer 1009,26,Female,Los Angeles,O2009,2025-10-05,Sports,Smartphone,332,PayPal,261,34,11288
+C1010,Customer 1010,28,Female,Los Angeles,O2010,2025-10-06,Home Decor,Table Lamp,1243,Net Banking,268,34,42262
+C1011,Customer 1011,32,Female,Los Angeles,O2011,2025-10-07,Sports,Handbag,624,PayPal,169,25,15600
+C1012,Customer 1012,41,Female,Chicago,O2012,2025-10-08,Sports,Running Shoes,338,PayPal,259,4,1352
+C1013,Customer 1013,55,Female,New York,O2013,2025-10-09,Beauty,Table Lamp,1405,Credit Card,227,26,36530
+C1014,Customer 1014,52,Male,Houston,O2014,2025-10-10,Fashion,Handbag,1493,Credit Card,33,16,23888
+C1015,Customer 1015,47,Female,New York,O2015,2025-10-11,Electronics,Lipstick,142,Debit Card,214,10,1420
+C1016,Customer 1016,48,Male,New York,O2016,2025-10-12,Fashion,Lipstick,844,Debit Card,50,45,37980
+C1017,Customer 1017,22,Female,New York,O2017,2025-10-13,Sports,Handbag,660,Debit Card,210,2,1320
+C1018,Customer 1018,61,Female,Los Angeles,O2018,2025-10-14,Fashion,Smartphone,130,Debit Card,29,35,4550
+C1019,Customer 1019,31,Male,Miami,O2019,2025-10-15,Beauty,Handbag,615,Credit Card,39,19,11685
+C1020,Customer 1020,28,Female,Los Angeles,O2020,2025-10-16,Electronics,Handbag,1485,Credit Card,347,6,8910
+C1021,Customer 1021,26,Male,Los Angeles,O2021,2025-10-17,Beauty,Smartphone,974,Credit Card,100,19,18506
+C1022,Customer 1022,51,Male,New York,O2022,2025-10-18,Electronics,Smartphone,138,PayPal,173,8,1104
+C1023,Customer 1023,29,Male,Los Angeles,O2023,2025-10-19,Sports,Table Lamp,1124,PayPal,17,14,15736
+C1024,Customer 1024,52,Male,New York,O2024,2025-10-20,Electronics,Table Lamp,1637,Debit Card,56,10,16370
+C1025,Customer 1025,52,Female,Miami,O2025,2025-10-21,Electronics,Smartphone,1608,PayPal,226,3,4824
+C1026,Customer 1026,18,Female,Houston,O2026,2025-10-22,Electronics,Lipstick,38,Net Banking,46,38,1444
+C1027,Customer 1027,57,Male,New York,O2027,2025-10-23,Fashion,Lipstick,731,Credit Card,67,29,21199
+C1028,Customer 1028,39,Female,Miami,O2028,2025-10-24,Fashion,Handbag,1557,Debit Card,197,15,23355
+C1029,Customer 1029,46,Female,Houston,O2029,2025-10-25,Sports,Running Shoes,342,Debit Card,142,23,7866
+C1030,Customer 1030,25,Male,Chicago,O2030,2025-10-26,Electronics,Handbag,1330,Net Banking,323,23,30590
+C1031,Customer 1031,28,Female,New York,O2031,2025-10-27,Home Decor,Handbag,1163,PayPal,23,18,20934
+C1032,Customer 1032,58,Male,New York,O2032,2025-10-28,Sports,Running Shoes,1326,Debit Card,94,46,60996
+C1033,Customer 1033,54,Male,Chicago,O2033,2025-10-29,Electronics,Smartphone,1206,PayPal,242,19,22914
+C1034,Customer 1034,31,Female,Chicago,O2034,2025-10-30,Electronics,Lipstick,1753,PayPal,237,28,49084
+C1035,Customer 1035,47,Female,New York,O2035,2025-10-31,Fashion,Handbag,953,Net Banking,54,26,24778
+C1036,Customer 1036,52,Female,Chicago,O2036,2025-11-01,Sports,Running Shoes,1057,Debit Card,138,10,10570
+C1037,Customer 1037,38,Male,Los Angeles,O2037,2025-11-02,Electronics,Table Lamp,1132,PayPal,333,47,53204
+C1038,Customer 1038,54,Male,Houston,O2038,2025-11-03,Electronics,Handbag,1439,PayPal,272,4,5756
+C1039,Customer 1039,22,Female,Houston,O2039,2025-11-04,Sports,Lipstick,365,Net Banking,41,2,730
+C1040,Customer 1040,36,Female,Houston,O2040,2025-11-05,Home Decor,Smartphone,148,Net Banking,98,3,444
+C1041,Customer 1041,31,Female,Los Angeles,O2041,2025-11-06,Sports,Handbag,1536,PayPal,183,7,10752
+C1042,Customer 1042,43,Female,Chicago,O2042,2025-11-07,Sports,Handbag,1859,Net Banking,128,16,29744
+C1043,Customer 1043,21,Male,Miami,O2043,2025-11-08,Home Decor,Running Shoes,1207,PayPal,229,31,37417
+C1044,Customer 1044,42,Female,Chicago,O2044,2025-11-09,Sports,Table Lamp,38,Debit Card,317,10,380
+C1045,Customer 1045,62,Male,New York,O2045,2025-11-10,Electronics,Table Lamp,940,Credit Card,86,19,17860
+C1046,Customer 1046,59,Male,Houston,O2046,2025-11-11,Sports,Smartphone,505,Net Banking,256,28,14140
+C1047,Customer 1047,42,Female,Chicago,O2047,2025-11-12,Home Decor,Lipstick,1023,Credit Card,209,17,17391
+C1048,Customer 1048,35,Female,Miami,O2048,2025-11-13,Beauty,Smartphone,664,PayPal,215,28,18592
+C1049,Customer 1049,57,Female,New York,O2049,2025-11-14,Sports,Handbag,837,PayPal,100,19,15903
+C1050,Customer 1050,25,Male,Los Angeles,O2050,2025-11-15,Fashion,Handbag,360,PayPal,49,37,13320
+C1051,Customer 1051,56,Female,Los Angeles,O2051,2025-11-16,Electronics,Table Lamp,563,Credit Card,201,23,12949
+C1052,Customer 1052,57,Female,Miami,O2052,2025-11-17,Electronics,Lipstick,308,PayPal,258,20,6160
+C1053,Customer 1053,31,Male,New York,O2053,2025-11-18,Fashion,Running Shoes,1753,Net Banking,178,13,22789
+C1054,Customer 1054,49,Female,Houston,O2054,2025-11-19,Fashion,Lipstick,1875,Debit Card,245,13,24375
+C1055,Customer 1055,55,Male,Chicago,O2055,2025-11-20,Sports,Handbag,1978,Debit Card,123,43,85054
+C1056,Customer 1056,50,Female,New York,O2056,2025-11-21,Fashion,Running Shoes,1225,Net Banking,342,11,13475
+C1057,Customer 1057,40,Male,Los Angeles,O2057,2025-11-22,Beauty,Lipstick,1705,Debit Card,171,48,81840
+C1058,Customer 1058,32,Female,Miami,O2058,2025-11-23,Home Decor,Lipstick,73,Credit Card,333,15,1095
+C1059,Customer 1059,50,Female,Miami,O2059,2025-11-24,Fashion,Running Shoes,764,PayPal,136,17,12988
+C1060,Customer 1060,42,Male,Chicago,O2060,2025-11-25,Fashion,Handbag,779,PayPal,59,28,21812
+C1061,Customer 1061,34,Male,Miami,O2061,2025-11-26,Beauty,Lipstick,1697,PayPal,193,19,32243
+C1062,Customer 1062,50,Female,Miami,O2062,2025-11-27,Electronics,Running Shoes,1248,Credit Card,268,4,4992
+C1063,Customer 1063,64,Male,New York,O2063,2025-11-28,Electronics,Handbag,843,Credit Card,260,22,18546
+C1064,Customer 1064,19,Male,Houston,O2064,2025-11-29,Sports,Running Shoes,175,Credit Card,95,22,3850
+C1065,Customer 1065,31,Male,Chicago,O2065,2025-11-30,Beauty,Running Shoes,1576,Net Banking,125,37,58312
+C1066,Customer 1066,57,Male,New York,O2066,2025-12-01,Home Decor,Lipstick,1916,Credit Card,41,39,74724
+C1067,Customer 1067,57,Female,Houston,O2067,2025-12-02,Home Decor,Handbag,1265,Debit Card,254,34,43010
+C1068,Customer 1068,56,Female,New York,O2068,2025-12-03,Beauty,Lipstick,1827,Net Banking,7,33,60291
+C1069,Customer 1069,23,Male,New York,O2069,2025-12-04,Home Decor,Smartphone,1574,Net Banking,216,44,69256
+C1070,Customer 1070,23,Male,Miami,O2070,2025-12-05,Electronics,Smartphone,1228,Net Banking,69,42,51576
+C1071,Customer 1071,20,Male,Houston,O2071,2025-12-06,Home Decor,Handbag,515,Credit Card,69,40,20600
+C1072,Customer 1072,24,Male,Chicago,O2072,2025-12-07,Home Decor,Running Shoes,1367,Net Banking,81,33,45111
+C1073,Customer 1073,25,Female,Chicago,O2073,2025-12-08,Beauty,Lipstick,1801,Credit Card,30,12,21612
+C1074,Customer 1074,59,Female,Houston,O2074,2025-12-09,Beauty,Lipstick,802,Credit Card,73,2,1604
+C1075,Customer 1075,32,Male,Miami,O2075,2025-12-10,Home Decor,Handbag,1337,Net Banking,262,28,37436
+C1076,Customer 1076,64,Male,Los Angeles,O2076,2025-12-11,Fashion,Handbag,842,PayPal,89,10,8420
+C1077,Customer 1077,46,Male,New York,O2077,2025-12-12,Beauty,Smartphone,1470,PayPal,208,22,32340
+C1078,Customer 1078,50,Female,Miami,O2078,2025-12-13,Sports,Table Lamp,1356,Net Banking,213,17,23052
+C1079,Customer 1079,47,Male,Houston,O2079,2025-12-14,Sports,Handbag,1535,PayPal,322,26,39910
+C1080,Customer 1080,56,Female,New York,O2080,2025-12-15,Electronics,Table Lamp,867,Debit Card,266,3,2601
+C1081,Customer 1081,44,Male,Chicago,O2081,2025-12-16,Home Decor,Handbag,1947,Debit Card,293,7,13629
+C1082,Customer 1082,53,Female,Los Angeles,O2082,2025-12-17,Fashion,Running Shoes,1426,Credit Card,207,44,62744
+C1083,Customer 1083,46,Male,Chicago,O2083,2025-12-18,Electronics,Running Shoes,815,PayPal,333,8,6520
+C1084,Customer 1084,55,Female,Houston,O2084,2025-12-19,Home Decor,Smartphone,1632,Debit Card,77,20,32640
+C1085,Customer 1085,50,Male,New York,O2085,2025-12-20,Beauty,Smartphone,1182,Net Banking,288,12,14184
+C1086,Customer 1086,54,Male,Houston,O2086,2025-12-21,Sports,Table Lamp,770,PayPal,47,35,26950
+C1087,Customer 1087,44,Male,New York,O2087,2025-12-22,Fashion,Handbag,842,Debit Card,110,17,14314
+C1088,Customer 1088,50,Female,Miami,O2088,2025-12-23,Sports,Lipstick,1438,Debit Card,200,28,40264
+C1089,Customer 1089,21,Male,Los Angeles,O2089,2025-12-24,Beauty,Smartphone,292,Net Banking,210,41,11972
+C1090,Customer 1090,39,Female,Miami,O2090,2025-12-25,Home Decor,Lipstick,1395,Credit Card,154,10,13950
+C1091,Customer 1091,19,Female,Miami,O2091,2025-12-26,Beauty,Lipstick,388,Net Banking,10,22,8536
+C1092,Customer 1092,27,Male,Houston,O2092,2025-12-27,Beauty,Handbag,207,Credit Card,353,38,7866
+C1093,Customer 1093,22,Male,Los Angeles,O2093,2025-12-28,Sports,Table Lamp,1024,Debit Card,157,33,33792
+C1094,Customer 1094,27,Male,New York,O2094,2025-12-29,Fashion,Handbag,1033,Credit Card,261,22,22726
+C1095,Customer 1095,50,Female,New York,O2095,2025-12-30,Beauty,Smartphone,565,Debit Card,77,44,24860
+C1096,Customer 1096,55,Male,Chicago,O2096,2025-12-31,Sports,Lipstick,365,Debit Card,257,37,13505
+C1097,Customer 1097,30,Female,New York,O2097,2026-01-01,Fashion,Handbag,1573,PayPal,131,13,20449
+C1098,Customer 1098,48,Female,Houston,O2098,2026-01-02,Home Decor,Handbag,1462,Credit Card,67,27,39474
+C1099,Customer 1099,64,Male,Miami,O2099,2026-01-03,Home Decor,Handbag,1050,Credit Card,228,15,15750
+C1100,Customer 1100,53,Male,Miami,O2100,2026-01-04,Electronics,Smartphone,648,Credit Card,163,22,14256
+C1101,Customer 1101,62,Male,Miami,O2101,2026-01-05,Sports,Table Lamp,388,Net Banking,15,30,11640
+C1102,Customer 1102,41,Male,Los Angeles,O2102,2026-01-06,Fashion,Handbag,689,PayPal,232,43,29627
+C1103,Customer 1103,32,Male,New York,O2103,2026-01-07,Beauty,Smartphone,515,PayPal,195,40,20600
+C1104,Customer 1104,46,Male,Houston,O2104,2026-01-08,Home Decor,Lipstick,1789,PayPal,349,37,66193
+C1105,Customer 1105,25,Female,Los Angeles,O2105,2026-01-09,Fashion,Running Shoes,908,Net Banking,30,34,30872
+C1106,Customer 1106,22,Female,Chicago,O2106,2026-01-10,Sports,Smartphone,85,Credit Card,359,44,3740
+C1107,Customer 1107,46,Female,Houston,O2107,2026-01-11,Electronics,Running Shoes,240,Credit Card,338,34,8160
+C1108,Customer 1108,64,Male,Houston,O2108,2026-01-12,Home Decor,Handbag,1749,Credit Card,331,48,83952
+C1109,Customer 1109,21,Female,Houston,O2109,2026-01-13,Fashion,Handbag,971,PayPal,316,35,33985
+C1110,Customer 1110,29,Female,Miami,O2110,2026-01-14,Fashion,Smartphone,1281,PayPal,296,42,53802
+C1111,Customer 1111,62,Female,Houston,O2111,2026-01-15,Fashion,Running Shoes,311,Debit Card,330,19,5909
+C1112,Customer 1112,19,Female,New York,O2112,2026-01-16,Sports,Handbag,735,Net Banking,220,8,5880
+C1113,Customer 1113,44,Female,Houston,O2113,2026-01-17,Sports,Lipstick,224,Net Banking,147,39,8736
+C1114,Customer 1114,48,Male,Miami,O2114,2026-01-18,Sports,Table Lamp,1191,PayPal,259,33,39303
+C1115,Customer 1115,53,Male,Houston,O2115,2026-01-19,Beauty,Table Lamp,78,Debit Card,292,44,3432
+C1116,Customer 1116,53,Female,Chicago,O2116,2026-01-20,Fashion,Handbag,402,Credit Card,299,28,11256
+C1117,Customer 1117,43,Female,Chicago,O2117,2026-01-21,Home Decor,Running Shoes,1118,PayPal,143,37,41366
+C1118,Customer 1118,60,Female,Miami,O2118,2026-01-22,Sports,Handbag,276,Net Banking,235,48,13248
+C1119,Customer 1119,44,Male,New York,O2119,2026-01-23,Sports,Running Shoes,1102,Net Banking,115,25,27550
+C1120,Customer 1120,22,Male,New York,O2120,2026-01-24,Fashion,Lipstick,620,Net Banking,90,36,22320
+C1121,Customer 1121,37,Female,Los Angeles,O2121,2026-01-25,Sports,Running Shoes,1380,Credit Card,208,17,23460
+C1122,Customer 1122,28,Male,Miami,O2122,2026-01-26,Beauty,Handbag,1018,Net Banking,164,24,24432
+C1123,Customer 1123,27,Male,Houston,O2123,2026-01-27,Beauty,Lipstick,971,Credit Card,84,21,20391
+C1124,Customer 1124,57,Female,Miami,O2124,2026-01-28,Sports,Smartphone,737,Credit Card,77,2,1474
+C1125,Customer 1125,55,Male,Los Angeles,O2125,2026-01-29,Fashion,Table Lamp,1960,Credit Card,161,31,60760
+C1126,Customer 1126,23,Male,Miami,O2126,2026-01-30,Fashion,Handbag,682,PayPal,5,44,30008
+C1127,Customer 1127,25,Female,Miami,O2127,2026-01-31,Fashion,Handbag,432,Credit Card,78,33,14256
+C1128,Customer 1128,40,Male,Los Angeles,O2128,2026-02-01,Electronics,Handbag,1639,Debit Card,91,30,49170
+C1129,Customer 1129,64,Male,New York,O2129,2026-02-02,Sports,Lipstick,1207,Net Banking,87,12,14484
+C1130,Customer 1130,43,Female,Houston,O2130,2026-02-03,Fashion,Smartphone,1710,PayPal,270,44,75240
+C1131,Customer 1131,63,Male,Los Angeles,O2131,2026-02-04,Beauty,Running Shoes,124,Net Banking,104,12,1488
+C1132,Customer 1132,60,Male,Chicago,O2132,2026-02-05,Home Decor,Smartphone,229,Credit Card,339,49,11221
+C1133,Customer 1133,29,Female,New York,O2133,2026-02-06,Home Decor,Lipstick,1989,PayPal,175,24,47736
+C1134,Customer 1134,43,Female,Chicago,O2134,2026-02-07,Fashion,Handbag,40,Debit Card,54,24,960
+C1135,Customer 1135,30,Female,New York,O2135,2026-02-08,Home Decor,Table Lamp,1556,Credit Card,211,11,17116
+C1136,Customer 1136,57,Male,Houston,O2136,2026-02-09,Home Decor,Handbag,1376,Net Banking,95,13,17888
+C1137,Customer 1137,35,Female,Houston,O2137,2026-02-10,Electronics,Running Shoes,1410,Debit Card,223,27,38070
+C1138,Customer 1138,42,Male,Miami,O2138,2026-02-11,Beauty,Table Lamp,1163,Credit Card,9,8,9304
+C1139,Customer 1139,50,Female,Chicago,O2139,2026-02-12,Beauty,Handbag,626,Debit Card,53,10,6260
+C1140,Customer 1140,64,Male,New York,O2140,2026-02-13,Electronics,Table Lamp,548,Credit Card,77,8,4384
+C1141,Customer 1141,57,Female,Houston,O2141,2026-02-14,Electronics,Smartphone,748,PayPal,206,20,14960
+C1142,Customer 1142,60,Female,Los Angeles,O2142,2026-02-15,Home Decor,Lipstick,1035,Credit Card,316,8,8280
+C1143,Customer 1143,29,Female,Houston,O2143,2026-02-16,Sports,Handbag,880,PayPal,302,9,7920
+C1144,Customer 1144,61,Female,Los Angeles,O2144,2026-02-17,Home Decor,Running Shoes,110,Credit Card,310,7,770
+C1145,Customer 1145,53,Male,New York,O2145,2026-02-18,Electronics,Smartphone,1566,Credit Card,330,14,21924
+C1146,Customer 1146,21,Female,Houston,O2146,2026-02-19,Beauty,Handbag,1091,Net Banking,112,28,30548
+C1147,Customer 1147,22,Female,Houston,O2147,2026-02-20,Home Decor,Smartphone,1422,Debit Card,351,2,2844
+C1148,Customer 1148,54,Male,New York,O2148,2026-02-21,Sports,Running Shoes,701,Debit Card,165,43,30143
+C1149,Customer 1149,25,Female,Houston,O2149,2026-02-22,Home Decor,Handbag,950,Debit Card,279,8,7600
+C1150,Customer 1150,59,Male,Los Angeles,O2150,2026-02-23,Fashion,Running Shoes,350,Credit Card,27,13,4550
+C1151,Customer 1151,45,Female,Houston,O2151,2026-02-24,Home Decor,Table Lamp,870,Credit Card,70,21,18270
+C1152,Customer 1152,48,Female,Chicago,O2152,2026-02-25,Electronics,Running Shoes,1053,Credit Card,218,47,49491
+C1153,Customer 1153,26,Female,Miami,O2153,2026-02-26,Beauty,Table Lamp,1288,PayPal,189,28,36064
+C1154,Customer 1154,46,Male,Los Angeles,O2154,2026-02-27,Beauty,Handbag,1350,PayPal,333,35,47250
+C1155,Customer 1155,31,Female,Chicago,O2155,2026-02-28,Electronics,Table Lamp,47,Net Banking,306,23,1081
+C1156,Customer 1156,57,Female,New York,O2156,2026-03-01,Fashion,Handbag,669,Credit Card,124,46,30774
+C1157,Customer 1157,58,Female,Los Angeles,O2157,2026-03-02,Electronics,Handbag,1570,Debit Card,19,15,23550
+C1158,Customer 1158,39,Male,Miami,O2158,2026-03-03,Home Decor,Lipstick,1419,Debit Card,257,2,2838
+C1159,Customer 1159,28,Male,Miami,O2159,2026-03-04,Electronics,Handbag,1666,Net Banking,296,12,19992
+C1160,Customer 1160,40,Female,New York,O2160,2026-03-05,Electronics,Table Lamp,937,Debit Card,22,36,33732
+C1161,Customer 1161,18,Male,New York,O2161,2026-03-06,Fashion,Lipstick,1059,Net Banking,40,3,3177
+C1162,Customer 1162,63,Female,Los Angeles,O2162,2026-03-07,Home Decor,Lipstick,463,Credit Card,38,5,2315
+C1163,Customer 1163,54,Female,Houston,O2163,2026-03-08,Sports,Handbag,1714,Debit Card,48,3,5142
+C1164,Customer 1164,38,Female,New York,O2164,2026-03-09,Sports,Running Shoes,1356,Credit Card,183,47,63732
+C1165,Customer 1165,43,Female,Houston,O2165,2026-03-10,Beauty,Running Shoes,746,PayPal,75,19,14174
+C1166,Customer 1166,63,Female,Chicago,O2166,2026-03-11,Electronics,Lipstick,1546,Debit Card,209,2,3092
+C1167,Customer 1167,53,Female,Miami,O2167,2026-03-12,Beauty,Handbag,828,PayPal,183,44,36432
+C1168,Customer 1168,40,Female,Houston,O2168,2026-03-13,Fashion,Running Shoes,782,Debit Card,107,37,28934
+C1169,Customer 1169,18,Male,Miami,O2169,2026-03-14,Sports,Handbag,22,Credit Card,188,17,374
+C1170,Customer 1170,57,Male,Houston,O2170,2026-03-15,Electronics,Handbag,924,Net Banking,264,14,12936
+C1171,Customer 1171,32,Male,Chicago,O2171,2026-03-16,Fashion,Lipstick,1941,Credit Card,86,28,54348
+C1172,Customer 1172,38,Male,New York,O2172,2026-03-17,Fashion,Lipstick,1593,Credit Card,324,27,43011
+C1173,Customer 1173,64,Male,Chicago,O2173,2026-03-18,Electronics,Smartphone,930,Credit Card,331,10,9300
+C1174,Customer 1174,26,Male,New York,O2174,2026-03-19,Fashion,Running Shoes,834,Debit Card,137,3,2502
+C1175,Customer 1175,26,Male,New York,O2175,2026-03-20,Electronics,Running Shoes,380,Net Banking,346,36,13680
+C1176,Customer 1176,27,Female,Miami,O2176,2026-03-21,Electronics,Running Shoes,1324,PayPal,336,38,50312
+C1177,Customer 1177,43,Female,Chicago,O2177,2026-03-22,Home Decor,Table Lamp,341,Credit Card,95,25,8525
+C1178,Customer 1178,58,Female,Houston,O2178,2026-03-23,Beauty,Handbag,1639,Debit Card,326,22,36058
+C1179,Customer 1179,52,Female,Chicago,O2179,2026-03-24,Fashion,Lipstick,270,PayPal,245,48,12960
+C1180,Customer 1180,42,Male,Miami,O2180,2026-03-25,Fashion,Running Shoes,1823,Credit Card,90,39,71097
+C1181,Customer 1181,43,Male,New York,O2181,2026-03-26,Home Decor,Smartphone,1904,PayPal,59,47,89488
+C1182,Customer 1182,28,Female,Miami,O2182,2026-03-27,Home Decor,Running Shoes,1238,Credit Card,28,30,37140
+C1183,Customer 1183,55,Female,Los Angeles,O2183,2026-03-28,Home Decor,Handbag,706,PayPal,72,21,14826
+C1184,Customer 1184,19,Male,Los Angeles,O2184,2026-03-29,Sports,Handbag,696,PayPal,270,30,20880
+C1185,Customer 1185,24,Female,Houston,O2185,2026-03-30,Sports,Lipstick,959,Net Banking,24,28,26852
+C1186,Customer 1186,35,Female,Miami,O2186,2026-03-31,Sports,Table Lamp,396,Net Banking,112,31,12276
+C1187,Customer 1187,44,Female,Houston,O2187,2026-04-01,Electronics,Lipstick,1925,Credit Card,300,26,50050
+C1188,Customer 1188,51,Female,Houston,O2188,2026-04-02,Fashion,Running Shoes,830,Debit Card,56,43,35690
+C1189,Customer 1189,44,Male,Los Angeles,O2189,2026-04-03,Beauty,Smartphone,477,Net Banking,223,22,10494
+C1190,Customer 1190,34,Female,Houston,O2190,2026-04-04,Electronics,Lipstick,1448,PayPal,120,21,30408
+C1191,Customer 1191,60,Female,Los Angeles,O2191,2026-04-05,Fashion,Table Lamp,78,Net Banking,179,1,78
+C1192,Customer 1192,61,Male,New York,O2192,2026-04-06,Fashion,Lipstick,1505,Net Banking,288,37,55685
+C1193,Customer 1193,41,Male,Miami,O2193,2026-04-07,Home Decor,Handbag,1137,Credit Card,281,13,14781
+C1194,Customer 1194,42,Female,Houston,O2194,2026-04-08,Home Decor,Running Shoes,1791,Net Banking,189,21,37611
+C1195,Customer 1195,24,Male,Los Angeles,O2195,2026-04-09,Electronics,Running Shoes,1194,Net Banking,66,46,54924
+C1196,Customer 1196,23,Female,Chicago,O2196,2026-04-10,Home Decor,Running Shoes,209,PayPal,298,9,1881
+C1197,Customer 1197,41,Female,Houston,O2197,2026-04-11,Fashion,Running Shoes,225,Net Banking,249,17,3825
+C1198,Customer 1198,50,Male,New York,O2198,2026-04-12,Home Decor,Running Shoes,1979,PayPal,76,47,93013
+C1199,Customer 1199,46,Female,New York,O2199,2026-04-13,Sports,Running Shoes,221,Net Banking,137,21,4641
+C1200,Customer 1200,60,Female,Chicago,O2200,2026-04-14,Home Decor,Smartphone,517,Net Banking,164,31,16027
+C1201,Customer 1201,39,Female,Los Angeles,O2201,2026-04-15,Fashion,Table Lamp,25,Debit Card,233,39,975
+C1202,Customer 1202,43,Female,Houston,O2202,2026-04-16,Electronics,Running Shoes,1531,Net Banking,255,22,33682
+C1203,Customer 1203,45,Male,Los Angeles,O2203,2026-04-17,Beauty,Table Lamp,893,PayPal,294,12,10716
+C1204,Customer 1204,38,Male,New York,O2204,2026-04-18,Home Decor,Running Shoes,341,PayPal,170,6,2046
+C1205,Customer 1205,24,Female,Los Angeles,O2205,2026-04-19,Fashion,Lipstick,726,Credit Card,317,16,11616
+C1206,Customer 1206,34,Male,New York,O2206,2026-04-20,Beauty,Running Shoes,1910,Credit Card,174,26,49660
+C1207,Customer 1207,37,Female,Los Angeles,O2207,2026-04-21,Beauty,Handbag,560,Debit Card,345,5,2800
+C1208,Customer 1208,58,Female,Chicago,O2208,2026-04-22,Sports,Smartphone,1634,PayPal,18,9,14706
+C1209,Customer 1209,37,Female,Miami,O2209,2026-04-23,Beauty,Lipstick,951,PayPal,70,46,43746
+C1210,Customer 1210,39,Female,Chicago,O2210,2026-04-24,Fashion,Lipstick,265,PayPal,338,40,10600
+C1211,Customer 1211,45,Female,Chicago,O2211,2026-04-25,Fashion,Handbag,1001,Debit Card,116,14,14014
+C1212,Customer 1212,57,Male,Miami,O2212,2026-04-26,Home Decor,Running Shoes,1799,PayPal,80,44,79156
+C1213,Customer 1213,24,Female,Miami,O2213,2026-04-27,Home Decor,Smartphone,737,Credit Card,15,42,30954
+C1214,Customer 1214,18,Male,Houston,O2214,2026-04-28,Home Decor,Lipstick,889,Debit Card,176,30,26670
+C1215,Customer 1215,49,Male,Houston,O2215,2026-04-29,Beauty,Smartphone,824,Credit Card,269,26,21424
+C1216,Customer 1216,30,Female,Chicago,O2216,2026-04-30,Beauty,Lipstick,1205,Credit Card,119,45,54225
+C1217,Customer 1217,47,Female,Chicago,O2217,2026-05-01,Sports,Running Shoes,658,Debit Card,299,29,19082
+C1218,Customer 1218,40,Female,New York,O2218,2026-05-02,Home Decor,Lipstick,1009,Net Banking,188,19,19171
+C1219,Customer 1219,36,Female,New York,O2219,2026-05-03,Electronics,Lipstick,1531,Net Banking,57,47,71957
+C1220,Customer 1220,49,Female,Houston,O2220,2026-05-04,Sports,Table Lamp,480,Credit Card,199,8,3840
+C1221,Customer 1221,47,Male,Houston,O2221,2026-05-05,Electronics,Running Shoes,1417,Net Banking,17,23,32591
+C1222,Customer 1222,46,Female,New York,O2222,2026-05-06,Beauty,Handbag,699,PayPal,288,42,29358
+C1223,Customer 1223,62,Female,New York,O2223,2026-05-07,Sports,Handbag,1622,Debit Card,55,35,56770
+C1224,Customer 1224,46,Male,Los Angeles,O2224,2026-05-08,Sports,Running Shoes,709,Credit Card,269,31,21979
+C1225,Customer 1225,47,Male,Los Angeles,O2225,2026-05-09,Fashion,Handbag,516,PayPal,303,35,18060
+C1226,Customer 1226,33,Female,New York,O2226,2026-05-10,Beauty,Running Shoes,1001,Net Banking,87,32,32032
+C1227,Customer 1227,57,Male,Los Angeles,O2227,2026-05-11,Beauty,Handbag,1019,PayPal,318,5,5095
+C1228,Customer 1228,36,Female,Miami,O2228,2026-05-12,Sports,Table Lamp,1560,Net Banking,29,16,24960
+C1229,Customer 1229,35,Male,Houston,O2229,2026-05-13,Beauty,Handbag,813,Credit Card,22,17,13821
+C1230,Customer 1230,18,Male,Houston,O2230,2026-05-14,Sports,Lipstick,840,PayPal,321,32,26880
+C1231,Customer 1231,31,Female,New York,O2231,2026-05-15,Fashion,Running Shoes,1358,Debit Card,285,38,51604
+C1232,Customer 1232,64,Male,Chicago,O2232,2026-05-16,Sports,Smartphone,223,Credit Card,48,32,7136
+C1233,Customer 1233,19,Male,New York,O2233,2026-05-17,Beauty,Smartphone,1241,PayPal,5,20,24820
+C1234,Customer 1234,45,Male,Los Angeles,O2234,2026-05-18,Beauty,Running Shoes,178,PayPal,250,48,8544
+C1235,Customer 1235,47,Male,Chicago,O2235,2026-05-19,Sports,Table Lamp,1363,Net Banking,163,2,2726
+C1236,Customer 1236,55,Male,Los Angeles,O2236,2026-05-20,Sports,Handbag,1313,Credit Card,202,20,26260
+C1237,Customer 1237,21,Male,Miami,O2237,2026-05-21,Sports,Table Lamp,987,Credit Card,101,47,46389
+C1238,Customer 1238,18,Female,Los Angeles,O2238,2026-05-22,Home Decor,Smartphone,1338,Credit Card,71,18,24084
+C1239,Customer 1239,25,Female,Miami,O2239,2026-05-23,Beauty,Running Shoes,155,Credit Card,163,1,155
+C1240,Customer 1240,46,Male,Miami,O2240,2026-05-24,Beauty,Running Shoes,1808,Net Banking,173,29,52432
+C1241,Customer 1241,56,Female,Los Angeles,O2241,2026-05-25,Home Decor,Table Lamp,525,Debit Card,141,29,15225
+C1242,Customer 1242,20,Female,Los Angeles,O2242,2026-05-26,Sports,Table Lamp,1123,Credit Card,138,19,21337
+C1243,Customer 1243,49,Female,Miami,O2243,2026-05-27,Fashion,Handbag,462,Net Banking,66,44,20328
+C1244,Customer 1244,27,Male,Chicago,O2244,2026-05-28,Sports,Lipstick,69,Debit Card,198,40,2760
+C1245,Customer 1245,27,Female,Miami,O2245,2026-05-29,Sports,Lipstick,1344,Debit Card,328,6,8064
+C1246,Customer 1246,36,Male,Houston,O2246,2026-05-30,Home Decor,Handbag,537,Net Banking,228,44,23628
+C1247,Customer 1247,63,Female,Miami,O2247,2026-05-31,Beauty,Lipstick,1260,Credit Card,281,39,49140
+C1248,Customer 1248,51,Male,Chicago,O2248,2026-06-01,Sports,Smartphone,1033,Debit Card,172,46,47518
+C1249,Customer 1249,50,Male,Houston,O2249,2026-06-02,Beauty,Lipstick,483,Credit Card,316,8,3864
+C1250,Customer 1250,40,Female,New York,O2250,2026-06-03,Electronics,Handbag,1574,Credit Card,40,24,37776
+C1251,Customer 1251,45,Female,New York,O2251,2026-06-04,Beauty,Lipstick,1696,PayPal,7,20,33920
+C1252,Customer 1252,49,Male,Chicago,O2252,2026-06-05,Fashion,Running Shoes,766,Credit Card,174,14,10724
+C1253,Customer 1253,24,Female,Miami,O2253,2026-06-06,Fashion,Table Lamp,791,PayPal,151,5,3955
+C1254,Customer 1254,46,Female,Los Angeles,O2254,2026-06-07,Sports,Smartphone,1112,Debit Card,211,41,45592
+C1255,Customer 1255,25,Female,Chicago,O2255,2026-06-08,Beauty,Running Shoes,442,Net Banking,302,40,17680
+C1256,Customer 1256,18,Male,Houston,O2256,2026-06-09,Sports,Running Shoes,1834,PayPal,86,34,62356
+C1257,Customer 1257,20,Male,Houston,O2257,2026-06-10,Home Decor,Handbag,1186,Net Banking,253,16,18976
+C1258,Customer 1258,41,Female,New York,O2258,2026-06-11,Fashion,Table Lamp,1822,Debit Card,21,45,81990
+C1259,Customer 1259,40,Female,Houston,O2259,2026-06-12,Sports,Table Lamp,410,Credit Card,257,7,2870
+C1260,Customer 1260,25,Female,Chicago,O2260,2026-06-13,Home Decor,Smartphone,1312,Debit Card,33,16,20992
+C1261,Customer 1261,64,Male,Houston,O2261,2026-06-14,Sports,Handbag,66,Net Banking,260,7,462
+C1262,Customer 1262,54,Male,Chicago,O2262,2026-06-15,Beauty,Smartphone,1012,Debit Card,234,27,27324
+C1263,Customer 1263,20,Female,Los Angeles,O2263,2026-06-16,Beauty,Lipstick,195,Credit Card,3,14,2730
+C1264,Customer 1264,50,Female,New York,O2264,2026-06-17,Beauty,Running Shoes,407,Debit Card,347,14,5698
+C1265,Customer 1265,45,Female,Houston,O2265,2026-06-18,Beauty,Smartphone,614,Credit Card,308,44,27016
+C1266,Customer 1266,64,Female,Chicago,O2266,2026-06-19,Electronics,Running Shoes,797,PayPal,227,33,26301
+C1267,Customer 1267,25,Female,Miami,O2267,2026-06-20,Home Decor,Handbag,167,Net Banking,284,33,5511
+C1268,Customer 1268,51,Female,New York,O2268,2026-06-21,Home Decor,Lipstick,1820,Credit Card,70,44,80080
+C1269,Customer 1269,52,Male,Los Angeles,O2269,2026-06-22,Beauty,Handbag,1726,Credit Card,313,20,34520
+C1270,Customer 1270,49,Female,Chicago,O2270,2026-06-23,Electronics,Lipstick,1392,Debit Card,364,47,65424
+C1271,Customer 1271,41,Male,Los Angeles,O2271,2026-06-24,Beauty,Lipstick,1473,PayPal,254,36,53028
+C1272,Customer 1272,31,Female,Los Angeles,O2272,2026-06-25,Electronics,Running Shoes,598,Credit Card,144,7,4186
+C1273,Customer 1273,49,Female,Houston,O2273,2026-06-26,Beauty,Handbag,475,PayPal,24,32,15200
+C1274,Customer 1274,63,Male,Houston,O2274,2026-06-27,Fashion,Handbag,1696,PayPal,234,48,81408
+C1275,Customer 1275,60,Male,Chicago,O2275,2026-06-28,Fashion,Smartphone,455,Debit Card,333,3,1365
+C1276,Customer 1276,33,Male,Miami,O2276,2026-06-29,Sports,Handbag,1783,Credit Card,175,39,69537
+C1277,Customer 1277,21,Male,Chicago,O2277,2026-06-30,Beauty,Smartphone,810,Debit Card,332,29,23490
+C1278,Customer 1278,54,Female,Miami,O2278,2026-07-01,Home Decor,Table Lamp,1776,Net Banking,325,24,42624
+C1279,Customer 1279,38,Male,Los Angeles,O2279,2026-07-02,Sports,Table Lamp,1521,Net Banking,357,22,33462
+C1280,Customer 1280,31,Female,New York,O2280,2026-07-03,Fashion,Table Lamp,1563,Credit Card,159,6,9378
+C1281,Customer 1281,48,Male,Chicago,O2281,2026-07-04,Beauty,Handbag,1106,PayPal,348,48,53088
+C1282,Customer 1282,35,Female,Chicago,O2282,2026-07-05,Sports,Handbag,938,Credit Card,348,24,22512
+C1283,Customer 1283,24,Female,Miami,O2283,2026-07-06,Beauty,Smartphone,1961,Credit Card,286,40,78440
+C1284,Customer 1284,27,Female,Los Angeles,O2284,2026-07-07,Fashion,Lipstick,1734,Net Banking,18,23,39882
+C1285,Customer 1285,24,Female,Los Angeles,O2285,2026-07-08,Sports,Smartphone,1983,Net Banking,44,38,75354
+C1286,Customer 1286,50,Female,Miami,O2286,2026-07-09,Fashion,Table Lamp,26,PayPal,155,10,260
+C1287,Customer 1287,40,Female,Los Angeles,O2287,2026-07-10,Electronics,Smartphone,1564,PayPal,355,16,25024
+C1288,Customer 1288,38,Male,Houston,O2288,2026-07-11,Fashion,Lipstick,740,Credit Card,231,11,8140
+C1289,Customer 1289,36,Female,New York,O2289,2026-07-12,Beauty,Handbag,335,Debit Card,316,32,10720
+C1290,Customer 1290,36,Male,Chicago,O2290,2026-07-13,Home Decor,Smartphone,1004,Credit Card,225,45,45180
+C1291,Customer 1291,53,Male,New York,O2291,2026-07-14,Fashion,Table Lamp,1665,PayPal,217,6,9990
+C1292,Customer 1292,46,Female,Chicago,O2292,2026-07-15,Home Decor,Table Lamp,622,Debit Card,56,24,14928
+C1293,Customer 1293,35,Male,Houston,O2293,2026-07-16,Electronics,Handbag,555,Net Banking,31,33,18315
+C1294,Customer 1294,19,Female,Los Angeles,O2294,2026-07-17,Sports,Smartphone,605,PayPal,357,12,7260
+C1295,Customer 1295,18,Male,Miami,O2295,2026-07-18,Sports,Lipstick,930,PayPal,59,27,25110
+C1296,Customer 1296,64,Female,Houston,O2296,2026-07-19,Home Decor,Handbag,1741,Debit Card,353,38,66158
+C1297,Customer 1297,22,Male,New York,O2297,2026-07-20,Sports,Smartphone,851,PayPal,235,18,15318
+C1298,Customer 1298,37,Female,Miami,O2298,2026-07-21,Fashion,Running Shoes,1235,PayPal,107,45,55575
+C1299,Customer 1299,28,Female,Los Angeles,O2299,2026-07-22,Home Decor,Table Lamp,353,PayPal,191,39,13767
+C1300,Customer 1300,59,Female,Houston,O2300,2026-07-23,Beauty,Lipstick,1886,PayPal,18,13,24518
+C1301,Customer 1301,19,Female,Miami,O2301,2026-07-24,Fashion,Lipstick,1556,PayPal,226,40,62240
+C1302,Customer 1302,20,Male,Houston,O2302,2026-07-25,Fashion,Lipstick,868,PayPal,167,30,26040
+C1303,Customer 1303,40,Female,Houston,O2303,2026-07-26,Fashion,Table Lamp,1433,PayPal,71,49,70217
+C1304,Customer 1304,29,Male,Los Angeles,O2304,2026-07-27,Beauty,Smartphone,1251,PayPal,362,41,51291
+C1305,Customer 1305,37,Male,Chicago,O2305,2026-07-28,Electronics,Handbag,454,Net Banking,54,13,5902
+C1306,Customer 1306,22,Male,Miami,O2306,2026-07-29,Sports,Smartphone,1798,PayPal,245,34,61132
+C1307,Customer 1307,54,Female,Los Angeles,O2307,2026-07-30,Home Decor,Handbag,231,Net Banking,350,36,8316
+C1308,Customer 1308,55,Male,Houston,O2308,2026-07-31,Electronics,Lipstick,1416,Net Banking,76,30,42480
+C1309,Customer 1309,47,Male,Los Angeles,O2309,2026-08-01,Home Decor,Smartphone,1914,Credit Card,35,25,47850
+C1310,Customer 1310,26,Male,Chicago,O2310,2026-08-02,Sports,Lipstick,601,Credit Card,267,2,1202
+C1311,Customer 1311,51,Female,Miami,O2311,2026-08-03,Beauty,Running Shoes,1040,Net Banking,317,36,37440
+C1312,Customer 1312,61,Female,Chicago,O2312,2026-08-04,Fashion,Lipstick,1305,Net Banking,300,18,23490
+C1313,Customer 1313,52,Male,New York,O2313,2026-08-05,Fashion,Lipstick,1772,PayPal,121,5,8860
+C1314,Customer 1314,39,Female,Miami,O2314,2026-08-06,Beauty,Handbag,1027,Credit Card,324,19,19513
+C1315,Customer 1315,61,Female,Chicago,O2315,2026-08-07,Electronics,Running Shoes,25,Debit Card,25,42,1050
+C1316,Customer 1316,41,Male,Houston,O2316,2026-08-08,Electronics,Lipstick,1457,Credit Card,160,18,26226
+C1317,Customer 1317,34,Male,Miami,O2317,2026-08-09,Home Decor,Lipstick,533,Net Banking,84,32,17056
+C1318,Customer 1318,27,Female,Miami,O2318,2026-08-10,Beauty,Running Shoes,812,Net Banking,114,21,17052
+C1319,Customer 1319,47,Male,Los Angeles,O2319,2026-08-11,Electronics,Running Shoes,1786,PayPal,223,10,17860
+C1320,Customer 1320,63,Female,Houston,O2320,2026-08-12,Beauty,Smartphone,30,PayPal,166,37,1110
+C1321,Customer 1321,40,Female,New York,O2321,2026-08-13,Sports,Handbag,1723,Credit Card,191,49,84427
+C1322,Customer 1322,49,Female,Chicago,O2322,2026-08-14,Fashion,Running Shoes,1972,PayPal,175,22,43384
+C1323,Customer 1323,34,Female,Los Angeles,O2323,2026-08-15,Fashion,Running Shoes,237,Debit Card,1,13,3081
+C1324,Customer 1324,34,Female,Chicago,O2324,2026-08-16,Fashion,Table Lamp,1017,Debit Card,229,17,17289
+C1325,Customer 1325,31,Female,New York,O2325,2026-08-17,Beauty,Running Shoes,1818,PayPal,86,9,16362
+C1326,Customer 1326,26,Male,New York,O2326,2026-08-18,Beauty,Handbag,1321,Debit Card,62,24,31704
+C1327,Customer 1327,57,Male,Miami,O2327,2026-08-19,Home Decor,Lipstick,818,Debit Card,320,44,35992
+C1328,Customer 1328,19,Female,New York,O2328,2026-08-20,Fashion,Lipstick,1167,Credit Card,206,14,16338
+C1329,Customer 1329,62,Female,Chicago,O2329,2026-08-21,Home Decor,Lipstick,1316,Debit Card,105,46,60536
+C1330,Customer 1330,42,Female,Houston,O2330,2026-08-22,Fashion,Lipstick,413,Net Banking,318,8,3304
+C1331,Customer 1331,56,Male,Houston,O2331,2026-08-23,Home Decor,Table Lamp,1698,Net Banking,291,37,62826
+C1332,Customer 1332,26,Female,Miami,O2332,2026-08-24,Home Decor,Running Shoes,1099,Credit Card,250,19,20881
+C1333,Customer 1333,39,Male,Chicago,O2333,2026-08-25,Sports,Lipstick,1682,PayPal,13,28,47096
+C1334,Customer 1334,60,Female,Chicago,O2334,2026-08-26,Home Decor,Smartphone,1637,Credit Card,163,46,75302
+C1335,Customer 1335,63,Female,New York,O2335,2026-08-27,Beauty,Lipstick,446,PayPal,43,41,18286
+C1336,Customer 1336,21,Male,Chicago,O2336,2026-08-28,Home Decor,Running Shoes,838,PayPal,111,30,25140
+C1337,Customer 1337,43,Male,Los Angeles,O2337,2026-08-29,Fashion,Lipstick,943,PayPal,205,7,6601
+C1338,Customer 1338,46,Female,New York,O2338,2026-08-30,Home Decor,Table Lamp,268,PayPal,256,26,6968
+C1339,Customer 1339,62,Female,Los Angeles,O2339,2026-08-31,Electronics,Handbag,1999,PayPal,307,40,79960
+C1340,Customer 1340,51,Female,Miami,O2340,2026-09-01,Fashion,Handbag,112,Credit Card,144,46,5152
+C1341,Customer 1341,40,Male,Houston,O2341,2026-09-02,Electronics,Running Shoes,1002,PayPal,146,46,46092
+C1342,Customer 1342,54,Male,Miami,O2342,2026-09-03,Fashion,Handbag,1600,Debit Card,301,11,17600
+C1343,Customer 1343,28,Male,Houston,O2343,2026-09-04,Beauty,Handbag,778,Debit Card,164,14,10892
+C1344,Customer 1344,23,Male,Miami,O2344,2026-09-05,Beauty,Smartphone,1134,PayPal,169,21,23814
+C1345,Customer 1345,35,Male,Chicago,O2345,2026-09-06,Beauty,Running Shoes,1231,Debit Card,298,8,9848
+C1346,Customer 1346,38,Male,Los Angeles,O2346,2026-09-07,Electronics,Running Shoes,822,Net Banking,233,3,2466
+C1347,Customer 1347,59,Female,Houston,O2347,2026-09-08,Sports,Handbag,235,Credit Card,271,28,6580
+C1348,Customer 1348,53,Female,New York,O2348,2026-09-09,Fashion,Handbag,952,Credit Card,60,29,27608
+C1349,Customer 1349,58,Male,Los Angeles,O2349,2026-09-10,Beauty,Handbag,472,PayPal,296,23,10856
+C1350,Customer 1350,55,Female,New York,O2350,2026-09-11,Fashion,Table Lamp,246,PayPal,235,18,4428
+C1351,Customer 1351,51,Female,Los Angeles,O2351,2026-09-12,Electronics,Lipstick,1059,Net Banking,165,35,37065
+C1352,Customer 1352,34,Male,Los Angeles,O2352,2026-09-13,Sports,Table Lamp,1154,PayPal,194,13,15002
+C1353,Customer 1353,54,Female,Miami,O2353,2026-09-14,Electronics,Running Shoes,1943,Debit Card,234,12,23316
+C1354,Customer 1354,42,Male,Houston,O2354,2026-09-15,Fashion,Smartphone,515,Net Banking,183,47,24205
+C1355,Customer 1355,55,Male,Houston,O2355,2026-09-16,Sports,Lipstick,1215,Debit Card,333,5,6075
+C1356,Customer 1356,29,Female,Los Angeles,O2356,2026-09-17,Sports,Smartphone,1744,Credit Card,232,39,68016
+C1357,Customer 1357,40,Male,Chicago,O2357,2026-09-18,Electronics,Running Shoes,823,Debit Card,361,11,9053
+C1358,Customer 1358,59,Male,Chicago,O2358,2026-09-19,Beauty,Running Shoes,776,Credit Card,107,11,8536
+C1359,Customer 1359,39,Male,New York,O2359,2026-09-20,Fashion,Smartphone,643,Debit Card,223,47,30221
+C1360,Customer 1360,38,Male,New York,O2360,2026-09-21,Home Decor,Smartphone,1576,Credit Card,80,42,66192
+C1361,Customer 1361,44,Male,Miami,O2361,2026-09-22,Home Decor,Smartphone,1348,PayPal,234,47,63356
+C1362,Customer 1362,48,Male,Los Angeles,O2362,2026-09-23,Electronics,Running Shoes,1000,Debit Card,184,31,31000
+C1363,Customer 1363,23,Male,New York,O2363,2026-09-24,Fashion,Handbag,1830,Credit Card,185,31,56730
+C1364,Customer 1364,44,Male,New York,O2364,2026-09-25,Fashion,Smartphone,627,Debit Card,134,13,8151
+C1365,Customer 1365,57,Female,Los Angeles,O2365,2026-09-26,Electronics,Lipstick,1769,Net Banking,220,14,24766
+C1366,Customer 1366,51,Female,Miami,O2366,2026-09-27,Fashion,Running Shoes,282,PayPal,288,49,13818
+C1367,Customer 1367,29,Female,New York,O2367,2026-09-28,Beauty,Table Lamp,1943,Credit Card,364,45,87435
+C1368,Customer 1368,62,Male,Miami,O2368,2026-09-29,Electronics,Table Lamp,241,Net Banking,202,42,10122
+C1369,Customer 1369,24,Male,Houston,O2369,2026-09-30,Beauty,Lipstick,1453,Debit Card,146,25,36325
+C1370,Customer 1370,27,Female,Miami,O2370,2026-10-01,Fashion,Handbag,777,Net Banking,324,33,25641
+C1371,Customer 1371,62,Female,Chicago,O2371,2026-10-02,Electronics,Smartphone,1475,Debit Card,127,33,48675
+C1372,Customer 1372,34,Female,Chicago,O2372,2026-10-03,Fashion,Running Shoes,505,PayPal,135,15,7575
+C1373,Customer 1373,43,Male,Miami,O2373,2026-10-04,Electronics,Smartphone,1057,Net Banking,114,16,16912
+C1374,Customer 1374,38,Female,Chicago,O2374,2026-10-05,Fashion,Running Shoes,1142,PayPal,264,44,50248
+C1375,Customer 1375,45,Female,Houston,O2375,2026-10-06,Beauty,Table Lamp,1736,Credit Card,64,38,65968
+C1376,Customer 1376,63,Male,Los Angeles,O2376,2026-10-07,Beauty,Smartphone,511,Debit Card,135,6,3066
+C1377,Customer 1377,19,Female,Chicago,O2377,2026-10-08,Fashion,Lipstick,1892,Debit Card,41,44,83248
+C1378,Customer 1378,60,Male,Chicago,O2378,2026-10-09,Electronics,Handbag,34,PayPal,296,25,850
+C1379,Customer 1379,18,Male,Miami,O2379,2026-10-10,Home Decor,Lipstick,1220,PayPal,3,15,18300
+C1380,Customer 1380,53,Male,Houston,O2380,2026-10-11,Beauty,Handbag,297,Credit Card,194,4,1188
+C1381,Customer 1381,43,Female,Los Angeles,O2381,2026-10-12,Beauty,Smartphone,1661,Net Banking,110,4,6644
+C1382,Customer 1382,46,Female,Miami,O2382,2026-10-13,Home Decor,Smartphone,347,Debit Card,221,30,10410
+C1383,Customer 1383,38,Male,Miami,O2383,2026-10-14,Fashion,Handbag,1911,Debit Card,4,34,64974
+C1384,Customer 1384,28,Female,Houston,O2384,2026-10-15,Electronics,Table Lamp,1947,Credit Card,244,27,52569
+C1385,Customer 1385,57,Female,Los Angeles,O2385,2026-10-16,Fashion,Running Shoes,1070,Credit Card,166,31,33170
+C1386,Customer 1386,28,Female,Houston,O2386,2026-10-17,Sports,Lipstick,1827,PayPal,26,32,58464
+C1387,Customer 1387,53,Female,Los Angeles,O2387,2026-10-18,Beauty,Lipstick,146,PayPal,17,44,6424
+C1388,Customer 1388,56,Male,Houston,O2388,2026-10-19,Sports,Lipstick,517,Net Banking,216,39,20163
+C1389,Customer 1389,57,Female,Miami,O2389,2026-10-20,Beauty,Smartphone,236,Credit Card,92,9,2124
+C1390,Customer 1390,52,Male,Miami,O2390,2026-10-21,Beauty,Lipstick,329,Net Banking,31,41,13489
+C1391,Customer 1391,51,Male,New York,O2391,2026-10-22,Sports,Running Shoes,1873,Credit Card,205,8,14984
+C1392,Customer 1392,64,Female,Chicago,O2392,2026-10-23,Sports,Running Shoes,925,Debit Card,207,14,12950
+C1393,Customer 1393,41,Male,Houston,O2393,2026-10-24,Fashion,Handbag,1215,Credit Card,107,33,40095
+C1394,Customer 1394,39,Female,New York,O2394,2026-10-25,Sports,Smartphone,1907,Credit Card,146,23,43861
+C1395,Customer 1395,22,Female,Chicago,O2395,2026-10-26,Fashion,Running Shoes,95,Debit Card,101,21,1995
+C1396,Customer 1396,50,Male,Houston,O2396,2026-10-27,Fashion,Table Lamp,1500,Credit Card,318,12,18000
+C1397,Customer 1397,53,Male,Los Angeles,O2397,2026-10-28,Fashion,Smartphone,935,Net Banking,241,2,1870
+C1398,Customer 1398,64,Male,Chicago,O2398,2026-10-29,Beauty,Smartphone,62,PayPal,247,13,806
+C1399,Customer 1399,37,Male,Miami,O2399,2026-10-30,Beauty,Running Shoes,869,PayPal,163,4,3476
+C1400,Customer 1400,36,Female,New York,O2400,2026-10-31,Sports,Table Lamp,876,Net Banking,173,20,17520
+C1401,Customer 1401,52,Female,Chicago,O2401,2026-11-01,Beauty,Handbag,1268,Debit Card,35,48,60864
+C1402,Customer 1402,60,Female,Chicago,O2402,2026-11-02,Sports,Running Shoes,1992,Credit Card,284,14,27888
+C1403,Customer 1403,34,Male,Miami,O2403,2026-11-03,Beauty,Table Lamp,1812,Net Banking,359,30,54360
+C1404,Customer 1404,62,Male,Houston,O2404,2026-11-04,Electronics,Smartphone,1832,PayPal,358,29,53128
+C1405,Customer 1405,60,Male,Los Angeles,O2405,2026-11-05,Electronics,Table Lamp,442,PayPal,21,8,3536
+C1406,Customer 1406,51,Female,Miami,O2406,2026-11-06,Sports,Smartphone,1529,Net Banking,308,12,18348
+C1407,Customer 1407,26,Male,Los Angeles,O2407,2026-11-07,Beauty,Running Shoes,1008,PayPal,163,41,41328
+C1408,Customer 1408,43,Female,Houston,O2408,2026-11-08,Beauty,Running Shoes,109,Net Banking,97,38,4142
+C1409,Customer 1409,19,Male,Chicago,O2409,2026-11-09,Fashion,Lipstick,999,PayPal,307,26,25974
+C1410,Customer 1410,26,Female,Los Angeles,O2410,2026-11-10,Home Decor,Lipstick,608,Net Banking,339,2,1216
+C1411,Customer 1411,26,Female,New York,O2411,2026-11-11,Sports,Lipstick,412,Credit Card,55,40,16480
+C1412,Customer 1412,57,Male,New York,O2412,2026-11-12,Home Decor,Running Shoes,405,Credit Card,333,14,5670
+C1413,Customer 1413,34,Male,Miami,O2413,2026-11-13,Home Decor,Handbag,1560,Credit Card,127,6,9360
+C1414,Customer 1414,18,Female,Houston,O2414,2026-11-14,Sports,Running Shoes,424,Credit Card,193,42,17808
+C1415,Customer 1415,42,Female,Miami,O2415,2026-11-15,Beauty,Table Lamp,948,PayPal,243,40,37920
+C1416,Customer 1416,60,Male,Miami,O2416,2026-11-16,Sports,Running Shoes,1646,Debit Card,349,31,51026
+C1417,Customer 1417,57,Male,Miami,O2417,2026-11-17,Home Decor,Running Shoes,686,Net Banking,88,17,11662
+C1418,Customer 1418,59,Female,New York,O2418,2026-11-18,Beauty,Smartphone,472,Debit Card,336,25,11800
+C1419,Customer 1419,42,Male,New York,O2419,2026-11-19,Electronics,Smartphone,550,PayPal,215,32,17600
+C1420,Customer 1420,56,Female,Miami,O2420,2026-11-20,Sports,Smartphone,1659,PayPal,92,12,19908
+C1421,Customer 1421,52,Female,New York,O2421,2026-11-21,Sports,Running Shoes,1652,Debit Card,303,49,80948
+C1422,Customer 1422,20,Male,Houston,O2422,2026-11-22,Beauty,Handbag,1955,Debit Card,235,13,25415
+C1423,Customer 1423,54,Male,Miami,O2423,2026-11-23,Electronics,Table Lamp,1397,PayPal,184,19,26543
+C1424,Customer 1424,61,Male,New York,O2424,2026-11-24,Electronics,Table Lamp,1163,PayPal,38,44,51172
+C1425,Customer 1425,61,Male,Los Angeles,O2425,2026-11-25,Beauty,Handbag,93,Net Banking,139,48,4464
+C1426,Customer 1426,47,Male,Miami,O2426,2026-11-26,Fashion,Handbag,280,Credit Card,195,25,7000
+C1427,Customer 1427,55,Female,Miami,O2427,2026-11-27,Sports,Table Lamp,253,Credit Card,15,31,7843
+C1428,Customer 1428,51,Female,Houston,O2428,2026-11-28,Sports,Lipstick,397,Net Banking,257,37,14689
+C1429,Customer 1429,29,Male,Chicago,O2429,2026-11-29,Home Decor,Smartphone,223,Debit Card,135,25,5575
+C1430,Customer 1430,36,Male,Chicago,O2430,2026-11-30,Beauty,Smartphone,827,PayPal,1,16,13232
+C1431,Customer 1431,54,Male,Houston,O2431,2026-12-01,Home Decor,Table Lamp,1199,Debit Card,49,38,45562
+C1432,Customer 1432,61,Female,Houston,O2432,2026-12-02,Home Decor,Handbag,1824,Credit Card,96,43,78432
+C1433,Customer 1433,34,Male,Houston,O2433,2026-12-03,Electronics,Lipstick,68,Credit Card,201,49,3332
+C1434,Customer 1434,27,Male,Chicago,O2434,2026-12-04,Sports,Table Lamp,1635,Debit Card,26,23,37605
+C1435,Customer 1435,64,Female,Houston,O2435,2026-12-05,Home Decor,Smartphone,892,Credit Card,343,14,12488
+C1436,Customer 1436,29,Female,New York,O2436,2026-12-06,Electronics,Running Shoes,852,PayPal,235,6,5112
+C1437,Customer 1437,33,Male,Miami,O2437,2026-12-07,Beauty,Handbag,933,Net Banking,349,25,23325
+C1438,Customer 1438,41,Male,Miami,O2438,2026-12-08,Home Decor,Running Shoes,1537,Debit Card,244,23,35351
+C1439,Customer 1439,36,Male,Los Angeles,O2439,2026-12-09,Sports,Table Lamp,1739,PayPal,358,43,74777
+C1440,Customer 1440,25,Female,Los Angeles,O2440,2026-12-10,Home Decor,Smartphone,132,PayPal,327,12,1584
+C1441,Customer 1441,48,Male,Miami,O2441,2026-12-11,Beauty,Lipstick,1681,Credit Card,351,13,21853
+C1442,Customer 1442,38,Male,New York,O2442,2026-12-12,Home Decor,Running Shoes,1446,PayPal,51,36,52056
+C1443,Customer 1443,34,Male,Chicago,O2443,2026-12-13,Sports,Lipstick,1172,Debit Card,81,39,45708
+C1444,Customer 1444,40,Female,Chicago,O2444,2026-12-14,Electronics,Smartphone,1262,PayPal,36,34,42908
+C1445,Customer 1445,54,Female,New York,O2445,2026-12-15,Sports,Running Shoes,1307,Net Banking,67,6,7842
+C1446,Customer 1446,33,Male,Chicago,O2446,2026-12-16,Electronics,Lipstick,448,PayPal,129,38,17024
+C1447,Customer 1447,23,Male,Houston,O2447,2026-12-17,Fashion,Lipstick,1031,PayPal,155,40,41240
+C1448,Customer 1448,25,Female,Miami,O2448,2026-12-18,Sports,Running Shoes,571,Net Banking,245,8,4568
+C1449,Customer 1449,42,Female,Miami,O2449,2026-12-19,Sports,Smartphone,1943,PayPal,111,8,15544
+C1450,Customer 1450,35,Female,New York,O2450,2026-12-20,Beauty,Lipstick,127,PayPal,168,40,5080
+C1451,Customer 1451,42,Female,Chicago,O2451,2026-12-21,Home Decor,Table Lamp,1747,Credit Card,142,33,57651
+C1452,Customer 1452,29,Female,Los Angeles,O2452,2026-12-22,Electronics,Running Shoes,914,Debit Card,356,34,31076
+C1453,Customer 1453,32,Female,Los Angeles,O2453,2026-12-23,Electronics,Handbag,1516,Credit Card,197,44,66704
+C1454,Customer 1454,43,Female,Chicago,O2454,2026-12-24,Beauty,Handbag,404,Debit Card,109,15,6060
+C1455,Customer 1455,58,Female,Los Angeles,O2455,2026-12-25,Beauty,Smartphone,1736,Net Banking,79,36,62496
+C1456,Customer 1456,62,Female,New York,O2456,2026-12-26,Home Decor,Table Lamp,885,Net Banking,161,35,30975
+C1457,Customer 1457,43,Male,New York,O2457,2026-12-27,Home Decor,Lipstick,1493,Net Banking,19,46,68678
+C1458,Customer 1458,64,Male,Chicago,O2458,2026-12-28,Sports,Handbag,1868,Debit Card,127,22,41096
+C1459,Customer 1459,49,Male,Los Angeles,O2459,2026-12-29,Fashion,Smartphone,1726,Debit Card,205,23,39698
+C1460,Customer 1460,27,Female,New York,O2460,2026-12-30,Home Decor,Table Lamp,944,Debit Card,29,40,37760
+C1461,Customer 1461,33,Male,New York,O2461,2026-12-31,Beauty,Table Lamp,1111,Net Banking,207,45,49995
+C1462,Customer 1462,24,Female,Houston,O2462,2027-01-01,Home Decor,Smartphone,961,Debit Card,280,22,21142
+C1463,Customer 1463,34,Female,Houston,O2463,2027-01-02,Electronics,Smartphone,1445,PayPal,151,5,7225
+C1464,Customer 1464,40,Male,New York,O2464,2027-01-03,Fashion,Lipstick,84,Credit Card,240,31,2604
+C1465,Customer 1465,43,Female,Chicago,O2465,2027-01-04,Sports,Smartphone,304,Net Banking,266,13,3952
+C1466,Customer 1466,38,Male,Miami,O2466,2027-01-05,Electronics,Lipstick,1826,Credit Card,182,28,51128
+C1467,Customer 1467,39,Male,Miami,O2467,2027-01-06,Electronics,Lipstick,30,PayPal,105,20,600
+C1468,Customer 1468,24,Male,New York,O2468,2027-01-07,Fashion,Running Shoes,1939,Debit Card,236,33,63987
+C1469,Customer 1469,31,Female,New York,O2469,2027-01-08,Sports,Table Lamp,1204,Credit Card,173,16,19264
+C1470,Customer 1470,32,Male,New York,O2470,2027-01-09,Beauty,Table Lamp,1048,PayPal,158,29,30392
+C1471,Customer 1471,24,Female,Chicago,O2471,2027-01-10,Sports,Table Lamp,1244,PayPal,172,23,28612
+C1472,Customer 1472,26,Male,Houston,O2472,2027-01-11,Home Decor,Running Shoes,569,Credit Card,311,24,13656
+C1473,Customer 1473,25,Male,New York,O2473,2027-01-12,Electronics,Lipstick,1119,Net Banking,157,34,38046
+C1474,Customer 1474,40,Male,New York,O2474,2027-01-13,Home Decor,Lipstick,1182,Credit Card,258,7,8274
+C1475,Customer 1475,46,Female,Los Angeles,O2475,2027-01-14,Beauty,Smartphone,1733,Net Banking,164,38,65854
+C1476,Customer 1476,35,Female,Chicago,O2476,2027-01-15,Home Decor,Running Shoes,381,Debit Card,147,37,14097
+C1477,Customer 1477,48,Female,New York,O2477,2027-01-16,Sports,Smartphone,1513,Net Banking,154,4,6052
+C1478,Customer 1478,47,Male,Los Angeles,O2478,2027-01-17,Home Decor,Running Shoes,827,Debit Card,38,34,28118
+C1479,Customer 1479,56,Male,Miami,O2479,2027-01-18,Beauty,Smartphone,1184,Credit Card,131,42,49728
+C1480,Customer 1480,52,Female,New York,O2480,2027-01-19,Beauty,Handbag,1174,Debit Card,358,22,25828
+C1481,Customer 1481,35,Female,New York,O2481,2027-01-20,Beauty,Table Lamp,1102,PayPal,255,5,5510
+C1482,Customer 1482,59,Female,Los Angeles,O2482,2027-01-21,Sports,Table Lamp,1293,Debit Card,208,42,54306
+C1483,Customer 1483,56,Female,Chicago,O2483,2027-01-22,Beauty,Lipstick,855,Net Banking,95,23,19665
+C1484,Customer 1484,34,Female,New York,O2484,2027-01-23,Electronics,Handbag,530,Net Banking,348,15,7950
+C1485,Customer 1485,31,Female,Miami,O2485,2027-01-24,Beauty,Table Lamp,1666,Net Banking,327,31,51646
+C1486,Customer 1486,48,Male,New York,O2486,2027-01-25,Home Decor,Lipstick,380,Debit Card,171,9,3420
+C1487,Customer 1487,41,Female,Miami,O2487,2027-01-26,Home Decor,Handbag,1452,Net Banking,250,43,62436
+C1488,Customer 1488,52,Male,Houston,O2488,2027-01-27,Home Decor,Table Lamp,110,Net Banking,190,25,2750
+C1489,Customer 1489,61,Male,Houston,O2489,2027-01-28,Sports,Smartphone,670,PayPal,199,25,16750
+C1490,Customer 1490,62,Female,Miami,O2490,2027-01-29,Home Decor,Running Shoes,1987,Debit Card,221,49,97363
+C1491,Customer 1491,51,Female,Chicago,O2491,2027-01-30,Sports,Handbag,1691,PayPal,24,21,35511
+C1492,Customer 1492,20,Male,New York,O2492,2027-01-31,Sports,Lipstick,1898,Net Banking,244,9,17082
+C1493,Customer 1493,54,Female,New York,O2493,2027-02-01,Beauty,Handbag,977,Net Banking,324,48,46896
+C1494,Customer 1494,60,Female,Houston,O2494,2027-02-02,Electronics,Lipstick,252,Net Banking,128,38,9576
+C1495,Customer 1495,57,Male,Miami,O2495,2027-02-03,Beauty,Handbag,762,Debit Card,93,22,16764
+C1496,Customer 1496,43,Male,New York,O2496,2027-02-04,Beauty,Lipstick,521,Credit Card,300,43,22403
+C1497,Customer 1497,40,Male,New York,O2497,2027-02-05,Sports,Table Lamp,858,Net Banking,133,23,19734
+C1498,Customer 1498,61,Female,Chicago,O2498,2027-02-06,Sports,Smartphone,564,Net Banking,55,49,27636
+C1499,Customer 1499,56,Male,Los Angeles,O2499,2027-02-07,Home Decor,Table Lamp,1128,Net Banking,158,4,4512
+C1500,Customer 1500,32,Female,Houston,O2500,2027-02-08,Home Decor,Smartphone,235,Net Banking,29,29,6815
